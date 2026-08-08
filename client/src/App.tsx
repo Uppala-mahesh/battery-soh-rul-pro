@@ -8,6 +8,7 @@ import Home from "./pages/Home";
 
 // Voltwise / Instrument Greenroom: calm editorial industrialism with evidence-first hierarchy.
 function Router() {
+  // make sure to consider if you need authentication for certain routes
   return <Switch><Route path="/" component={Home} /><Route path="/404" component={NotFound} /><Route component={NotFound} /></Switch>;
 }
 

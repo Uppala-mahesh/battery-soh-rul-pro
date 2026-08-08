@@ -1,0 +1,1 @@
+ALTER TABLE `battery_profiles` ADD `lastSeenAt` timestamp;
