@@ -4,6 +4,7 @@ import { getSessionCookieOptions } from "./_core/cookies";
 import { systemRouter } from "./_core/systemRouter";
 import { protectedProcedure, publicProcedure, router } from "./_core/trpc";
 import { createInspection, createModelRun, createProfile, createSafetyAlert, getDb, listProfiles, openAlerts, recentTelemetry } from "./db";
+import { validateVoltwiseCsv } from "./dataset";
 
 const batteryProfileInput = z.object({
   packId: z.string().min(2).max(64), name: z.string().min(2).max(120), chemistry: z.string().min(2).max(64),
@@ -16,6 +17,9 @@ export const appRouter = router({
   auth: router({
     me: publicProcedure.query(opts => opts.ctx.user),
     logout: publicProcedure.mutation(({ ctx }) => { const cookieOptions = getSessionCookieOptions(ctx.req); ctx.res.clearCookie(COOKIE_NAME, { ...cookieOptions, maxAge: -1 }); return { success: true } as const; }),
+  }),
+  dataset: router({
+    previewImport: publicProcedure.input(z.object({ filename: z.string().max(160), content: z.string().max(5_000_000) })).mutation(({ input }) => validateVoltwiseCsv(input.content, input.filename)),
   }),
   monitoring: router({
     profiles: protectedProcedure.query(({ ctx }) => listProfiles(ctx.user.id)),

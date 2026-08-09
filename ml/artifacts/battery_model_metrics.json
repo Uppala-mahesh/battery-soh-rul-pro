@@ -1,0 +1,1872 @@
+{
+  "model_name": "Voltwise Gradient Boosting SoH Estimator",
+  "model_version": "dataset-file2-v2",
+  "source_filename": "file2.csv",
+  "trained_at_utc": "2026-08-09T13:22:04.041683+00:00",
+  "metrics": {
+    "validation": {
+      "mae_soh_points": 16.089863692999657,
+      "rmse_soh_points": 25.117488613291247,
+      "r2": 0.5822140091470641
+    },
+    "test": {
+      "mae_soh_points": 25.496725055154695,
+      "rmse_soh_points": 32.053298549789105,
+      "r2": 0.32485942466369955
+    },
+    "baseline_test": {
+      "mae_soh_points": 40.58084054866565,
+      "rmse_soh_points": 43.94137507531809,
+      "r2": -0.2688083815805604
+    },
+    "train_rows": 914,
+    "validation_rows": 211,
+    "test_rows": 282,
+    "capacity_reference_ah": 1.818968351264217,
+    "feature_columns": [
+      "Voltage_mean",
+      "Voltage_std",
+      "Current_mean",
+      "Current_std",
+      "Temperature_mean",
+      "Temperature_max",
+      "Discharge_time",
+      "Temperature_rise"
+    ],
+    "split": "chronological 65/15/20",
+    "label_definition": "SoH = Capacity / 98th percentile Capacity \u00d7 100, clipped to 0\u2013110; confirm reference capacity with battery manufacturer before deployment."
+  },
+  "summary": {
+    "latest_cycle": 1407,
+    "latest_predicted_soh": 64.91907734454632,
+    "recent_soh_slope_points_per_cycle": -0.06732985241499174,
+    "rul_likely_cycles": 0.0,
+    "rul_best_cycles": 0.0,
+    "rul_worst_cycles": 0.0,
+    "uncertainty_band_points": 19.712783061463746
+  },
+  "feature_importance": {
+    "Voltage_mean": 0.0006801199166889494,
+    "Voltage_std": 0.827762841238403,
+    "Current_mean": 0.02317283501303055,
+    "Current_std": 0.0275656929897813,
+    "Temperature_mean": 0.0002164358629246298,
+    "Temperature_max": 0.007165336518553512,
+    "Discharge_time": 0.06614078734222557,
+    "Temperature_rise": 0.04729595111839232
+  },
+  "data_quality": {
+    "rows_read": 1407,
+    "rows_used": 1407,
+    "rows_quarantined": 0,
+    "coverage_note": "No pack_id or timestamp in source; row order is treated as cycle order for MVP."
+  },
+  "assumptions": [
+    "Capacity is a label, not a confirmed rated-capacity field.",
+    "Units are not verified by the CSV.",
+    "RUL is a maintenance-planning interval, not a safety limit.",
+    "Profile-specific calibration requires battery metadata at inference time."
+  ],
+  "predictions": [
+    {
+      "cycle_id": 1228,
+      "soh": 3.1579,
+      "predicted_soh": 33.275,
+      "Temperature_mean": 7.638,
+      "Temperature_max": 9.4984,
+      "Current_mean": -0.2882,
+      "Discharge_time": 982.094,
+      "Temperature_rise": 4.671
+    },
+    {
+      "cycle_id": 1229,
+      "soh": 3.6906,
+      "predicted_soh": 33.275,
+      "Temperature_mean": 7.609,
+      "Temperature_max": 9.503,
+      "Current_mean": -0.2974,
+      "Discharge_time": 1063.609,
+      "Temperature_rise": 4.8559
+    },
+    {
+      "cycle_id": 1230,
+      "soh": 3.6915,
+      "predicted_soh": 35.6907,
+      "Temperature_mean": 7.0767,
+      "Temperature_max": 8.9795,
+      "Current_mean": -0.2973,
+      "Discharge_time": 1067.641,
+      "Temperature_rise": 2.8584
+    },
+    {
+      "cycle_id": 1231,
+      "soh": 3.701,
+      "predicted_soh": 35.6907,
+      "Temperature_mean": 7.2033,
+      "Temperature_max": 10.239,
+      "Current_mean": -0.3035,
+      "Discharge_time": 1048.687,
+      "Temperature_rise": 4.7758
+    },
+    {
+      "cycle_id": 1232,
+      "soh": 3.7296,
+      "predicted_soh": 33.9183,
+      "Temperature_mean": 7.5154,
+      "Temperature_max": 10.1208,
+      "Current_mean": -0.3067,
+      "Discharge_time": 1039.984,
+      "Temperature_rise": 4.8116
+    },
+    {
+      "cycle_id": 1233,
+      "soh": 3.7382,
+      "predicted_soh": 18.23,
+      "Temperature_mean": 8.285,
+      "Temperature_max": 10.1691,
+      "Current_mean": -0.4603,
+      "Discharge_time": 687.328,
+      "Temperature_rise": 4.7207
+    },
+    {
+      "cycle_id": 1234,
+      "soh": 3.7538,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 6.8571,
+      "Temperature_max": 7.982,
+      "Current_mean": -0.2635,
+      "Discharge_time": 1047.531,
+      "Temperature_rise": 3.745
+    },
+    {
+      "cycle_id": 1235,
+      "soh": 3.7629,
+      "predicted_soh": 35.6907,
+      "Temperature_mean": 7.3328,
+      "Temperature_max": 9.5068,
+      "Current_mean": -0.3098,
+      "Discharge_time": 1038.375,
+      "Temperature_rise": 3.428
+    },
+    {
+      "cycle_id": 1236,
+      "soh": 3.7666,
+      "predicted_soh": 33.9183,
+      "Temperature_mean": 7.0934,
+      "Temperature_max": 8.9472,
+      "Current_mean": -0.3136,
+      "Discharge_time": 1030.703,
+      "Temperature_rise": 2.7929
+    },
+    {
+      "cycle_id": 1237,
+      "soh": 3.7864,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 7.1921,
+      "Temperature_max": 9.0486,
+      "Current_mean": -0.2751,
+      "Discharge_time": 1010.765,
+      "Temperature_rise": 4.6603
+    },
+    {
+      "cycle_id": 1238,
+      "soh": 3.1086,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 7.0208,
+      "Temperature_max": 8.2148,
+      "Current_mean": -0.2717,
+      "Discharge_time": 1025.719,
+      "Temperature_rise": 4.1421
+    },
+    {
+      "cycle_id": 1239,
+      "soh": 3.8034,
+      "predicted_soh": 33.275,
+      "Temperature_mean": 7.1608,
+      "Temperature_max": 9.473,
+      "Current_mean": -0.3202,
+      "Discharge_time": 1016.859,
+      "Temperature_rise": 3.342
+    },
+    {
+      "cycle_id": 1240,
+      "soh": 3.2503,
+      "predicted_soh": 36.0142,
+      "Temperature_mean": 7.1258,
+      "Temperature_max": 9.4472,
+      "Current_mean": -0.2848,
+      "Discharge_time": 1021.079,
+      "Temperature_rise": 5.1176
+    },
+    {
+      "cycle_id": 1241,
+      "soh": 3.8242,
+      "predicted_soh": 31.5707,
+      "Temperature_mean": 7.2762,
+      "Temperature_max": 10.6247,
+      "Current_mean": -0.3239,
+      "Discharge_time": 1010.562,
+      "Temperature_rise": 4.6933
+    },
+    {
+      "cycle_id": 1242,
+      "soh": 3.8582,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 7.0723,
+      "Temperature_max": 9.29,
+      "Current_mean": -0.2818,
+      "Discharge_time": 1003.313,
+      "Temperature_rise": 4.7361
+    },
+    {
+      "cycle_id": 1243,
+      "soh": 3.8638,
+      "predicted_soh": 31.5707,
+      "Temperature_mean": 7.2117,
+      "Temperature_max": 10.405,
+      "Current_mean": -0.3276,
+      "Discharge_time": 1006.187,
+      "Temperature_rise": 4.3605
+    },
+    {
+      "cycle_id": 1244,
+      "soh": 3.1817,
+      "predicted_soh": 36.0142,
+      "Temperature_mean": 7.1268,
+      "Temperature_max": 9.27,
+      "Current_mean": -0.2846,
+      "Discharge_time": 996.765,
+      "Temperature_rise": 4.9055
+    },
+    {
+      "cycle_id": 1245,
+      "soh": 3.8795,
+      "predicted_soh": 31.5707,
+      "Temperature_mean": 7.1682,
+      "Temperature_max": 10.6964,
+      "Current_mean": -0.3314,
+      "Discharge_time": 999.422,
+      "Temperature_rise": 4.6193
+    },
+    {
+      "cycle_id": 1246,
+      "soh": 3.188,
+      "predicted_soh": 35.6907,
+      "Temperature_mean": 7.4341,
+      "Temperature_max": 8.8411,
+      "Current_mean": -0.2884,
+      "Discharge_time": 990.234,
+      "Temperature_rise": 4.2873
+    },
+    {
+      "cycle_id": 1247,
+      "soh": 3.9194,
+      "predicted_soh": 18.4349,
+      "Temperature_mean": 7.931,
+      "Temperature_max": 9.6018,
+      "Current_mean": -0.4626,
+      "Discharge_time": 608.953,
+      "Temperature_rise": 4.1865
+    },
+    {
+      "cycle_id": 1248,
+      "soh": 3.9289,
+      "predicted_soh": 18.4349,
+      "Temperature_mean": 7.5933,
+      "Temperature_max": 9.7759,
+      "Current_mean": -0.4811,
+      "Discharge_time": 586.719,
+      "Temperature_rise": 4.3518
+    },
+    {
+      "cycle_id": 1249,
+      "soh": 3.9377,
+      "predicted_soh": 18.4349,
+      "Temperature_mean": 7.6207,
+      "Temperature_max": 9.7751,
+      "Current_mean": -0.4906,
+      "Discharge_time": 575.922,
+      "Temperature_rise": 4.426
+    },
+    {
+      "cycle_id": 1250,
+      "soh": 3.9542,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 6.8823,
+      "Temperature_max": 7.9531,
+      "Current_mean": -0.2753,
+      "Discharge_time": 1050.406,
+      "Temperature_rise": 3.4785
+    },
+    {
+      "cycle_id": 1251,
+      "soh": 3.2348,
+      "predicted_soh": 35.6907,
+      "Temperature_mean": 7.3352,
+      "Temperature_max": 8.7038,
+      "Current_mean": -0.2784,
+      "Discharge_time": 1040.75,
+      "Temperature_rise": 4.5499
+    },
+    {
+      "cycle_id": 1252,
+      "soh": 3.9659,
+      "predicted_soh": 31.5707,
+      "Temperature_mean": 7.3668,
+      "Temperature_max": 10.8619,
+      "Current_mean": -0.3315,
+      "Discharge_time": 1019.125,
+      "Temperature_rise": 4.8464
+    },
+    {
+      "cycle_id": 1253,
+      "soh": 3.9758,
+      "predicted_soh": 18.4349,
+      "Temperature_mean": 7.9937,
+      "Temperature_max": 9.6288,
+      "Current_mean": -0.4626,
+      "Discharge_time": 618.844,
+      "Temperature_rise": 4.1093
+    },
+    {
+      "cycle_id": 1254,
+      "soh": 3.2646,
+      "predicted_soh": 35.6907,
+      "Temperature_mean": 7.2965,
+      "Temperature_max": 8.7401,
+      "Current_mean": -0.2816,
+      "Discharge_time": 1039.547,
+      "Temperature_rise": 4.6879
+    },
+    {
+      "cycle_id": 1255,
+      "soh": 4.0102,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 6.9463,
+      "Temperature_max": 9.8908,
+      "Current_mean": -0.2916,
+      "Discharge_time": 1004.328,
+      "Temperature_rise": 3.8855
+    },
+    {
+      "cycle_id": 1256,
+      "soh": 4.0171,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 6.9026,
+      "Temperature_max": 8.1236,
+      "Current_mean": -0.2912,
+      "Discharge_time": 1005.75,
+      "Temperature_rise": 2.6906
+    },
+    {
+      "cycle_id": 1257,
+      "soh": 4.0226,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 6.8962,
+      "Temperature_max": 9.5404,
+      "Current_mean": -0.2949,
+      "Discharge_time": 995.797,
+      "Temperature_rise": 3.5054
+    },
+    {
+      "cycle_id": 1258,
+      "soh": 4.0393,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 7.0356,
+      "Temperature_max": 8.6898,
+      "Current_mean": -0.2952,
+      "Discharge_time": 998.921,
+      "Temperature_rise": 2.5154
+    },
+    {
+      "cycle_id": 1259,
+      "soh": 3.3045,
+      "predicted_soh": 35.6907,
+      "Temperature_mean": 7.2244,
+      "Temperature_max": 8.6481,
+      "Current_mean": -0.299,
+      "Discharge_time": 989.141,
+      "Temperature_rise": 4.5474
+    },
+    {
+      "cycle_id": 1260,
+      "soh": 4.059,
+      "predicted_soh": 35.6907,
+      "Temperature_mean": 6.99,
+      "Temperature_max": 8.7667,
+      "Current_mean": -0.3025,
+      "Discharge_time": 979.203,
+      "Temperature_rise": 2.6189
+    },
+    {
+      "cycle_id": 1261,
+      "soh": 3.3258,
+      "predicted_soh": 35.6907,
+      "Temperature_mean": 7.0728,
+      "Temperature_max": 8.6973,
+      "Current_mean": -0.299,
+      "Discharge_time": 994.031,
+      "Temperature_rise": 2.5251
+    },
+    {
+      "cycle_id": 1262,
+      "soh": 3.3318,
+      "predicted_soh": 35.6907,
+      "Temperature_mean": 7.1521,
+      "Temperature_max": 10.0977,
+      "Current_mean": -0.3062,
+      "Discharge_time": 971.516,
+      "Temperature_rise": 4.1422
+    },
+    {
+      "cycle_id": 1263,
+      "soh": 3.3389,
+      "predicted_soh": 31.5707,
+      "Temperature_mean": 7.4024,
+      "Temperature_max": 10.0819,
+      "Current_mean": -0.3657,
+      "Discharge_time": 810.563,
+      "Temperature_rise": 4.148
+    },
+    {
+      "cycle_id": 1264,
+      "soh": 3.3534,
+      "predicted_soh": 18.23,
+      "Temperature_mean": 8.2817,
+      "Temperature_max": 9.8674,
+      "Current_mean": -0.4905,
+      "Discharge_time": 599.047,
+      "Temperature_rise": 4.2046
+    },
+    {
+      "cycle_id": 1265,
+      "soh": 3.3607,
+      "predicted_soh": 66.6568,
+      "Temperature_mean": 5.9902,
+      "Temperature_max": 8.6682,
+      "Current_mean": -2.3863,
+      "Discharge_time": 109.078,
+      "Temperature_rise": 4.3698
+    },
+    {
+      "cycle_id": 1266,
+      "soh": 3.3696,
+      "predicted_soh": 66.6568,
+      "Temperature_mean": 6.4435,
+      "Temperature_max": 8.2302,
+      "Current_mean": -2.387,
+      "Discharge_time": 109.171,
+      "Temperature_rise": 2.7945
+    },
+    {
+      "cycle_id": 1267,
+      "soh": 3.3702,
+      "predicted_soh": 61.17,
+      "Temperature_mean": 5.805,
+      "Temperature_max": 8.3474,
+      "Current_mean": -2.6498,
+      "Discharge_time": 96.484,
+      "Temperature_rise": 3.9036
+    },
+    {
+      "cycle_id": 1268,
+      "soh": 3.3619,
+      "predicted_soh": 66.6568,
+      "Temperature_mean": 7.0646,
+      "Temperature_max": 9.567,
+      "Current_mean": -2.387,
+      "Discharge_time": 109.094,
+      "Temperature_rise": 4.0082
+    },
+    {
+      "cycle_id": 1269,
+      "soh": 3.3758,
+      "predicted_soh": 66.6568,
+      "Temperature_mean": 4.8578,
+      "Temperature_max": 7.1556,
+      "Current_mean": -2.2099,
+      "Discharge_time": 96.906,
+      "Temperature_rise": 3.7801
+    },
+    {
+      "cycle_id": 1270,
+      "soh": 3.3952,
+      "predicted_soh": 61.17,
+      "Temperature_mean": 6.3651,
+      "Temperature_max": 8.8491,
+      "Current_mean": -2.6516,
+      "Discharge_time": 97.015,
+      "Temperature_rise": 3.8235
+    },
+    {
+      "cycle_id": 1271,
+      "soh": 83.8434,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.7849,
+      "Temperature_max": 11.0592,
+      "Current_mean": -0.9908,
+      "Discharge_time": 5608.781,
+      "Temperature_rise": 6.2268
+    },
+    {
+      "cycle_id": 1272,
+      "soh": 85.3544,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.6773,
+      "Temperature_max": 10.4648,
+      "Current_mean": -0.9918,
+      "Discharge_time": 5703.296,
+      "Temperature_rise": 6.1321
+    },
+    {
+      "cycle_id": 1273,
+      "soh": 84.8159,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.7204,
+      "Temperature_max": 11.1178,
+      "Current_mean": -0.9917,
+      "Discharge_time": 5668.032,
+      "Temperature_rise": 5.6005
+    },
+    {
+      "cycle_id": 1274,
+      "soh": 84.2892,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.795,
+      "Temperature_max": 11.4659,
+      "Current_mean": -0.9916,
+      "Discharge_time": 5634.047,
+      "Temperature_rise": 6.1752
+    },
+    {
+      "cycle_id": 1275,
+      "soh": 83.3039,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.802,
+      "Temperature_max": 10.6724,
+      "Current_mean": -0.9893,
+      "Discharge_time": 5582.375,
+      "Temperature_rise": 6.7305
+    },
+    {
+      "cycle_id": 1276,
+      "soh": 82.8766,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.8854,
+      "Temperature_max": 11.5532,
+      "Current_mean": -0.987,
+      "Discharge_time": 5567.329,
+      "Temperature_rise": 6.1489
+    },
+    {
+      "cycle_id": 1277,
+      "soh": 81.8942,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.8656,
+      "Temperature_max": 10.6782,
+      "Current_mean": -0.9825,
+      "Discharge_time": 5528.453,
+      "Temperature_rise": 6.6661
+    },
+    {
+      "cycle_id": 1278,
+      "soh": 81.2591,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.8409,
+      "Temperature_max": 10.6789,
+      "Current_mean": -0.9801,
+      "Discharge_time": 5513.39,
+      "Temperature_rise": 5.8711
+    },
+    {
+      "cycle_id": 1279,
+      "soh": 80.8152,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.8661,
+      "Temperature_max": 11.2495,
+      "Current_mean": -0.9775,
+      "Discharge_time": 5486.187,
+      "Temperature_rise": 7.4973
+    },
+    {
+      "cycle_id": 1280,
+      "soh": 80.0763,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.9393,
+      "Temperature_max": 11.6375,
+      "Current_mean": -0.9753,
+      "Discharge_time": 5461.922,
+      "Temperature_rise": 6.7705
+    },
+    {
+      "cycle_id": 1281,
+      "soh": 79.4943,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 8.0204,
+      "Temperature_max": 11.7975,
+      "Current_mean": -0.9704,
+      "Discharge_time": 5438.157,
+      "Temperature_rise": 6.7383
+    },
+    {
+      "cycle_id": 1282,
+      "soh": 78.7581,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.9093,
+      "Temperature_max": 11.7173,
+      "Current_mean": -0.9703,
+      "Discharge_time": 5402.875,
+      "Temperature_rise": 7.9729
+    },
+    {
+      "cycle_id": 1283,
+      "soh": 78.0516,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.9765,
+      "Temperature_max": 11.4001,
+      "Current_mean": -0.9652,
+      "Discharge_time": 5384.438,
+      "Temperature_rise": 6.2302
+    },
+    {
+      "cycle_id": 1284,
+      "soh": 77.0361,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.9752,
+      "Temperature_max": 11.2741,
+      "Current_mean": -0.9624,
+      "Discharge_time": 5344.859,
+      "Temperature_rise": 5.9434
+    },
+    {
+      "cycle_id": 1285,
+      "soh": 76.2132,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.9193,
+      "Temperature_max": 10.9392,
+      "Current_mean": -0.9596,
+      "Discharge_time": 5305.156,
+      "Temperature_rise": 5.8498
+    },
+    {
+      "cycle_id": 1286,
+      "soh": 76.0942,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 8.0878,
+      "Temperature_max": 11.4693,
+      "Current_mean": -0.957,
+      "Discharge_time": 5284.547,
+      "Temperature_rise": 6.5528
+    },
+    {
+      "cycle_id": 1287,
+      "soh": 75.0521,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 8.0226,
+      "Temperature_max": 11.0768,
+      "Current_mean": -0.9522,
+      "Discharge_time": 5267.843,
+      "Temperature_rise": 6.0356
+    },
+    {
+      "cycle_id": 1288,
+      "soh": 74.8506,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 8.1295,
+      "Temperature_max": 11.2616,
+      "Current_mean": -0.9541,
+      "Discharge_time": 5229.688,
+      "Temperature_rise": 6.1021
+    },
+    {
+      "cycle_id": 1289,
+      "soh": 74.273,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 8.0897,
+      "Temperature_max": 11.577,
+      "Current_mean": -0.9513,
+      "Discharge_time": 5206.954,
+      "Temperature_rise": 6.7145
+    },
+    {
+      "cycle_id": 1290,
+      "soh": 73.0226,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 8.1444,
+      "Temperature_max": 11.164,
+      "Current_mean": -0.9432,
+      "Discharge_time": 5179.062,
+      "Temperature_rise": 5.4796
+    },
+    {
+      "cycle_id": 1291,
+      "soh": 72.8831,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 8.232,
+      "Temperature_max": 11.989,
+      "Current_mean": -0.9478,
+      "Discharge_time": 5144.109,
+      "Temperature_rise": 7.852
+    },
+    {
+      "cycle_id": 1292,
+      "soh": 72.2547,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 8.2075,
+      "Temperature_max": 11.7352,
+      "Current_mean": -0.9403,
+      "Discharge_time": 5142.891,
+      "Temperature_rise": 7.1938
+    },
+    {
+      "cycle_id": 1293,
+      "soh": 71.487,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 8.1893,
+      "Temperature_max": 11.2991,
+      "Current_mean": -0.9373,
+      "Discharge_time": 5109.734,
+      "Temperature_rise": 6.2364
+    },
+    {
+      "cycle_id": 1294,
+      "soh": 70.8153,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 8.1395,
+      "Temperature_max": 11.3769,
+      "Current_mean": -0.934,
+      "Discharge_time": 5078.937,
+      "Temperature_rise": 6.4387
+    },
+    {
+      "cycle_id": 1295,
+      "soh": 70.1925,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 8.1139,
+      "Temperature_max": 11.4888,
+      "Current_mean": -0.9308,
+      "Discharge_time": 5051.672,
+      "Temperature_rise": 7.1822
+    },
+    {
+      "cycle_id": 1296,
+      "soh": 92.7188,
+      "predicted_soh": 96.2274,
+      "Temperature_mean": 32.0833,
+      "Temperature_max": 37.78,
+      "Current_mean": -1.8098,
+      "Discharge_time": 3360.922,
+      "Temperature_rise": 14.8818
+    },
+    {
+      "cycle_id": 1297,
+      "soh": 91.3958,
+      "predicted_soh": 96.2274,
+      "Temperature_mean": 31.4429,
+      "Temperature_max": 37.3792,
+      "Current_mean": -1.8219,
+      "Discharge_time": 3289.406,
+      "Temperature_rise": 14.8941
+    },
+    {
+      "cycle_id": 1298,
+      "soh": 90.8977,
+      "predicted_soh": 96.2274,
+      "Temperature_mean": 31.1499,
+      "Temperature_max": 37.1591,
+      "Current_mean": -1.8359,
+      "Discharge_time": 3244.797,
+      "Temperature_rise": 14.919
+    },
+    {
+      "cycle_id": 1299,
+      "soh": 90.4477,
+      "predicted_soh": 95.8405,
+      "Temperature_mean": 31.1295,
+      "Temperature_max": 37.1209,
+      "Current_mean": -1.8455,
+      "Discharge_time": 3211.438,
+      "Temperature_rise": 14.9714
+    },
+    {
+      "cycle_id": 1300,
+      "soh": 89.9226,
+      "predicted_soh": 95.0939,
+      "Temperature_mean": 31.514,
+      "Temperature_max": 37.7083,
+      "Current_mean": -1.8547,
+      "Discharge_time": 3175.594,
+      "Temperature_rise": 15.1901
+    },
+    {
+      "cycle_id": 1301,
+      "soh": 0.0,
+      "predicted_soh": 90.4905,
+      "Temperature_mean": 30.9573,
+      "Temperature_max": 35.5995,
+      "Current_mean": -1.9789,
+      "Discharge_time": 2646.625,
+      "Temperature_rise": 12.4881
+    },
+    {
+      "cycle_id": 1302,
+      "soh": 89.434,
+      "predicted_soh": 93.9926,
+      "Temperature_mean": 31.6348,
+      "Temperature_max": 37.6496,
+      "Current_mean": -1.8756,
+      "Discharge_time": 3121.672,
+      "Temperature_rise": 14.5419
+    },
+    {
+      "cycle_id": 1303,
+      "soh": 88.84,
+      "predicted_soh": 93.5884,
+      "Temperature_mean": 31.2737,
+      "Temperature_max": 37.1434,
+      "Current_mean": -1.8741,
+      "Discharge_time": 3102.937,
+      "Temperature_rise": 14.4773
+    },
+    {
+      "cycle_id": 1304,
+      "soh": 88.3799,
+      "predicted_soh": 93.2632,
+      "Temperature_mean": 31.0514,
+      "Temperature_max": 37.1195,
+      "Current_mean": -1.873,
+      "Discharge_time": 3089.437,
+      "Temperature_rise": 14.7576
+    },
+    {
+      "cycle_id": 1305,
+      "soh": 87.9804,
+      "predicted_soh": 93.2632,
+      "Temperature_mean": 30.8253,
+      "Temperature_max": 36.8278,
+      "Current_mean": -1.8719,
+      "Discharge_time": 3077.75,
+      "Temperature_rise": 14.7201
+    },
+    {
+      "cycle_id": 1306,
+      "soh": 87.8449,
+      "predicted_soh": 93.2632,
+      "Temperature_mean": 30.7723,
+      "Temperature_max": 37.0736,
+      "Current_mean": -1.8711,
+      "Discharge_time": 3074.875,
+      "Temperature_rise": 15.0787
+    },
+    {
+      "cycle_id": 1307,
+      "soh": 87.4139,
+      "predicted_soh": 92.5171,
+      "Temperature_mean": 30.7779,
+      "Temperature_max": 37.2734,
+      "Current_mean": -1.8699,
+      "Discharge_time": 3061.891,
+      "Temperature_rise": 15.2599
+    },
+    {
+      "cycle_id": 1308,
+      "soh": 86.9521,
+      "predicted_soh": 92.5171,
+      "Temperature_mean": 30.7341,
+      "Temperature_max": 36.9256,
+      "Current_mean": -1.8625,
+      "Discharge_time": 3058.469,
+      "Temperature_rise": 14.943
+    },
+    {
+      "cycle_id": 1309,
+      "soh": 86.3927,
+      "predicted_soh": 92.5171,
+      "Temperature_mean": 30.7119,
+      "Temperature_max": 36.8254,
+      "Current_mean": -1.8611,
+      "Discharge_time": 3040.75,
+      "Temperature_rise": 14.8593
+    },
+    {
+      "cycle_id": 1310,
+      "soh": 85.94,
+      "predicted_soh": 92.5171,
+      "Temperature_mean": 30.6922,
+      "Temperature_max": 36.864,
+      "Current_mean": -1.8535,
+      "Discharge_time": 3037.641,
+      "Temperature_rise": 14.926
+    },
+    {
+      "cycle_id": 1311,
+      "soh": 85.8001,
+      "predicted_soh": 92.5171,
+      "Temperature_mean": 30.6567,
+      "Temperature_max": 36.8545,
+      "Current_mean": -1.8464,
+      "Discharge_time": 3044.828,
+      "Temperature_rise": 15.0273
+    },
+    {
+      "cycle_id": 1312,
+      "soh": 85.3445,
+      "predicted_soh": 92.306,
+      "Temperature_mean": 30.6777,
+      "Temperature_max": 37.0081,
+      "Current_mean": -1.845,
+      "Discharge_time": 3030.25,
+      "Temperature_rise": 15.1332
+    },
+    {
+      "cycle_id": 1313,
+      "soh": 84.9085,
+      "predicted_soh": 92.053,
+      "Temperature_mean": 30.6704,
+      "Temperature_max": 36.8569,
+      "Current_mean": -1.8438,
+      "Discharge_time": 3017.578,
+      "Temperature_rise": 14.9597
+    },
+    {
+      "cycle_id": 1314,
+      "soh": 84.4742,
+      "predicted_soh": 91.5341,
+      "Temperature_mean": 30.6959,
+      "Temperature_max": 36.934,
+      "Current_mean": -1.8359,
+      "Discharge_time": 3015.0,
+      "Temperature_rise": 15.0836
+    },
+    {
+      "cycle_id": 1315,
+      "soh": 84.1535,
+      "predicted_soh": 91.5341,
+      "Temperature_mean": 30.6936,
+      "Temperature_max": 36.9695,
+      "Current_mean": -1.8379,
+      "Discharge_time": 2999.454,
+      "Temperature_rise": 15.0888
+    },
+    {
+      "cycle_id": 1316,
+      "soh": 84.9516,
+      "predicted_soh": 92.5171,
+      "Temperature_mean": 31.3318,
+      "Temperature_max": 37.8803,
+      "Current_mean": -1.8224,
+      "Discharge_time": 3054.859,
+      "Temperature_rise": 15.7508
+    },
+    {
+      "cycle_id": 1317,
+      "soh": 84.6477,
+      "predicted_soh": 92.5171,
+      "Temperature_mean": 32.0031,
+      "Temperature_max": 38.4338,
+      "Current_mean": -1.8278,
+      "Discharge_time": 3034.875,
+      "Temperature_rise": 15.4802
+    },
+    {
+      "cycle_id": 1318,
+      "soh": 84.1431,
+      "predicted_soh": 92.306,
+      "Temperature_mean": 32.2291,
+      "Temperature_max": 38.6253,
+      "Current_mean": -1.8199,
+      "Discharge_time": 3030.0,
+      "Temperature_rise": 15.3836
+    },
+    {
+      "cycle_id": 1319,
+      "soh": 83.5624,
+      "predicted_soh": 91.5341,
+      "Temperature_mean": 32.116,
+      "Temperature_max": 38.542,
+      "Current_mean": -1.8182,
+      "Discharge_time": 3011.781,
+      "Temperature_rise": 15.406
+    },
+    {
+      "cycle_id": 1320,
+      "soh": 83.2155,
+      "predicted_soh": 91.5341,
+      "Temperature_mean": 31.9691,
+      "Temperature_max": 38.5012,
+      "Current_mean": -1.8234,
+      "Discharge_time": 2990.25,
+      "Temperature_rise": 15.5648
+    },
+    {
+      "cycle_id": 1321,
+      "soh": 82.5351,
+      "predicted_soh": 90.8179,
+      "Temperature_mean": 31.8747,
+      "Temperature_max": 38.4338,
+      "Current_mean": -1.8148,
+      "Discharge_time": 2980.234,
+      "Temperature_rise": 15.6633
+    },
+    {
+      "cycle_id": 1322,
+      "soh": 82.5953,
+      "predicted_soh": 91.5341,
+      "Temperature_mean": 32.2433,
+      "Temperature_max": 38.7047,
+      "Current_mean": -1.8076,
+      "Discharge_time": 2994.844,
+      "Temperature_rise": 15.5836
+    },
+    {
+      "cycle_id": 1323,
+      "soh": 82.3596,
+      "predicted_soh": 90.8179,
+      "Temperature_mean": 32.6219,
+      "Temperature_max": 39.1319,
+      "Current_mean": -1.8065,
+      "Discharge_time": 2987.672,
+      "Temperature_rise": 15.5555
+    },
+    {
+      "cycle_id": 1324,
+      "soh": 81.9505,
+      "predicted_soh": 90.8179,
+      "Temperature_mean": 32.5347,
+      "Temperature_max": 39.0612,
+      "Current_mean": -1.8052,
+      "Discharge_time": 2975.11,
+      "Temperature_rise": 15.5558
+    },
+    {
+      "cycle_id": 1325,
+      "soh": 81.6065,
+      "predicted_soh": 90.5693,
+      "Temperature_mean": 32.3151,
+      "Temperature_max": 38.9009,
+      "Current_mean": -1.8106,
+      "Discharge_time": 2953.219,
+      "Temperature_rise": 15.6405
+    },
+    {
+      "cycle_id": 1326,
+      "soh": 80.9543,
+      "predicted_soh": 90.6166,
+      "Temperature_mean": 32.1123,
+      "Temperature_max": 38.6375,
+      "Current_mean": -1.7951,
+      "Discharge_time": 2955.484,
+      "Temperature_rise": 15.6608
+    },
+    {
+      "cycle_id": 1327,
+      "soh": 80.6124,
+      "predicted_soh": 90.6166,
+      "Temperature_mean": 31.7443,
+      "Temperature_max": 38.1461,
+      "Current_mean": -1.787,
+      "Discharge_time": 2957.016,
+      "Temperature_rise": 15.3655
+    },
+    {
+      "cycle_id": 1328,
+      "soh": 80.6572,
+      "predicted_soh": 90.5693,
+      "Temperature_mean": 32.1135,
+      "Temperature_max": 38.4102,
+      "Current_mean": -1.7928,
+      "Discharge_time": 2948.219,
+      "Temperature_rise": 15.1927
+    },
+    {
+      "cycle_id": 1329,
+      "soh": 80.2315,
+      "predicted_soh": 90.5693,
+      "Temperature_mean": 32.048,
+      "Temperature_max": 38.3429,
+      "Current_mean": -1.7914,
+      "Discharge_time": 2935.5,
+      "Temperature_rise": 15.0466
+    },
+    {
+      "cycle_id": 1330,
+      "soh": 79.539,
+      "predicted_soh": 90.4932,
+      "Temperature_mean": 31.708,
+      "Temperature_max": 37.9773,
+      "Current_mean": -1.7891,
+      "Discharge_time": 2913.797,
+      "Temperature_rise": 15.0629
+    },
+    {
+      "cycle_id": 1331,
+      "soh": 79.1145,
+      "predicted_soh": 90.4932,
+      "Temperature_mean": 31.4672,
+      "Temperature_max": 37.7971,
+      "Current_mean": -1.7877,
+      "Discharge_time": 2900.703,
+      "Temperature_rise": 15.1996
+    },
+    {
+      "cycle_id": 1332,
+      "soh": 79.1102,
+      "predicted_soh": 90.4932,
+      "Temperature_mean": 31.5605,
+      "Temperature_max": 37.9356,
+      "Current_mean": -1.7798,
+      "Discharge_time": 2914.031,
+      "Temperature_rise": 15.5723
+    },
+    {
+      "cycle_id": 1333,
+      "soh": 79.0899,
+      "predicted_soh": 90.4932,
+      "Temperature_mean": 31.8877,
+      "Temperature_max": 38.3255,
+      "Current_mean": -1.7861,
+      "Discharge_time": 2901.968,
+      "Temperature_rise": 15.4963
+    },
+    {
+      "cycle_id": 1334,
+      "soh": 78.6897,
+      "predicted_soh": 90.4932,
+      "Temperature_mean": 32.1648,
+      "Temperature_max": 38.5561,
+      "Current_mean": -1.7774,
+      "Discharge_time": 2901.734,
+      "Temperature_rise": 15.3323
+    },
+    {
+      "cycle_id": 1335,
+      "soh": 78.2297,
+      "predicted_soh": 90.4932,
+      "Temperature_mean": 32.133,
+      "Temperature_max": 38.6217,
+      "Current_mean": -1.7758,
+      "Discharge_time": 2887.407,
+      "Temperature_rise": 15.4054
+    },
+    {
+      "cycle_id": 1336,
+      "soh": 77.7922,
+      "predicted_soh": 90.4932,
+      "Temperature_mean": 31.7513,
+      "Temperature_max": 38.188,
+      "Current_mean": -1.7811,
+      "Discharge_time": 2861.937,
+      "Temperature_rise": 15.3346
+    },
+    {
+      "cycle_id": 1337,
+      "soh": 3.1456,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 7.0571,
+      "Temperature_max": 9.7575,
+      "Current_mean": -0.2188,
+      "Discharge_time": 1055.25,
+      "Temperature_rise": 4.9095
+    },
+    {
+      "cycle_id": 1338,
+      "soh": 3.1534,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 6.9451,
+      "Temperature_max": 9.7605,
+      "Current_mean": -0.2292,
+      "Discharge_time": 1012.187,
+      "Temperature_rise": 4.1148
+    },
+    {
+      "cycle_id": 1339,
+      "soh": 3.161,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 6.9692,
+      "Temperature_max": 9.6982,
+      "Current_mean": -0.2346,
+      "Discharge_time": 991.172,
+      "Temperature_rise": 3.3137
+    },
+    {
+      "cycle_id": 1340,
+      "soh": 3.1683,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 7.1321,
+      "Temperature_max": 9.0011,
+      "Current_mean": -0.2376,
+      "Discharge_time": 982.094,
+      "Temperature_rise": 4.2034
+    },
+    {
+      "cycle_id": 1341,
+      "soh": 3.0301,
+      "predicted_soh": 44.7298,
+      "Temperature_mean": 6.9052,
+      "Temperature_max": 8.4468,
+      "Current_mean": -0.21,
+      "Discharge_time": 1063.609,
+      "Temperature_rise": 3.8582
+    },
+    {
+      "cycle_id": 1342,
+      "soh": 3.7058,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 6.7196,
+      "Temperature_max": 9.0045,
+      "Current_mean": -0.2519,
+      "Discharge_time": 1067.641,
+      "Temperature_rise": 2.8227
+    },
+    {
+      "cycle_id": 1343,
+      "soh": 3.7146,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 6.7522,
+      "Temperature_max": 10.1084,
+      "Current_mean": -0.2572,
+      "Discharge_time": 1048.687,
+      "Temperature_rise": 5.7801
+    },
+    {
+      "cycle_id": 1344,
+      "soh": 3.0587,
+      "predicted_soh": 44.8293,
+      "Temperature_mean": 6.6829,
+      "Temperature_max": 9.0843,
+      "Current_mean": -0.2169,
+      "Discharge_time": 1039.984,
+      "Temperature_rise": 5.0324
+    },
+    {
+      "cycle_id": 1345,
+      "soh": 3.7507,
+      "predicted_soh": 22.8222,
+      "Temperature_mean": 7.8054,
+      "Temperature_max": 9.9733,
+      "Current_mean": -0.3925,
+      "Discharge_time": 687.328,
+      "Temperature_rise": 5.5385
+    },
+    {
+      "cycle_id": 1346,
+      "soh": 3.0816,
+      "predicted_soh": 44.7298,
+      "Temperature_mean": 6.4525,
+      "Temperature_max": 7.1306,
+      "Current_mean": -0.2168,
+      "Discharge_time": 1047.531,
+      "Temperature_rise": 3.4506
+    },
+    {
+      "cycle_id": 1347,
+      "soh": 3.7759,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 6.898,
+      "Temperature_max": 9.4203,
+      "Current_mean": -0.2627,
+      "Discharge_time": 1038.375,
+      "Temperature_rise": 3.0998
+    },
+    {
+      "cycle_id": 1348,
+      "soh": 3.7795,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 6.6431,
+      "Temperature_max": 8.5969,
+      "Current_mean": -0.2661,
+      "Discharge_time": 1030.703,
+      "Temperature_rise": 2.4009
+    },
+    {
+      "cycle_id": 1349,
+      "soh": 3.1069,
+      "predicted_soh": 44.3494,
+      "Temperature_mean": 6.8236,
+      "Temperature_max": 8.9142,
+      "Current_mean": -0.2265,
+      "Discharge_time": 1010.765,
+      "Temperature_rise": 5.3292
+    },
+    {
+      "cycle_id": 1350,
+      "soh": 3.119,
+      "predicted_soh": 43.2884,
+      "Temperature_mean": 6.6217,
+      "Temperature_max": 7.4681,
+      "Current_mean": -0.2243,
+      "Discharge_time": 1025.719,
+      "Temperature_rise": 3.8437
+    },
+    {
+      "cycle_id": 1351,
+      "soh": 3.8161,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 6.6542,
+      "Temperature_max": 9.3423,
+      "Current_mean": -0.2722,
+      "Discharge_time": 1016.859,
+      "Temperature_rise": 3.5998
+    },
+    {
+      "cycle_id": 1352,
+      "soh": 3.2611,
+      "predicted_soh": 43.2884,
+      "Temperature_mean": 6.691,
+      "Temperature_max": 9.2964,
+      "Current_mean": -0.2354,
+      "Discharge_time": 1021.079,
+      "Temperature_rise": 5.7878
+    },
+    {
+      "cycle_id": 1353,
+      "soh": 3.8383,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 6.7897,
+      "Temperature_max": 10.402,
+      "Current_mean": -0.2758,
+      "Discharge_time": 1010.562,
+      "Temperature_rise": 5.186
+    },
+    {
+      "cycle_id": 1354,
+      "soh": 3.1592,
+      "predicted_soh": 44.3494,
+      "Temperature_mean": 6.6526,
+      "Temperature_max": 9.1396,
+      "Current_mean": -0.2319,
+      "Discharge_time": 1003.313,
+      "Temperature_rise": 5.4348
+    },
+    {
+      "cycle_id": 1355,
+      "soh": 3.8779,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 6.7272,
+      "Temperature_max": 10.5779,
+      "Current_mean": -0.2784,
+      "Discharge_time": 1006.187,
+      "Temperature_rise": 5.0393
+    },
+    {
+      "cycle_id": 1356,
+      "soh": 3.1916,
+      "predicted_soh": 43.4718,
+      "Temperature_mean": 6.7047,
+      "Temperature_max": 9.1537,
+      "Current_mean": -0.2347,
+      "Discharge_time": 996.765,
+      "Temperature_rise": 5.7051
+    },
+    {
+      "cycle_id": 1357,
+      "soh": 3.8945,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 6.6881,
+      "Temperature_max": 10.6012,
+      "Current_mean": -0.2818,
+      "Discharge_time": 999.422,
+      "Temperature_rise": 5.3478
+    },
+    {
+      "cycle_id": 1358,
+      "soh": 3.1981,
+      "predicted_soh": 39.3675,
+      "Temperature_mean": 7.1353,
+      "Temperature_max": 8.5249,
+      "Current_mean": -0.2378,
+      "Discharge_time": 990.234,
+      "Temperature_rise": 3.8254
+    },
+    {
+      "cycle_id": 1359,
+      "soh": 3.2054,
+      "predicted_soh": 35.6907,
+      "Temperature_mean": 7.5142,
+      "Temperature_max": 9.4403,
+      "Current_mean": -0.384,
+      "Discharge_time": 608.953,
+      "Temperature_rise": 5.0202
+    },
+    {
+      "cycle_id": 1360,
+      "soh": 3.2137,
+      "predicted_soh": 35.6907,
+      "Temperature_mean": 7.1059,
+      "Temperature_max": 9.5771,
+      "Current_mean": -0.3991,
+      "Discharge_time": 586.719,
+      "Temperature_rise": 5.1573
+    },
+    {
+      "cycle_id": 1361,
+      "soh": 3.2232,
+      "predicted_soh": 35.6907,
+      "Temperature_mean": 7.1211,
+      "Temperature_max": 9.572,
+      "Current_mean": -0.4072,
+      "Discharge_time": 575.922,
+      "Temperature_rise": 5.2185
+    },
+    {
+      "cycle_id": 1362,
+      "soh": 3.2381,
+      "predicted_soh": 44.7298,
+      "Temperature_mean": 6.5258,
+      "Temperature_max": 7.1249,
+      "Current_mean": -0.2266,
+      "Discharge_time": 1050.406,
+      "Temperature_rise": 2.8396
+    },
+    {
+      "cycle_id": 1363,
+      "soh": 3.2472,
+      "predicted_soh": 43.2884,
+      "Temperature_mean": 7.0347,
+      "Temperature_max": 8.3242,
+      "Current_mean": -0.2292,
+      "Discharge_time": 1040.75,
+      "Temperature_rise": 4.1834
+    },
+    {
+      "cycle_id": 1364,
+      "soh": 3.9806,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 6.8974,
+      "Temperature_max": 10.6396,
+      "Current_mean": -0.2819,
+      "Discharge_time": 1019.125,
+      "Temperature_rise": 5.3129
+    },
+    {
+      "cycle_id": 1365,
+      "soh": 3.9889,
+      "predicted_soh": 18.4349,
+      "Temperature_mean": 8.128,
+      "Temperature_max": 10.3762,
+      "Current_mean": -0.4609,
+      "Discharge_time": 618.844,
+      "Temperature_rise": 5.4186
+    },
+    {
+      "cycle_id": 1366,
+      "soh": 3.2762,
+      "predicted_soh": 43.2884,
+      "Temperature_mean": 6.9516,
+      "Temperature_max": 8.316,
+      "Current_mean": -0.232,
+      "Discharge_time": 1039.547,
+      "Temperature_rise": 4.2997
+    },
+    {
+      "cycle_id": 1367,
+      "soh": 4.0252,
+      "predicted_soh": 36.0142,
+      "Temperature_mean": 6.953,
+      "Temperature_max": 10.6556,
+      "Current_mean": -0.2884,
+      "Discharge_time": 1004.328,
+      "Temperature_rise": 4.7124
+    },
+    {
+      "cycle_id": 1368,
+      "soh": 3.2898,
+      "predicted_soh": 44.7298,
+      "Temperature_mean": 6.4133,
+      "Temperature_max": 7.6317,
+      "Current_mean": -0.2402,
+      "Discharge_time": 1005.75,
+      "Temperature_rise": 2.3032
+    },
+    {
+      "cycle_id": 1369,
+      "soh": 4.0376,
+      "predicted_soh": 36.0142,
+      "Temperature_mean": 6.7796,
+      "Temperature_max": 10.5096,
+      "Current_mean": -0.2918,
+      "Discharge_time": 995.797,
+      "Temperature_rise": 4.8384
+    },
+    {
+      "cycle_id": 1370,
+      "soh": 4.0538,
+      "predicted_soh": 35.6907,
+      "Temperature_mean": 6.9785,
+      "Temperature_max": 9.2047,
+      "Current_mean": -0.2917,
+      "Discharge_time": 998.921,
+      "Temperature_rise": 2.7761
+    },
+    {
+      "cycle_id": 1371,
+      "soh": 3.3163,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 6.8098,
+      "Temperature_max": 7.9635,
+      "Current_mean": -0.2461,
+      "Discharge_time": 989.141,
+      "Temperature_rise": 4.2078
+    },
+    {
+      "cycle_id": 1372,
+      "soh": 4.0735,
+      "predicted_soh": 35.6907,
+      "Temperature_mean": 6.971,
+      "Temperature_max": 9.3672,
+      "Current_mean": -0.2988,
+      "Discharge_time": 979.203,
+      "Temperature_rise": 2.9607
+    },
+    {
+      "cycle_id": 1373,
+      "soh": 3.338,
+      "predicted_soh": 44.3494,
+      "Temperature_mean": 6.5799,
+      "Temperature_max": 8.3628,
+      "Current_mean": -0.2462,
+      "Discharge_time": 994.031,
+      "Temperature_rise": 2.3706
+    },
+    {
+      "cycle_id": 1374,
+      "soh": 3.3441,
+      "predicted_soh": 43.2884,
+      "Temperature_mean": 6.6901,
+      "Temperature_max": 9.8339,
+      "Current_mean": -0.2522,
+      "Discharge_time": 971.516,
+      "Temperature_rise": 4.4556
+    },
+    {
+      "cycle_id": 1375,
+      "soh": 3.3496,
+      "predicted_soh": 38.3686,
+      "Temperature_mean": 6.925,
+      "Temperature_max": 9.8229,
+      "Current_mean": -0.3019,
+      "Discharge_time": 810.563,
+      "Temperature_rise": 4.3285
+    },
+    {
+      "cycle_id": 1376,
+      "soh": 3.3657,
+      "predicted_soh": 33.9183,
+      "Temperature_mean": 7.8315,
+      "Temperature_max": 9.6473,
+      "Current_mean": -0.407,
+      "Discharge_time": 599.047,
+      "Temperature_rise": 4.6361
+    },
+    {
+      "cycle_id": 1377,
+      "soh": 3.3721,
+      "predicted_soh": 66.6568,
+      "Temperature_mean": 6.3578,
+      "Temperature_max": 8.4752,
+      "Current_mean": -1.9943,
+      "Discharge_time": 109.078,
+      "Temperature_rise": 4.2139
+    },
+    {
+      "cycle_id": 1378,
+      "soh": 3.3812,
+      "predicted_soh": 66.6568,
+      "Temperature_mean": 6.5954,
+      "Temperature_max": 7.9068,
+      "Current_mean": -1.9961,
+      "Discharge_time": 109.171,
+      "Temperature_rise": 2.5676
+    },
+    {
+      "cycle_id": 1379,
+      "soh": 3.3834,
+      "predicted_soh": 66.6568,
+      "Temperature_mean": 6.3245,
+      "Temperature_max": 8.6281,
+      "Current_mean": -2.2177,
+      "Discharge_time": 96.484,
+      "Temperature_rise": 4.0647
+    },
+    {
+      "cycle_id": 1380,
+      "soh": 3.3738,
+      "predicted_soh": 66.6568,
+      "Temperature_mean": 7.6449,
+      "Temperature_max": 9.5418,
+      "Current_mean": -1.9957,
+      "Discharge_time": 109.094,
+      "Temperature_rise": 3.6968
+    },
+    {
+      "cycle_id": 1381,
+      "soh": 3.3884,
+      "predicted_soh": 66.6568,
+      "Temperature_mean": 5.1082,
+      "Temperature_max": 7.8903,
+      "Current_mean": -2.2172,
+      "Discharge_time": 96.906,
+      "Temperature_rise": 4.9856
+    },
+    {
+      "cycle_id": 1382,
+      "soh": 3.4075,
+      "predicted_soh": 66.6568,
+      "Temperature_mean": 6.9782,
+      "Temperature_max": 9.2076,
+      "Current_mean": -2.2179,
+      "Discharge_time": 97.015,
+      "Temperature_rise": 3.9395
+    },
+    {
+      "cycle_id": 1383,
+      "soh": 81.2546,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.8316,
+      "Temperature_max": 10.1719,
+      "Current_mean": -0.9487,
+      "Discharge_time": 5608.781,
+      "Temperature_rise": 5.2075
+    },
+    {
+      "cycle_id": 1384,
+      "soh": 82.1411,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.7305,
+      "Temperature_max": 10.296,
+      "Current_mean": -0.943,
+      "Discharge_time": 5703.296,
+      "Temperature_rise": 5.9332
+    },
+    {
+      "cycle_id": 1385,
+      "soh": 81.805,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.788,
+      "Temperature_max": 10.3964,
+      "Current_mean": -0.9448,
+      "Discharge_time": 5668.032,
+      "Temperature_rise": 5.1941
+    },
+    {
+      "cycle_id": 1386,
+      "soh": 81.0808,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.8498,
+      "Temperature_max": 10.6751,
+      "Current_mean": -0.9422,
+      "Discharge_time": 5634.047,
+      "Temperature_rise": 5.663
+    },
+    {
+      "cycle_id": 1387,
+      "soh": 80.2893,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.8632,
+      "Temperature_max": 10.5623,
+      "Current_mean": -0.9415,
+      "Discharge_time": 5582.375,
+      "Temperature_rise": 6.7508
+    },
+    {
+      "cycle_id": 1388,
+      "soh": 79.8464,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.9301,
+      "Temperature_max": 10.7663,
+      "Current_mean": -0.9389,
+      "Discharge_time": 5567.329,
+      "Temperature_rise": 5.5349
+    },
+    {
+      "cycle_id": 1389,
+      "soh": 79.2264,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.8884,
+      "Temperature_max": 10.9111,
+      "Current_mean": -0.9382,
+      "Discharge_time": 5528.453,
+      "Temperature_rise": 7.1198
+    },
+    {
+      "cycle_id": 1390,
+      "soh": 78.6179,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.818,
+      "Temperature_max": 10.8191,
+      "Current_mean": -0.9336,
+      "Discharge_time": 5513.39,
+      "Temperature_rise": 5.8526
+    },
+    {
+      "cycle_id": 1391,
+      "soh": 77.7333,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.831,
+      "Temperature_max": 11.0063,
+      "Current_mean": -0.9278,
+      "Discharge_time": 5486.187,
+      "Temperature_rise": 7.5659
+    },
+    {
+      "cycle_id": 1392,
+      "soh": 76.8164,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.8786,
+      "Temperature_max": 10.6147,
+      "Current_mean": -0.9211,
+      "Discharge_time": 5461.922,
+      "Temperature_rise": 6.0026
+    },
+    {
+      "cycle_id": 1393,
+      "soh": 76.2266,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.9603,
+      "Temperature_max": 10.7873,
+      "Current_mean": -0.9181,
+      "Discharge_time": 5438.157,
+      "Temperature_rise": 5.8691
+    },
+    {
+      "cycle_id": 1394,
+      "soh": 75.4535,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.8258,
+      "Temperature_max": 10.6461,
+      "Current_mean": -0.9148,
+      "Discharge_time": 5402.875,
+      "Temperature_rise": 7.2142
+    },
+    {
+      "cycle_id": 1395,
+      "soh": 74.7599,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.8717,
+      "Temperature_max": 10.1493,
+      "Current_mean": -0.9097,
+      "Discharge_time": 5384.438,
+      "Temperature_rise": 5.3374
+    },
+    {
+      "cycle_id": 1396,
+      "soh": 74.145,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.8729,
+      "Temperature_max": 10.2697,
+      "Current_mean": -0.9089,
+      "Discharge_time": 5344.859,
+      "Temperature_rise": 5.3183
+    },
+    {
+      "cycle_id": 1397,
+      "soh": 73.3067,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.7877,
+      "Temperature_max": 10.5118,
+      "Current_mean": -0.9054,
+      "Discharge_time": 5305.156,
+      "Temperature_rise": 5.7314
+    },
+    {
+      "cycle_id": 1398,
+      "soh": 73.601,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.9979,
+      "Temperature_max": 11.2498,
+      "Current_mean": -0.9123,
+      "Discharge_time": 5284.547,
+      "Temperature_rise": 6.1851
+    },
+    {
+      "cycle_id": 1399,
+      "soh": 72.312,
+      "predicted_soh": 64.9191,
+      "Temperature_mean": 7.8819,
+      "Temperature_max": 10.4787,
+      "Current_mean": -0.8994,
+      "Discharge_time": 5267.843,
+      "Temperature_rise": 5.7941
+    },
+    {
+      "cycle_id": 1400,
+      "soh": 72.7315,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 8.0224,
+      "Temperature_max": 11.2761,
+      "Current_mean": -0.911,
+      "Discharge_time": 5229.688,
+      "Temperature_rise": 5.8663
+    },
+    {
+      "cycle_id": 1401,
+      "soh": 71.9473,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 7.9779,
+      "Temperature_max": 11.1849,
+      "Current_mean": -0.9054,
+      "Discharge_time": 5206.954,
+      "Temperature_rise": 6.0663
+    },
+    {
+      "cycle_id": 1402,
+      "soh": 70.9056,
+      "predicted_soh": 64.9191,
+      "Temperature_mean": 8.0168,
+      "Temperature_max": 10.5728,
+      "Current_mean": -0.8971,
+      "Discharge_time": 5179.062,
+      "Temperature_rise": 5.0829
+    },
+    {
+      "cycle_id": 1403,
+      "soh": 70.9533,
+      "predicted_soh": 96.9917,
+      "Temperature_mean": 8.1044,
+      "Temperature_max": 11.2864,
+      "Current_mean": -0.9036,
+      "Discharge_time": 5144.109,
+      "Temperature_rise": 7.3499
+    },
+    {
+      "cycle_id": 1404,
+      "soh": 70.1057,
+      "predicted_soh": 64.9191,
+      "Temperature_mean": 8.0214,
+      "Temperature_max": 10.532,
+      "Current_mean": -0.8935,
+      "Discharge_time": 5142.891,
+      "Temperature_rise": 6.1982
+    },
+    {
+      "cycle_id": 1405,
+      "soh": 69.7432,
+      "predicted_soh": 64.9191,
+      "Temperature_mean": 8.0129,
+      "Temperature_max": 10.4968,
+      "Current_mean": -0.895,
+      "Discharge_time": 5109.734,
+      "Temperature_rise": 5.708
+    },
+    {
+      "cycle_id": 1406,
+      "soh": 69.0818,
+      "predicted_soh": 64.9191,
+      "Temperature_mean": 7.9442,
+      "Temperature_max": 10.2194,
+      "Current_mean": -0.8917,
+      "Discharge_time": 5078.937,
+      "Temperature_rise": 5.5047
+    },
+    {
+      "cycle_id": 1407,
+      "soh": 68.6447,
+      "predicted_soh": 64.9191,
+      "Temperature_mean": 7.9049,
+      "Temperature_max": 10.3076,
+      "Current_mean": -0.8906,
+      "Discharge_time": 5051.672,
+      "Temperature_rise": 6.2891
+    }
+  ]
+}

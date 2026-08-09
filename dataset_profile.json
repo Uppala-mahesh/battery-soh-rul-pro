@@ -1,0 +1,216 @@
+{
+  "source": "/home/ubuntu/upload/file2.csv",
+  "rows": 1407,
+  "columns": [
+    "Unnamed: 0",
+    "Voltage_mean",
+    "Voltage_std",
+    "Current_mean",
+    "Current_std",
+    "Temperature_mean",
+    "Temperature_max",
+    "Discharge_time",
+    "Temperature_rise",
+    "Capacity"
+  ],
+  "dtypes": {
+    "Unnamed: 0": "int64",
+    "Voltage_mean": "float64",
+    "Voltage_std": "float64",
+    "Current_mean": "float64",
+    "Current_std": "float64",
+    "Temperature_mean": "float64",
+    "Temperature_max": "float64",
+    "Discharge_time": "float64",
+    "Temperature_rise": "float64",
+    "Capacity": "float64"
+  },
+  "missing": {
+    "Unnamed: 0": 0,
+    "Voltage_mean": 0,
+    "Voltage_std": 0,
+    "Current_mean": 0,
+    "Current_std": 0,
+    "Temperature_mean": 0,
+    "Temperature_max": 0,
+    "Discharge_time": 0,
+    "Temperature_rise": 0,
+    "Capacity": 0
+  },
+  "unique_counts": {
+    "Unnamed: 0": 1407,
+    "Voltage_mean": 1407,
+    "Voltage_std": 1407,
+    "Current_mean": 1407,
+    "Current_std": 1407,
+    "Temperature_mean": 1407,
+    "Temperature_max": 1407,
+    "Discharge_time": 422,
+    "Temperature_rise": 1407,
+    "Capacity": 1405
+  },
+  "head": [
+    {
+      "Unnamed: 0": 0,
+      "Voltage_mean": 3.400080836543819,
+      "Voltage_std": 0.2772591218929377,
+      "Current_mean": -1.0680263652396946,
+      "Current_std": 1.7777687414266676,
+      "Temperature_mean": 33.13281956573637,
+      "Temperature_max": 41.81748104839704,
+      "Discharge_time": 6515.422000000006,
+      "Temperature_rise": 15.313689983320874,
+      "Capacity": 1.847011162956716
+    },
+    {
+      "Unnamed: 0": 1,
+      "Voltage_mean": 3.4067357604110757,
+      "Voltage_std": 0.2750412424286755,
+      "Current_mean": -1.0683949803553137,
+      "Current_std": 1.7779202613460972,
+      "Temperature_mean": 32.848310333012144,
+      "Temperature_max": 41.50441060959557,
+      "Discharge_time": 6516.219,
+      "Temperature_rise": 15.286520111707985,
+      "Capacity": 1.8485654344528384
+    },
+    {
+      "Unnamed: 0": 2,
+      "Voltage_mean": 3.407792325190085,
+      "Voltage_std": 0.2778329324896487,
+      "Current_mean": -1.071886802134967,
+      "Current_std": 1.7795472187375725,
+      "Temperature_mean": 33.07297579198606,
+      "Temperature_max": 41.67077619357013,
+      "Discharge_time": 6489.5,
+      "Temperature_rise": 15.251100266652616,
+      "Capacity": 1.847111177186175
+    },
+    {
+      "Unnamed: 0": 3,
+      "Voltage_mean": 3.425685226676254,
+      "Voltage_std": 0.264581610677064,
+      "Current_mean": -1.069881568315977,
+      "Current_std": 1.7787946975419038,
+      "Temperature_mean": 33.12836651135456,
+      "Temperature_max": 41.58349706133725,
+      "Discharge_time": 6471.25,
+      "Temperature_rise": 15.02619552085116,
+      "Capacity": 1.8489837601535537
+    },
+    {
+      "Unnamed: 0": 4,
+      "Voltage_mean": 3.4102415310941074,
+      "Voltage_std": 0.2778380992651503,
+      "Current_mean": -1.0696478002906964,
+      "Current_std": 1.7781484586091658,
+      "Temperature_mean": 33.20066590827124,
+      "Temperature_max": 41.82908827830225,
+      "Discharge_time": 6466.672,
+      "Temperature_rise": 15.211886642965492,
+      "Capacity": 1.837012071856044
+    }
+  ],
+  "numeric_summary": {
+    "Unnamed: 0": {
+      "count": 1407.0,
+      "mean": 703.0,
+      "std": 406.310226,
+      "min": 0.0,
+      "25%": 351.5,
+      "50%": 703.0,
+      "75%": 1054.5,
+      "max": 1406.0
+    },
+    "Voltage_mean": {
+      "count": 1407.0,
+      "mean": 3.461363,
+      "std": 0.23659,
+      "min": 2.53001,
+      "25%": 3.380931,
+      "50%": 3.420331,
+      "75%": 3.480498,
+      "max": 4.061945
+    },
+    "Voltage_std": {
+      "count": 1407.0,
+      "mean": 0.303366,
+      "std": 0.086865,
+      "min": 0.143128,
+      "25%": 0.237442,
+      "50%": 0.280408,
+      "75%": 0.36432,
+      "max": 0.894238
+    },
+    "Current_mean": {
+      "count": 1407.0,
+      "mean": -1.853481,
+      "std": 1.002474,
+      "min": -3.976473,
+      "25%": -1.981039,
+      "50%": -1.828591,
+      "75%": -1.049153,
+      "max": -0.209986
+    },
+    "Current_std": {
+      "count": 1407.0,
+      "mean": 1.038841,
+      "std": 0.766349,
+      "min": 0.055684,
+      "25%": 0.208261,
+      "50%": 0.939241,
+      "75%": 1.997741,
+      "max": 2.103069
+    },
+    "Temperature_mean": {
+      "count": 1407.0,
+      "mean": 32.96171,
+      "std": 13.787206,
+      "min": 4.857764,
+      "25%": 30.074059,
+      "50%": 33.837216,
+      "75%": 39.68454,
+      "max": 58.954811
+    },
+    "Temperature_max": {
+      "count": 1407.0,
+      "mean": 41.545917,
+      "std": 16.826999,
+      "min": 7.124889,
+      "25%": 35.984891,
+      "50%": 42.143008,
+      "75%": 55.563655,
+      "max": 69.869746
+    },
+    "Discharge_time": {
+      "count": 1407.0,
+      "mean": 3196.805102,
+      "std": 1709.272297,
+      "min": 96.484,
+      "25%": 1654.328,
+      "50%": 3040.75,
+      "75%": 3226.078,
+      "max": 6574.671
+    },
+    "Temperature_rise": {
+      "count": 1407.0,
+      "mean": 17.071428,
+      "std": 10.399421,
+      "min": 1.302421,
+      "25%": 8.244619,
+      "50%": 14.926013,
+      "75%": 28.520273,
+      "max": 37.318391
+    },
+    "Capacity": {
+      "count": 1407.0,
+      "mean": 1.349682,
+      "std": 0.558129,
+      "min": 0.0,
+      "25%": 1.32987,
+      "50%": 1.565595,
+      "75%": 1.724838,
+      "max": 2.444062
+    }
+  }
+}
