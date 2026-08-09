@@ -61,3 +61,9 @@
 - [x] Add explicit feature-engineering steps or document that file2.csv is already feature-engineered, and include that provenance in the model artifact.
 - [x] Add focused verification evidence for scenario switching, model-run states, vision review states, and responsive UI behavior.
 - [x] Write a project-level setup and operations guide covering implemented modules, required secrets/hardware, safe sensor connection contract, and runtime/deployment prerequisites.
+
+## Readiness and curator guide
+- [x] Assess whether the current build is safe and technically ready for direct sensor connection, including what hardware gateway and profile setup are still required.
+- [x] Write a beginner-friendly curator guide explaining batteries, SoH, RUL, telemetry, feature engineering, model training, CV inspection, architecture, demo flow, and safety boundaries.
+- [x] Add a competition Q&A with honest answers about novelty, limitations, validation, real-world deployment, and why battery metadata improves estimates.
+- [x] Write a candid evaluator/user review with strengths, weaknesses, and highest-impact improvements.
