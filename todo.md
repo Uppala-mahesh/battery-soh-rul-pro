@@ -67,3 +67,16 @@
 - [x] Write a beginner-friendly curator guide explaining batteries, SoH, RUL, telemetry, feature engineering, model training, CV inspection, architecture, demo flow, and safety boundaries.
 - [x] Add a competition Q&A with honest answers about novelty, limitations, validation, real-world deployment, and why battery metadata improves estimates.
 - [x] Write a candid evaluator/user review with strengths, weaknesses, and highest-impact improvements.
+
+## Hardware-to-evaluation completion plan
+- [ ] Choose a compatible isolated sensor gateway and confirm its electrical interface, protocol, measurement ranges, and logging capability.
+- [ ] Gather the battery profile values and create the first real pack profile without guessing chemistry or limits.
+- [ ] Configure and securely store `VOLTWISE_INGEST_TOKEN`; never expose it in browser code or screenshots.
+- [ ] Validate the gateway using a non-hazardous signal source or approved test setup before observing a live pack.
+- [ ] Connect telemetry to the persistent service and verify profile-aware quarantine, heartbeat, model output, and alerts end to end.
+- [ ] Enable always-on runtime and document health checks, logs, restart behavior, and camera scheduling prerequisites.
+- [ ] Prepare repeatable evaluation evidence: architecture diagram, dataset/model metrics, controlled telemetry demo, safety review, and limitations.
+
+## Urgent submission explanation
+- [x] Prepare a plain-language explanation of batteries, SoH, RUL, telemetry, CSV labels, and model training.
+- [x] Prepare a 60-second project pitch, 3-minute demo script, and curator Q&A with honest MVP limitations.
