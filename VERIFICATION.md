@@ -19,3 +19,9 @@ The cockpit has been captured at desktop and narrow viewport sizes. The sidebar,
 ## Known integration boundary
 
 Continuous image capture still requires a camera gateway and scheduler credentials. A real trained computer-vision model requires representative labeled images and a selected inference runtime. The current adapter intentionally preserves a human-review state instead of pretending that a generic visual classifier is certified for battery safety.
+
+## Software-only gateway verification
+
+On 2026-08-09, `scripts/simulate_gateway.mjs` was run against the actual local route `/api/ingest/telemetry` with `VOLTWISE_PROFILE_ID=1`. The route returned HTTP `404` with `{ "error": "unknown-profile" }`. This is an expected safe rejection because the database contains no approved real battery profile; the service did not accept telemetry against an invented profile. The result proves that the simulator reaches the real ingestion route, the device payload is parsed far enough to reach profile validation, and the profile prerequisite is enforced. A `202 accepted` run is intentionally deferred until the ECE teammate supplies a verified profile.
+
+The existing Vitest suite additionally verifies the device-token contract and profile-limit quarantine. Model evidence is verified from the CSV artifact and the manual evaluator path; live heartbeat/model/alert persistence remains profile-dependent.

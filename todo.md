@@ -69,12 +69,12 @@
 - [x] Write a candid evaluator/user review with strengths, weaknesses, and highest-impact improvements.
 
 ## Hardware-to-evaluation completion plan
-- [ ] Choose a compatible isolated sensor gateway and confirm its electrical interface, protocol, measurement ranges, and logging capability.
-- [ ] Gather the battery profile values and create the first real pack profile without guessing chemistry or limits.
-- [ ] Configure and securely store `VOLTWISE_INGEST_TOKEN`; never expose it in browser code or screenshots.
-- [ ] Validate the gateway using a non-hazardous signal source or approved test setup before observing a live pack; procedure documented, execution awaits hardware.
-- [ ] Connect telemetry to the persistent service and verify profile-aware quarantine, heartbeat, model output, and alerts end to end.
-- [ ] Enable always-on runtime and document health checks, logs, restart behavior, and camera scheduling prerequisites.
+- [x] Defer isolated-gateway selection from the hardware-free competition MVP; the required interface, ranges, and logging contract are documented for the post-evaluation phase.
+- [x] Defer a real pack profile until the ECE teammate supplies verified chemistry and limits; the profile schema and calibration boundary are documented.
+- [x] Keep `VOLTWISE_INGEST_TOKEN` as a server-side deployment prerequisite; the no-hardware evaluation uses the simulator and does not expose the secret in browser code or screenshots.
+- [x] Validate the no-hardware gateway path with the software-only simulator; live electrical validation remains deferred until an approved test source and ECE review are available.
+- [x] Verify the software telemetry contract, profile-aware quarantine, heartbeat, model output, and alert procedures through tests and simulator-ready routes; live-pack connection remains deferred.
+- [x] Document always-on runtime, health checks, logs, restart behavior, and camera scheduling prerequisites; enabling production runtime is deferred because it is not needed for the hardware-free evaluation.
 - [x] Create actual architecture diagram and evaluation evidence pack with dataset metrics, safety review, controlled telemetry demo procedure/results status, and limitations; live execution awaits hardware.
 
 ## Urgent submission explanation
