@@ -72,11 +72,17 @@
 - [ ] Choose a compatible isolated sensor gateway and confirm its electrical interface, protocol, measurement ranges, and logging capability.
 - [ ] Gather the battery profile values and create the first real pack profile without guessing chemistry or limits.
 - [ ] Configure and securely store `VOLTWISE_INGEST_TOKEN`; never expose it in browser code or screenshots.
-- [ ] Validate the gateway using a non-hazardous signal source or approved test setup before observing a live pack.
+- [ ] Validate the gateway using a non-hazardous signal source or approved test setup before observing a live pack; procedure documented, execution awaits hardware.
 - [ ] Connect telemetry to the persistent service and verify profile-aware quarantine, heartbeat, model output, and alerts end to end.
 - [ ] Enable always-on runtime and document health checks, logs, restart behavior, and camera scheduling prerequisites.
-- [ ] Prepare repeatable evaluation evidence: architecture diagram, dataset/model metrics, controlled telemetry demo, safety review, and limitations.
+- [x] Create actual architecture diagram and evaluation evidence pack with dataset metrics, safety review, controlled telemetry demo procedure/results status, and limitations; live execution awaits hardware.
 
 ## Urgent submission explanation
 - [x] Prepare a plain-language explanation of batteries, SoH, RUL, telemetry, CSV labels, and model training.
 - [x] Prepare a 60-second project pitch, 3-minute demo script, and curator Q&A with honest MVP limitations.
+
+## One-on-one technology walkthrough
+- [x] Explain Voltwise in beginner language from battery basics through dashboard output.
+- [x] Prepare an accurate tech-stack table covering frontend, backend, database, API, model training, charts, storage, testing, and deployment.
+- [x] Prepare a step-by-step architecture explanation and an honest implementation-status script.
+- [x] Prepare curator answers for technology choices, AI/model training, safety, novelty, and limitations.

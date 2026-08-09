@@ -1,0 +1,22 @@
+flowchart LR
+  B[Battery pack] --> M[BMS remains authority]
+  M --> G[Isolated sensor gateway\nCAN / RS485 / UART / approved sensors]
+  G --> P[Telemetry payload\npackId · profileId · timestamp\ncycleId · voltage · current\ntemperature · SOC]
+  P --> I[Secure ingestion\nVOLTWISE_INGEST_TOKEN]
+  I --> V[Profile-aware validation\nrange checks · quarantine\nheartbeat]
+  V --> D[(Voltwise database)]
+  V --> F[Feature engineering\nthermal stress · current burst\nduration · cycle features]
+  F --> ML[SoH/RUL model\nchronological evaluation\nuncertainty · drift]
+  ML --> A[Safety alerts\nreview queue · human escalation]
+  C[Camera / manual image intake] --> CV[Vision review adapter\nconfidence · human review]
+  CV --> A
+  D --> UI[Voltwise operator cockpit\nSoH · RUL band · drivers\nmodel notes · safety center]
+  ML --> UI
+  A --> UI
+
+  classDef safe fill:#d8ff62,stroke:#1b3138,color:#1b3138;
+  classDef core fill:#1b3138,stroke:#d8ff62,color:#f6f3ea;
+  classDef data fill:#f6f3ea,stroke:#1b3138,color:#1b3138;
+  class B,M,G,C safe;
+  class I,V,F,ML,CV,A core;
+  class P,D,UI data;
