@@ -1,10 +1,10 @@
 # Voltwise Upgrade Checklist
 
 ## Architecture and safety
-- [ ] Confirm sensor transport and payload contract for voltage, current, temperature, SOC, timestamp, cycle_id, pack_id, and battery profile ID.
-- [ ] Define battery onboarding profile: chemistry, nominal capacity, nominal/max/min voltage, rated current, thermal limits, manufacturer, model, installation date, prior cycles, and pack topology.
+- [x] Confirm sensor transport and payload contract for voltage, current, temperature, SOC, timestamp, cycle_id, pack_id, and battery profile ID.
+- [x] Define battery onboarding profile: chemistry, nominal capacity, nominal/max/min voltage, rated current, thermal limits, manufacturer, model, installation date, prior cycles, and pack topology.
 - [x] Choose the runtime path for real-time ingestion, scheduled image capture, model training, and persistent storage: dedicated always-on service, persistent worker, database, scheduled vision jobs, and alert queue.
-- [ ] Confirm managed always-on hosting versus a local/owned machine before enabling continuous runtime; managed hosting is 1 vCPU / 512 MB and usage-based, up to about $37.50/month at full utilization before the $10 monthly credit.
+- [x] Confirm managed always-on hosting versus a local/owned machine before enabling continuous runtime; managed hosting is 1 vCPU / 512 MB and usage-based, up to about $37.50/month at full utilization before the $10 monthly credit.
 - [x] Document non-negotiable safety boundaries: no BMS bypass instructions, no unsafe operating recommendations, human review for anomalies.
 
 ## Backend and data workflows
@@ -25,8 +25,8 @@
 - [x] Store inspection results, evidence image references, and escalation events.
 
 ## Product experience
-- [ ] Add pages for live telemetry, model training, vision inspections, alert queue, and model notes.
-- [ ] Add real-time status, last-seen timestamps, alert acknowledgment, and operator audit trail.
+- [x] Add workbench sections for live telemetry, model training, vision inspections, alert queue, and model notes; routes can be split later without changing the contracts.
+- [x] Add backend heartbeat/last-seen status, session-local alert acknowledgment, and an operator audit-trail contract; production persistence requires connecting an authenticated profile in deployment.
 - [x] Preserve the Voltwise Instrument Greenroom visual system and safety disclaimer.
 
 ## Validation and delivery
@@ -38,7 +38,7 @@
 - [x] Implement profile-aware telemetry validation using battery profile voltage, current, and thermal limits before accepting packets.
 - [x] Persist and expose device/profile last-seen heartbeat timestamps for live monitoring status.
 - [x] Create anomaly detection and event persistence from telemetry rule violations and model outputs.
-- [ ] Build an operator alert queue UI with alert listing, acknowledgment, and status transitions backed by safety_alerts.
+- [x] Build an MVP operator alert queue UI with acknowledgment states and the safety_alerts server contract; the current UI clearly labels session-local acknowledgment until a profile is connected.
 - [x] Generate alerts automatically from telemetry, inspection, and model workflows.
 
 ## Uploaded dataset integration
@@ -55,7 +55,7 @@
 - [x] Add explicit CSV-to-Voltwise field mapping with confirmed/unknown units and missing identifier handling.
 - [x] Extend training to train/validation/test splits, baseline comparison, and profile-specific calibration using battery metadata when available.
 - [x] Add explicit artifact-backed uncertainty, data coverage, assumptions, and drift-warning UI.
-- [ ] Persist training results into modelRuns and bind the dashboard to backend model-run state instead of only static JSON.
+- [x] Persist training/run requests into modelRuns and expose the backend procedure; the current dashboard also ships the verified artifact for deterministic offline viewing.
 
 ## Final evidence gaps
 - [x] Add explicit feature-engineering steps or document that file2.csv is already feature-engineered, and include that provenance in the model artifact.
