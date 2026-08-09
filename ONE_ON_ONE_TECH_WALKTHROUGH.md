@@ -102,3 +102,11 @@ Open Safety Center and Alert Queue. Explain that image evidence and abnormal tel
 ## Final sentence to memorize
 
 “Voltwise does not replace the BMS; it adds an explainable evidence layer that helps operators see battery aging earlier, understand the drivers, quantify uncertainty, and decide when human review is needed.”
+
+## Focused evaluation mode without hardware
+
+For a curator demonstration, use **Model Notes** and the manual prediction panel. The panel accepts a cycle number, temperature, current rate, depth of discharge, and cell voltage. These are deliberately understandable controls. Temperature maps to `Temperature_mean` and `Temperature_max`; current rate maps to `Current_mean` and `Current_std`; voltage maps to `Voltage_mean` and `Voltage_std`; cycle is a chronological aging proxy; and depth is a stress proxy. The trained artifact also contains discharge-time and temperature-rise features that are not exposed in the compact form. Therefore, describe the panel accurately as a **CSV-calibrated sensitivity adapter**, not as a browser-side execution of the serialized Python model.
+
+The result shows estimated SoH, a best/likely/worst RUL planning band, an artifact residual uncertainty band, status, drivers, and assumptions. The evidence panel shows the complete source-row count, chronological split, held-out test count, test MAE, baseline MAE, and drift/coverage warnings. If asked whether the panel is hard-coded, answer: “The historical training evidence is real and comes from `file2.csv`. The browser form is a transparent deterministic adapter for evaluation; the production next step is a server-side inference endpoint that loads the versioned Python artifact and accepts the same validated feature contract.”
+
+The exact evaluator sequence is documented in `EVALUATOR_MANUAL_DEMO.md`. Use the default preset, point out the source and metrics, change one stress input at a time, explain the RUL band and uncertainty, then open Safety Center and Alert Queue. Do not call the preset a real battery reading and do not claim the result is a safety command.

@@ -86,3 +86,11 @@
 - [x] Prepare an accurate tech-stack table covering frontend, backend, database, API, model training, charts, storage, testing, and deployment.
 - [x] Prepare a step-by-step architecture explanation and an honest implementation-status script.
 - [x] Prepare curator answers for technology choices, AI/model training, safety, novelty, and limitations.
+
+## Focused evaluation demo
+- [x] Define a small manual-input contract using the CSV model’s real feature columns and explain each input in plain language, with explicit mapping shown in the UI and demo guide.
+- [x] Add a manual prediction form that runs the trained CSV-backed model or a clearly labeled deterministic model adapter.
+- [x] Show SoH, best/likely/worst RUL planning band, explicit artifact uncertainty, drivers, and assumptions for the manual input.
+- [x] Add a dataset/model evidence panel showing source filename, total row count, chronological split, metrics, and baseline comparison.
+- [x] Add `EVALUATOR_MANUAL_DEMO.md` with the exact no-hardware preset, sequence, feature mapping, and honest wording.
+- [x] Validate the focused demo and update `ONE_ON_ONE_TECH_WALKTHROUGH.md` with the manual adapter boundary and training explanation.
