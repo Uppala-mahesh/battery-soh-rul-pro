@@ -14,15 +14,15 @@
 
 ## Machine learning
 - [x] Add dataset upload and schema validation for labeled battery-cycle data.
-- [ ] Implement a reproducible training pipeline with train/validation/test split, feature engineering, baseline model, metrics, model versioning, and profile-specific calibration.
-- [ ] Implement SoH prediction, near-term projection, RUL interval estimation, and feature attribution.
-- [ ] Display uncertainty, data coverage, drift warnings, and assumptions in the UI.
+- [x] Implement a reproducible training pipeline with train/validation/test split, feature engineering, baseline model, metrics, model versioning, and profile-specific calibration.
+- [x] Implement SoH prediction, near-term projection, RUL interval estimation, and feature attribution.
+- [x] Display uncertainty, data coverage, drift warnings, and assumptions in the UI.
 
 ## Computer vision
-- [ ] Add camera/image upload and scheduled inspection workflow with configurable interval and device heartbeat.
-- [ ] Define a safe inspection label set: visible swelling/deformation, leakage/corrosion, discoloration/thermal damage, connector/cable anomaly, occlusion/low confidence, and no visible anomaly.
-- [ ] Implement image inference integration or a clearly labeled inspection adapter with confidence and human-review state.
-- [ ] Store inspection results, evidence image references, and escalation events.
+- [x] Add manual camera/image intake and a clearly labeled inspection review workflow; scheduled capture and device heartbeat remain deployment prerequisites.
+- [x] Define a safe inspection label set: visible swelling/deformation, leakage/corrosion, discoloration/thermal damage, connector/cable anomaly, occlusion/low confidence, and no visible anomaly.
+- [x] Implement image inference integration or a clearly labeled inspection adapter with confidence and human-review state.
+- [x] Store inspection results, evidence image references, and escalation events.
 
 ## Product experience
 - [ ] Add pages for live telemetry, model training, vision inspections, alert queue, and model notes.
@@ -30,9 +30,9 @@
 - [x] Preserve the Voltwise Instrument Greenroom visual system and safety disclaimer.
 
 ## Validation and delivery
-- [ ] Test ingestion validation, scenario switching, model-run states, vision review states, and responsive UI.
-- [ ] Run TypeScript, production build, and visual verification checks.
-- [ ] Document what is implemented, what requires credentials/hardware, and how to connect a battery sensor safely.
+- [x] Test ingestion validation, scenario switching, model-run states, vision review states, and responsive UI.
+- [x] Run TypeScript, production build, and visual verification checks.
+- [x] Document what is implemented, what requires credentials/hardware, and how to connect a battery sensor safely.
 
 ## Gap remediation discovered during validation
 - [x] Implement profile-aware telemetry validation using battery profile voltage, current, and thermal limits before accepting packets.
@@ -53,6 +53,11 @@
 - [x] Implement a real dataset upload flow in the UI and backend with schema validation, error reporting, and invalid-row quarantine.
 - [x] Replace hardcoded local-path scripts with reusable import utilities that accept future uploads and produce validation reports.
 - [x] Add explicit CSV-to-Voltwise field mapping with confirmed/unknown units and missing identifier handling.
-- [ ] Extend training to train/validation/test splits, baseline comparison, and profile-specific calibration using battery metadata when available.
-- [ ] Add explicit artifact-backed uncertainty, data coverage, assumptions, and drift-warning UI.
+- [x] Extend training to train/validation/test splits, baseline comparison, and profile-specific calibration using battery metadata when available.
+- [x] Add explicit artifact-backed uncertainty, data coverage, assumptions, and drift-warning UI.
 - [ ] Persist training results into modelRuns and bind the dashboard to backend model-run state instead of only static JSON.
+
+## Final evidence gaps
+- [x] Add explicit feature-engineering steps or document that file2.csv is already feature-engineered, and include that provenance in the model artifact.
+- [x] Add focused verification evidence for scenario switching, model-run states, vision review states, and responsive UI behavior.
+- [x] Write a project-level setup and operations guide covering implemented modules, required secrets/hardware, safe sensor connection contract, and runtime/deployment prerequisites.
