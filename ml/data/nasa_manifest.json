@@ -1,0 +1,218 @@
+{
+  "source": "NASA PCoE Battery Data Set",
+  "official_download": "https://phm-datasets.s3.amazonaws.com/NASA/5.+Battery+Data+Set.zip",
+  "citation": "B. Saha and K. Goebel (2007), Battery Data Set, NASA Prognostics Data Repository, NASA Ames Research Center.",
+  "mat_files_discovered": 38,
+  "unique_batteries_used": 34,
+  "rows_extracted": 2769,
+  "battery_ids": [
+    "B0005",
+    "B0006",
+    "B0007",
+    "B0018",
+    "B0025",
+    "B0026",
+    "B0027",
+    "B0028",
+    "B0029",
+    "B0030",
+    "B0031",
+    "B0032",
+    "B0033",
+    "B0034",
+    "B0036",
+    "B0038",
+    "B0039",
+    "B0040",
+    "B0041",
+    "B0042",
+    "B0043",
+    "B0044",
+    "B0045",
+    "B0046",
+    "B0047",
+    "B0048",
+    "B0049",
+    "B0050",
+    "B0051",
+    "B0052",
+    "B0053",
+    "B0054",
+    "B0055",
+    "B0056"
+  ],
+  "feature_mapping": "Discharge-cycle time-series arrays are aggregated into the Voltwise cycle-level feature contract; NASA Capacity is the health label.",
+  "files": [
+    {
+      "file": "ml/data/nasa_extracted/1. BatteryAgingARC-FY08Q4/B0005.mat",
+      "battery_id": "B0005",
+      "discharge_rows": 168
+    },
+    {
+      "file": "ml/data/nasa_extracted/1. BatteryAgingARC-FY08Q4/B0006.mat",
+      "battery_id": "B0006",
+      "discharge_rows": 168
+    },
+    {
+      "file": "ml/data/nasa_extracted/1. BatteryAgingARC-FY08Q4/B0007.mat",
+      "battery_id": "B0007",
+      "discharge_rows": 168
+    },
+    {
+      "file": "ml/data/nasa_extracted/1. BatteryAgingARC-FY08Q4/B0018.mat",
+      "battery_id": "B0018",
+      "discharge_rows": 132
+    },
+    {
+      "file": "ml/data/nasa_extracted/2. BatteryAgingARC_25_26_27_28_P1/B0025.mat",
+      "battery_id": "B0025",
+      "discharge_rows": 28
+    },
+    {
+      "file": "ml/data/nasa_extracted/2. BatteryAgingARC_25_26_27_28_P1/B0026.mat",
+      "battery_id": "B0026",
+      "discharge_rows": 28
+    },
+    {
+      "file": "ml/data/nasa_extracted/2. BatteryAgingARC_25_26_27_28_P1/B0027.mat",
+      "battery_id": "B0027",
+      "discharge_rows": 28
+    },
+    {
+      "file": "ml/data/nasa_extracted/2. BatteryAgingARC_25_26_27_28_P1/B0028.mat",
+      "battery_id": "B0028",
+      "discharge_rows": 28
+    },
+    {
+      "file": "ml/data/nasa_extracted/3. BatteryAgingARC_25-44/B0029.mat",
+      "battery_id": "B0029",
+      "discharge_rows": 40
+    },
+    {
+      "file": "ml/data/nasa_extracted/3. BatteryAgingARC_25-44/B0030.mat",
+      "battery_id": "B0030",
+      "discharge_rows": 40
+    },
+    {
+      "file": "ml/data/nasa_extracted/3. BatteryAgingARC_25-44/B0031.mat",
+      "battery_id": "B0031",
+      "discharge_rows": 40
+    },
+    {
+      "file": "ml/data/nasa_extracted/3. BatteryAgingARC_25-44/B0032.mat",
+      "battery_id": "B0032",
+      "discharge_rows": 40
+    },
+    {
+      "file": "ml/data/nasa_extracted/3. BatteryAgingARC_25-44/B0033.mat",
+      "battery_id": "B0033",
+      "discharge_rows": 197
+    },
+    {
+      "file": "ml/data/nasa_extracted/3. BatteryAgingARC_25-44/B0034.mat",
+      "battery_id": "B0034",
+      "discharge_rows": 197
+    },
+    {
+      "file": "ml/data/nasa_extracted/3. BatteryAgingARC_25-44/B0036.mat",
+      "battery_id": "B0036",
+      "discharge_rows": 197
+    },
+    {
+      "file": "ml/data/nasa_extracted/3. BatteryAgingARC_25-44/B0038.mat",
+      "battery_id": "B0038",
+      "discharge_rows": 47
+    },
+    {
+      "file": "ml/data/nasa_extracted/3. BatteryAgingARC_25-44/B0039.mat",
+      "battery_id": "B0039",
+      "discharge_rows": 47
+    },
+    {
+      "file": "ml/data/nasa_extracted/3. BatteryAgingARC_25-44/B0040.mat",
+      "battery_id": "B0040",
+      "discharge_rows": 47
+    },
+    {
+      "file": "ml/data/nasa_extracted/3. BatteryAgingARC_25-44/B0041.mat",
+      "battery_id": "B0041",
+      "discharge_rows": 67
+    },
+    {
+      "file": "ml/data/nasa_extracted/3. BatteryAgingARC_25-44/B0042.mat",
+      "battery_id": "B0042",
+      "discharge_rows": 112
+    },
+    {
+      "file": "ml/data/nasa_extracted/3. BatteryAgingARC_25-44/B0043.mat",
+      "battery_id": "B0043",
+      "discharge_rows": 112
+    },
+    {
+      "file": "ml/data/nasa_extracted/3. BatteryAgingARC_25-44/B0044.mat",
+      "battery_id": "B0044",
+      "discharge_rows": 112
+    },
+    {
+      "file": "ml/data/nasa_extracted/4. BatteryAgingARC_45_46_47_48/B0045.mat",
+      "battery_id": "B0045",
+      "discharge_rows": 72
+    },
+    {
+      "file": "ml/data/nasa_extracted/4. BatteryAgingARC_45_46_47_48/B0046.mat",
+      "battery_id": "B0046",
+      "discharge_rows": 72
+    },
+    {
+      "file": "ml/data/nasa_extracted/4. BatteryAgingARC_45_46_47_48/B0047.mat",
+      "battery_id": "B0047",
+      "discharge_rows": 72
+    },
+    {
+      "file": "ml/data/nasa_extracted/4. BatteryAgingARC_45_46_47_48/B0048.mat",
+      "battery_id": "B0048",
+      "discharge_rows": 72
+    },
+    {
+      "file": "ml/data/nasa_extracted/5. BatteryAgingARC_49_50_51_52/B0049.mat",
+      "battery_id": "B0049",
+      "discharge_rows": 25
+    },
+    {
+      "file": "ml/data/nasa_extracted/5. BatteryAgingARC_49_50_51_52/B0050.mat",
+      "battery_id": "B0050",
+      "discharge_rows": 21
+    },
+    {
+      "file": "ml/data/nasa_extracted/5. BatteryAgingARC_49_50_51_52/B0051.mat",
+      "battery_id": "B0051",
+      "discharge_rows": 25
+    },
+    {
+      "file": "ml/data/nasa_extracted/5. BatteryAgingARC_49_50_51_52/B0052.mat",
+      "battery_id": "B0052",
+      "discharge_rows": 4
+    },
+    {
+      "file": "ml/data/nasa_extracted/6. BatteryAgingARC_53_54_55_56/B0053.mat",
+      "battery_id": "B0053",
+      "discharge_rows": 56
+    },
+    {
+      "file": "ml/data/nasa_extracted/6. BatteryAgingARC_53_54_55_56/B0054.mat",
+      "battery_id": "B0054",
+      "discharge_rows": 103
+    },
+    {
+      "file": "ml/data/nasa_extracted/6. BatteryAgingARC_53_54_55_56/B0055.mat",
+      "battery_id": "B0055",
+      "discharge_rows": 102
+    },
+    {
+      "file": "ml/data/nasa_extracted/6. BatteryAgingARC_53_54_55_56/B0056.mat",
+      "battery_id": "B0056",
+      "discharge_rows": 102
+    }
+  ],
+  "caution": "NASA and user data are retained with source provenance and should be compared across datasets before any combined model is claimed as generalizable."
+}

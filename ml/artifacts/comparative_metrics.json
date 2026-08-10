@@ -1,0 +1,145 @@
+{
+  "model_name": "Voltwise Comparative SoH/RUL Training Evidence",
+  "model_version": "user-file2-plus-nasa-pcoe-v1",
+  "sources": {
+    "user_file2": {
+      "filename": "file2.csv",
+      "rows": 1407,
+      "label": "Capacity from user-provided CSV"
+    },
+    "nasa_pcoe": {
+      "filename": "nasa_discharge_cycles.csv",
+      "rows": 2769,
+      "label": "NASA discharge-cycle Capacity"
+    }
+  },
+  "results": {
+    "user_file2": {
+      "dataset": "user_file2",
+      "rows": 1407,
+      "batteries": 1,
+      "capacity_reference_ah_by_source": {
+        "User-provided file2.csv": 1.818968351264217
+      },
+      "train": {
+        "rows": 914,
+        "mae_soh_points": 1.292658109685157,
+        "rmse_soh_points": 4.1229132603868015,
+        "r2": 0.9076313446413783
+      },
+      "validation": {
+        "rows": 211,
+        "mae_soh_points": 15.759804909506592,
+        "rmse_soh_points": 24.892367830536354,
+        "r2": 0.5896694382235317
+      },
+      "test": {
+        "rows": 282,
+        "mae_soh_points": 25.30683264248354,
+        "rmse_soh_points": 31.98540124312988,
+        "r2": 0.3277166454760567
+      },
+      "baseline_test": {
+        "rows": 282,
+        "mae_soh_points": 40.58084054866565,
+        "rmse_soh_points": 43.94137507531809,
+        "r2": -0.2688083815805604
+      },
+      "split": "chronological 65/15/20 after sorting by battery_id and cycle_id",
+      "model": "GradientBoostingRegressor with StandardScaler and Huber loss"
+    },
+    "nasa_pcoe": {
+      "dataset": "nasa_pcoe",
+      "rows": 2769,
+      "batteries": 34,
+      "capacity_reference_ah_by_source": {
+        "NASA PCoE Battery Data Set": 1.864532220027802
+      },
+      "train": {
+        "rows": 1799,
+        "mae_soh_points": 1.502931253854318,
+        "rmse_soh_points": 4.498301697904161,
+        "r2": 0.9581303837858374
+      },
+      "validation": {
+        "rows": 416,
+        "mae_soh_points": 12.408528224360593,
+        "rmse_soh_points": 17.790450764599722,
+        "r2": 0.6784823482270252
+      },
+      "test": {
+        "rows": 554,
+        "mae_soh_points": 11.83570311145455,
+        "rmse_soh_points": 16.506763122140303,
+        "r2": -0.5347059511407457
+      },
+      "baseline_test": {
+        "rows": 554,
+        "mae_soh_points": 23.805698523202373,
+        "rmse_soh_points": 26.929366078346547,
+        "r2": -3.0846382453354106
+      },
+      "split": "chronological 65/15/20 after sorting by battery_id and cycle_id",
+      "model": "GradientBoostingRegressor with StandardScaler and Huber loss"
+    },
+    "combined": {
+      "dataset": "combined",
+      "rows": 4176,
+      "batteries": 35,
+      "capacity_reference_ah_by_source": {
+        "NASA PCoE Battery Data Set": 1.864532220027802,
+        "User-provided file2.csv": 1.818968351264217
+      },
+      "train": {
+        "rows": 2713,
+        "mae_soh_points": 1.823437885579674,
+        "rmse_soh_points": 4.50524029875374,
+        "r2": 0.9482535272736045
+      },
+      "validation": {
+        "rows": 627,
+        "mae_soh_points": 9.582100939608468,
+        "rmse_soh_points": 15.539385778819291,
+        "r2": 0.7935677440792805
+      },
+      "test": {
+        "rows": 836,
+        "mae_soh_points": 12.193826396504324,
+        "rmse_soh_points": 16.840551056345,
+        "r2": 0.5681749176035629
+      },
+      "baseline_test": {
+        "rows": 836,
+        "mae_soh_points": 35.09165984541569,
+        "rmse_soh_points": 37.47426702272921,
+        "r2": -1.1382651701758308
+      },
+      "split": "chronological 65/15/20 after sorting by battery_id and cycle_id",
+      "model": "GradientBoostingRegressor with StandardScaler and Huber loss"
+    }
+  },
+  "feature_columns": [
+    "Voltage_mean",
+    "Voltage_std",
+    "Current_mean",
+    "Current_std",
+    "Temperature_mean",
+    "Temperature_max",
+    "Discharge_time",
+    "Temperature_rise",
+    "current_abs_mean",
+    "temperature_margin",
+    "thermal_stress_proxy",
+    "discharge_hours"
+  ],
+  "feature_engineering": [
+    "absolute current magnitude",
+    "temperature margin",
+    "thermal stress proxy",
+    "discharge seconds converted to hours"
+  ],
+  "label_definition": "Within each source dataset, SoH = Capacity / source 98th-percentile Capacity \u00d7 100, clipped to 0\u2013110.",
+  "interpretation": "The combined result demonstrates training on broader data, while per-source results show whether performance is consistent. Different cells, protocols, and units mean this is not proof of universal battery generalization.",
+  "rul_definition": "RUL is a planning projection toward 80% SoH based on the recent predicted-health slope; it is not a failure date or safety limit.",
+  "safety": "The estimator supports monitoring and maintenance planning. It must not replace the BMS, electrical protection, qualified review, or manufacturer limits."
+}

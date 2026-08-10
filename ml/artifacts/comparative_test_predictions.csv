@@ -1,0 +1,1673 @@
+source_dataset,battery_id,cycle_id,soh,predicted_soh,evaluation_dataset
+User-provided file2.csv,User-provided file2.csv,1126,4.586775262282008,72.68384873685916,user_file2
+User-provided file2.csv,User-provided file2.csv,1127,5.291335690258872,72.68384873685916,user_file2
+User-provided file2.csv,User-provided file2.csv,1128,4.789963767381844,61.08422226764649,user_file2
+User-provided file2.csv,User-provided file2.csv,1129,5.32274911546892,70.01240731712676,user_file2
+User-provided file2.csv,User-provided file2.csv,1130,4.640022947886424,61.08422226764649,user_file2
+User-provided file2.csv,User-provided file2.csv,1131,5.3712433808340325,70.01240731712676,user_file2
+User-provided file2.csv,User-provided file2.csv,1132,4.682558918989926,60.38731861545151,user_file2
+User-provided file2.csv,User-provided file2.csv,1133,4.657581611571706,68.8726875975036,user_file2
+User-provided file2.csv,User-provided file2.csv,1134,4.699827220166881,64.96047209120584,user_file2
+User-provided file2.csv,User-provided file2.csv,1135,4.715722473935187,59.729985351288526,user_file2
+User-provided file2.csv,User-provided file2.csv,1136,4.7255100668858585,59.729985351288526,user_file2
+User-provided file2.csv,User-provided file2.csv,1137,4.736089538705208,59.729985351288526,user_file2
+User-provided file2.csv,User-provided file2.csv,1138,4.756790189878628,72.68384873685916,user_file2
+User-provided file2.csv,User-provided file2.csv,1139,4.769756671497732,66.08863270831553,user_file2
+User-provided file2.csv,User-provided file2.csv,1140,4.76205393202735,62.71215317628121,user_file2
+User-provided file2.csv,User-provided file2.csv,1141,4.781844578675435,59.729985351288526,user_file2
+User-provided file2.csv,User-provided file2.csv,1142,4.061525923933372,64.96047209120584,user_file2
+User-provided file2.csv,User-provided file2.csv,1143,4.824639030213191,62.71215317628121,user_file2
+User-provided file2.csv,User-provided file2.csv,1144,4.832726360611703,65.83667713153314,user_file2
+User-provided file2.csv,User-provided file2.csv,1145,4.842736750245215,63.552805625604336,user_file2
+User-provided file2.csv,User-provided file2.csv,1146,4.8567366562583345,61.08422226764649,user_file2
+User-provided file2.csv,User-provided file2.csv,1147,4.10290554399042,60.0979821237259,user_file2
+User-provided file2.csv,User-provided file2.csv,1148,4.115353991684347,60.13283753566753,user_file2
+User-provided file2.csv,User-provided file2.csv,1149,4.138375270746166,61.08422226764649,user_file2
+User-provided file2.csv,User-provided file2.csv,1150,4.14100215391521,59.868123421041204,user_file2
+User-provided file2.csv,User-provided file2.csv,1151,4.152774454331314,59.772064532981986,user_file2
+User-provided file2.csv,User-provided file2.csv,1152,4.169553362958201,59.729985351288526,user_file2
+User-provided file2.csv,User-provided file2.csv,1153,4.177762647497348,59.60053102312756,user_file2
+User-provided file2.csv,User-provided file2.csv,1154,4.190096328116319,59.60053102312756,user_file2
+User-provided file2.csv,User-provided file2.csv,1155,3.4178291981999815,59.60053102312756,user_file2
+User-provided file2.csv,User-provided file2.csv,1156,4.177215491041404,59.60053102312756,user_file2
+User-provided file2.csv,User-provided file2.csv,1157,3.4233765225302957,59.60053102312756,user_file2
+User-provided file2.csv,User-provided file2.csv,1158,3.4412069921106694,59.60053102312756,user_file2
+User-provided file2.csv,User-provided file2.csv,1159,79.04120352664154,94.30351146162359,user_file2
+User-provided file2.csv,User-provided file2.csv,1160,83.81684749296373,94.06368603526057,user_file2
+User-provided file2.csv,User-provided file2.csv,1161,83.64782133215554,94.06368603526057,user_file2
+User-provided file2.csv,User-provided file2.csv,1162,83.31823706906566,94.06368603526057,user_file2
+User-provided file2.csv,User-provided file2.csv,1163,82.70759439590314,94.06368603526057,user_file2
+User-provided file2.csv,User-provided file2.csv,1164,82.47261223139193,94.06368603526057,user_file2
+User-provided file2.csv,User-provided file2.csv,1165,81.86020533482187,94.06368603526057,user_file2
+User-provided file2.csv,User-provided file2.csv,1166,81.4205994693064,94.06368603526057,user_file2
+User-provided file2.csv,User-provided file2.csv,1167,81.15930256414546,94.06368603526057,user_file2
+User-provided file2.csv,User-provided file2.csv,1168,80.60915966596237,92.12740258615565,user_file2
+User-provided file2.csv,User-provided file2.csv,1169,80.22834802856474,90.98714813850634,user_file2
+User-provided file2.csv,User-provided file2.csv,1170,79.47934645204737,92.12740258615565,user_file2
+User-provided file2.csv,User-provided file2.csv,1171,79.1695252937209,90.98714813850634,user_file2
+User-provided file2.csv,User-provided file2.csv,1172,78.56273942103394,90.98714813850634,user_file2
+User-provided file2.csv,User-provided file2.csv,1173,77.745838027831,90.98714813850634,user_file2
+User-provided file2.csv,User-provided file2.csv,1174,77.82450300167166,90.98714813850634,user_file2
+User-provided file2.csv,User-provided file2.csv,1175,76.93597424921839,90.98714813850634,user_file2
+User-provided file2.csv,User-provided file2.csv,1176,76.74479479586714,90.98714813850634,user_file2
+User-provided file2.csv,User-provided file2.csv,1177,76.58068730524711,90.98714813850634,user_file2
+User-provided file2.csv,User-provided file2.csv,1178,75.5415673629001,88.51524883720722,user_file2
+User-provided file2.csv,User-provided file2.csv,1179,75.60600502171572,90.98714813850634,user_file2
+User-provided file2.csv,User-provided file2.csv,1180,75.16329858819277,90.9491516514389,user_file2
+User-provided file2.csv,User-provided file2.csv,1181,74.59654808400497,88.52162111980489,user_file2
+User-provided file2.csv,User-provided file2.csv,1182,73.93927561533337,88.52162111980489,user_file2
+User-provided file2.csv,User-provided file2.csv,1183,73.52899623178489,88.47725235013978,user_file2
+User-provided file2.csv,User-provided file2.csv,1184,94.21728755949898,96.2658358090499,user_file2
+User-provided file2.csv,User-provided file2.csv,1185,93.21592454790427,96.2658358090499,user_file2
+User-provided file2.csv,User-provided file2.csv,1186,92.441995268171,96.10924748266129,user_file2
+User-provided file2.csv,User-provided file2.csv,1187,92.28512633474965,95.71397986049044,user_file2
+User-provided file2.csv,User-provided file2.csv,1188,91.77822439440595,94.88895583205195,user_file2
+User-provided file2.csv,User-provided file2.csv,1189,0.0,89.95343566515957,user_file2
+User-provided file2.csv,User-provided file2.csv,1190,91.32615479361789,93.7090635675844,user_file2
+User-provided file2.csv,User-provided file2.csv,1191,90.74607246790227,93.31116154034254,user_file2
+User-provided file2.csv,User-provided file2.csv,1192,90.29444178889977,93.14436552906112,user_file2
+User-provided file2.csv,User-provided file2.csv,1193,89.90626356789124,93.14436552906112,user_file2
+User-provided file2.csv,User-provided file2.csv,1194,89.78896608045554,93.14436552906112,user_file2
+User-provided file2.csv,User-provided file2.csv,1195,89.38495572552284,92.41146563917482,user_file2
+User-provided file2.csv,User-provided file2.csv,1196,88.95021035029265,92.41146563917482,user_file2
+User-provided file2.csv,User-provided file2.csv,1197,88.71321315766002,92.41146563917482,user_file2
+User-provided file2.csv,User-provided file2.csv,1198,88.28196628619823,92.41146563917482,user_file2
+User-provided file2.csv,User-provided file2.csv,1199,88.14627231319298,92.41146563917482,user_file2
+User-provided file2.csv,User-provided file2.csv,1200,87.69444721287297,92.2077786217353,user_file2
+User-provided file2.csv,User-provided file2.csv,1201,87.29198357790507,91.95389590701879,user_file2
+User-provided file2.csv,User-provided file2.csv,1202,86.86573330482925,91.28512773294136,user_file2
+User-provided file2.csv,User-provided file2.csv,1203,86.61860921241873,91.28512773294136,user_file2
+User-provided file2.csv,User-provided file2.csv,1204,87.68799633637684,92.41146563917482,user_file2
+User-provided file2.csv,User-provided file2.csv,1205,87.40160603414641,92.41146563917482,user_file2
+User-provided file2.csv,User-provided file2.csv,1206,86.90614760345109,92.2077786217353,user_file2
+User-provided file2.csv,User-provided file2.csv,1207,86.33648451482297,91.28512773294136,user_file2
+User-provided file2.csv,User-provided file2.csv,1208,86.00132278841158,91.28512773294136,user_file2
+User-provided file2.csv,User-provided file2.csv,1209,85.66982579545369,90.58916023122124,user_file2
+User-provided file2.csv,User-provided file2.csv,1210,85.4173701206723,91.28512773294136,user_file2
+User-provided file2.csv,User-provided file2.csv,1211,85.18720237812614,90.58916023122124,user_file2
+User-provided file2.csv,User-provided file2.csv,1212,84.7976850418579,90.58916023122124,user_file2
+User-provided file2.csv,User-provided file2.csv,1213,84.8042391306611,90.15149290008584,user_file2
+User-provided file2.csv,User-provided file2.csv,1214,84.16505126040191,90.35138925895599,user_file2
+User-provided file2.csv,User-provided file2.csv,1215,83.82626979933416,90.35138925895599,user_file2
+User-provided file2.csv,User-provided file2.csv,1216,83.54594184234972,90.15149290008584,user_file2
+User-provided file2.csv,User-provided file2.csv,1217,83.14436540513435,90.15149290008584,user_file2
+User-provided file2.csv,User-provided file2.csv,1218,82.45962526835217,89.95343566515957,user_file2
+User-provided file2.csv,User-provided file2.csv,1219,82.04709147806622,89.95343566515957,user_file2
+User-provided file2.csv,User-provided file2.csv,1220,82.05887622592795,89.95343566515957,user_file2
+User-provided file2.csv,User-provided file2.csv,1221,82.04663928557939,89.95343566515957,user_file2
+User-provided file2.csv,User-provided file2.csv,1222,81.65628715545571,89.95343566515957,user_file2
+User-provided file2.csv,User-provided file2.csv,1223,81.2113155281069,89.95343566515957,user_file2
+User-provided file2.csv,User-provided file2.csv,1224,80.78611436514707,89.95343566515957,user_file2
+User-provided file2.csv,User-provided file2.csv,1225,3.135535096199652,36.433482563140636,user_file2
+User-provided file2.csv,User-provided file2.csv,1226,3.142090594916913,36.433482563140636,user_file2
+User-provided file2.csv,User-provided file2.csv,1227,3.1497887260961104,36.433482563140636,user_file2
+User-provided file2.csv,User-provided file2.csv,1228,3.157945646105234,34.132026024081235,user_file2
+User-provided file2.csv,User-provided file2.csv,1229,3.690587636148488,35.60986227622666,user_file2
+User-provided file2.csv,User-provided file2.csv,1230,3.691533124019355,37.91131881528606,user_file2
+User-provided file2.csv,User-provided file2.csv,1231,3.700999639169875,37.91131881528606,user_file2
+User-provided file2.csv,User-provided file2.csv,1232,3.729607525550556,36.46310043724892,user_file2
+User-provided file2.csv,User-provided file2.csv,1233,3.7381656049621634,19.422530079343844,user_file2
+User-provided file2.csv,User-provided file2.csv,1234,3.7537822706706,38.04620018116527,user_file2
+User-provided file2.csv,User-provided file2.csv,1235,3.7629203050008107,37.91131881528606,user_file2
+User-provided file2.csv,User-provided file2.csv,1236,3.7666196391082094,36.46310043724892,user_file2
+User-provided file2.csv,User-provided file2.csv,1237,3.7864333542855797,38.04620018116527,user_file2
+User-provided file2.csv,User-provided file2.csv,1238,3.1085966549333466,38.04620018116527,user_file2
+User-provided file2.csv,User-provided file2.csv,1239,3.803448894194039,35.60986227622666,user_file2
+User-provided file2.csv,User-provided file2.csv,1240,3.2503086936254637,36.7206190414473,user_file2
+User-provided file2.csv,User-provided file2.csv,1241,3.8242117183103197,33.86123061357127,user_file2
+User-provided file2.csv,User-provided file2.csv,1242,3.858174772254306,38.04620018116527,user_file2
+User-provided file2.csv,User-provided file2.csv,1243,3.8638100431916946,33.86123061357127,user_file2
+User-provided file2.csv,User-provided file2.csv,1244,3.1816739410864643,36.7206190414473,user_file2
+User-provided file2.csv,User-provided file2.csv,1245,3.879461976009032,33.86123061357127,user_file2
+User-provided file2.csv,User-provided file2.csv,1246,3.1880384377580993,36.433482563140636,user_file2
+User-provided file2.csv,User-provided file2.csv,1247,3.919401039521005,19.47635204733312,user_file2
+User-provided file2.csv,User-provided file2.csv,1248,3.9289009908816146,22.82807067890475,user_file2
+User-provided file2.csv,User-provided file2.csv,1249,3.937698934093677,22.82807067890475,user_file2
+User-provided file2.csv,User-provided file2.csv,1250,3.9542174283972678,38.04620018116527,user_file2
+User-provided file2.csv,User-provided file2.csv,1251,3.234805876114872,36.433482563140636,user_file2
+User-provided file2.csv,User-provided file2.csv,1252,3.9659037910638726,33.86123061357127,user_file2
+User-provided file2.csv,User-provided file2.csv,1253,3.9757897419444648,19.47635204733312,user_file2
+User-provided file2.csv,User-provided file2.csv,1254,3.264581608877884,36.433482563140636,user_file2
+User-provided file2.csv,User-provided file2.csv,1255,4.010233867211303,38.04620018116527,user_file2
+User-provided file2.csv,User-provided file2.csv,1256,4.017066997895338,38.04620018116527,user_file2
+User-provided file2.csv,User-provided file2.csv,1257,4.022639603950657,39.5240364333107,user_file2
+User-provided file2.csv,User-provided file2.csv,1258,4.039339270635626,39.5240364333107,user_file2
+User-provided file2.csv,User-provided file2.csv,1259,3.30445419111021,37.91131881528606,user_file2
+User-provided file2.csv,User-provided file2.csv,1260,4.05898349183717,37.91131881528606,user_file2
+User-provided file2.csv,User-provided file2.csv,1261,3.3257981242709858,37.91131881528606,user_file2
+User-provided file2.csv,User-provided file2.csv,1262,3.331779258033664,37.91131881528606,user_file2
+User-provided file2.csv,User-provided file2.csv,1263,3.3389467320935275,33.86123061357127,user_file2
+User-provided file2.csv,User-provided file2.csv,1264,3.3533585364464518,22.774248710915476,user_file2
+User-provided file2.csv,User-provided file2.csv,1265,3.360721434069278,66.15757784949307,user_file2
+User-provided file2.csv,User-provided file2.csv,1266,3.369560776979838,66.15757784949307,user_file2
+User-provided file2.csv,User-provided file2.csv,1267,3.3702230506338373,60.76377743239444,user_file2
+User-provided file2.csv,User-provided file2.csv,1268,3.3618870571106614,66.15757784949307,user_file2
+User-provided file2.csv,User-provided file2.csv,1269,3.3758359319104922,66.15757784949307,user_file2
+User-provided file2.csv,User-provided file2.csv,1270,3.3952106762333534,60.76377743239444,user_file2
+User-provided file2.csv,User-provided file2.csv,1271,83.84335277696596,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1272,85.35436090585286,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1273,84.81594864502074,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1274,84.28916765159053,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1275,83.30393400545204,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1276,82.87659184130561,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1277,81.89416214028378,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1278,81.25913153912308,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1279,80.81523427891236,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1280,80.07628703387662,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1281,79.49434424327691,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1282,78.7581377241254,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1283,78.05163209571813,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1284,77.03611632921867,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1285,76.21322987231174,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1286,76.09424622976434,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1287,75.05212057363835,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1288,74.8505784197193,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1289,74.27296153562791,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1290,73.02264527050997,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1291,72.88310804422444,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1292,72.25474652620466,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1293,71.48700572922878,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1294,70.81525850960656,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1295,70.19254343995432,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1296,92.71879601313059,96.2658358090499,user_file2
+User-provided file2.csv,User-provided file2.csv,1297,91.395798723407,96.2658358090499,user_file2
+User-provided file2.csv,User-provided file2.csv,1298,90.89773741367773,96.10924748266129,user_file2
+User-provided file2.csv,User-provided file2.csv,1299,90.44767542028089,95.71397986049044,user_file2
+User-provided file2.csv,User-provided file2.csv,1300,89.92262351516584,94.88895583205195,user_file2
+User-provided file2.csv,User-provided file2.csv,1301,0.0,90.09756901248123,user_file2
+User-provided file2.csv,User-provided file2.csv,1302,89.43404514894424,93.7090635675844,user_file2
+User-provided file2.csv,User-provided file2.csv,1303,88.84000369501625,93.31116154034254,user_file2
+User-provided file2.csv,User-provided file2.csv,1304,88.37992357303239,93.14436552906112,user_file2
+User-provided file2.csv,User-provided file2.csv,1305,87.98042247578952,93.14436552906112,user_file2
+User-provided file2.csv,User-provided file2.csv,1306,87.84485394639451,93.14436552906112,user_file2
+User-provided file2.csv,User-provided file2.csv,1307,87.4138918036287,92.41146563917482,user_file2
+User-provided file2.csv,User-provided file2.csv,1308,86.95209647083448,92.41146563917482,user_file2
+User-provided file2.csv,User-provided file2.csv,1309,86.3926868222462,92.41146563917482,user_file2
+User-provided file2.csv,User-provided file2.csv,1310,85.93996687647206,92.41146563917482,user_file2
+User-provided file2.csv,User-provided file2.csv,1311,85.80014807513604,92.41146563917482,user_file2
+User-provided file2.csv,User-provided file2.csv,1312,85.34445363232899,92.2077786217353,user_file2
+User-provided file2.csv,User-provided file2.csv,1313,84.90852996880176,91.95389590701879,user_file2
+User-provided file2.csv,User-provided file2.csv,1314,84.47415443554685,91.28512773294136,user_file2
+User-provided file2.csv,User-provided file2.csv,1315,84.15350304089812,91.28512773294136,user_file2
+User-provided file2.csv,User-provided file2.csv,1316,84.95160496708782,92.41146563917482,user_file2
+User-provided file2.csv,User-provided file2.csv,1317,84.6476766960511,92.41146563917482,user_file2
+User-provided file2.csv,User-provided file2.csv,1318,84.14306421074483,92.2077786217353,user_file2
+User-provided file2.csv,User-provided file2.csv,1319,83.56239520898198,91.28512773294136,user_file2
+User-provided file2.csv,User-provided file2.csv,1320,83.2154639541912,91.28512773294136,user_file2
+User-provided file2.csv,User-provided file2.csv,1321,82.53508092407834,90.58916023122124,user_file2
+User-provided file2.csv,User-provided file2.csv,1322,82.59525089850982,91.28512773294136,user_file2
+User-provided file2.csv,User-provided file2.csv,1323,82.35962513512376,90.58916023122124,user_file2
+User-provided file2.csv,User-provided file2.csv,1324,81.950531910117,90.58916023122124,user_file2
+User-provided file2.csv,User-provided file2.csv,1325,81.6065415823171,90.15149290008584,user_file2
+User-provided file2.csv,User-provided file2.csv,1326,80.95425039141412,90.35138925895599,user_file2
+User-provided file2.csv,User-provided file2.csv,1327,80.6124492046387,90.35138925895599,user_file2
+User-provided file2.csv,User-provided file2.csv,1328,80.6572498014105,90.15149290008584,user_file2
+User-provided file2.csv,User-provided file2.csv,1329,80.23151687873037,90.15149290008584,user_file2
+User-provided file2.csv,User-provided file2.csv,1330,79.5390494752135,89.95343566515957,user_file2
+User-provided file2.csv,User-provided file2.csv,1331,79.11445985102733,89.95343566515957,user_file2
+User-provided file2.csv,User-provided file2.csv,1332,79.11018649918432,89.95343566515957,user_file2
+User-provided file2.csv,User-provided file2.csv,1333,79.08987954397281,89.95343566515957,user_file2
+User-provided file2.csv,User-provided file2.csv,1334,78.68972589163201,89.95343566515957,user_file2
+User-provided file2.csv,User-provided file2.csv,1335,78.22967544622065,89.95343566515957,user_file2
+User-provided file2.csv,User-provided file2.csv,1336,77.7921896766949,89.95343566515957,user_file2
+User-provided file2.csv,User-provided file2.csv,1337,3.14558914796152,38.04620018116527,user_file2
+User-provided file2.csv,User-provided file2.csv,1338,3.153366961307106,38.04620018116527,user_file2
+User-provided file2.csv,User-provided file2.csv,1339,3.160960739888129,38.04620018116527,user_file2
+User-provided file2.csv,User-provided file2.csv,1340,3.1683282481979775,38.04620018116527,user_file2
+User-provided file2.csv,User-provided file2.csv,1341,3.0301194246441843,41.796998615314955,user_file2
+User-provided file2.csv,User-provided file2.csv,1342,3.7058122869829258,38.04620018116527,user_file2
+User-provided file2.csv,User-provided file2.csv,1343,3.714614000004625,38.04620018116527,user_file2
+User-provided file2.csv,User-provided file2.csv,1344,3.058728889399721,41.796998615314955,user_file2
+User-provided file2.csv,User-provided file2.csv,1345,3.7507157677400498,24.726389864377257,user_file2
+User-provided file2.csv,User-provided file2.csv,1346,3.0815518803588255,41.796998615314955,user_file2
+User-provided file2.csv,User-provided file2.csv,1347,3.7758876482548525,38.04620018116527,user_file2
+User-provided file2.csv,User-provided file2.csv,1348,3.7794804668088022,38.04620018116527,user_file2
+User-provided file2.csv,User-provided file2.csv,1349,3.1069478957232124,41.796998615314955,user_file2
+User-provided file2.csv,User-provided file2.csv,1350,3.11896970689144,41.0666883317996,user_file2
+User-provided file2.csv,User-provided file2.csv,1351,3.816084847643111,38.04620018116527,user_file2
+User-provided file2.csv,User-provided file2.csv,1352,3.2610608318403465,41.0666883317996,user_file2
+User-provided file2.csv,User-provided file2.csv,1353,3.8382785762986553,38.04620018116527,user_file2
+User-provided file2.csv,User-provided file2.csv,1354,3.1591726627350005,41.796998615314955,user_file2
+User-provided file2.csv,User-provided file2.csv,1355,3.877898358754392,38.04620018116527,user_file2
+User-provided file2.csv,User-provided file2.csv,1356,3.191625653249867,41.245888678312454,user_file2
+User-provided file2.csv,User-provided file2.csv,1357,3.894510869508836,38.04620018116527,user_file2
+User-provided file2.csv,User-provided file2.csv,1358,3.1980675249294626,39.9041180454675,user_file2
+User-provided file2.csv,User-provided file2.csv,1359,3.2053970091046184,37.91131881528606,user_file2
+User-provided file2.csv,User-provided file2.csv,1360,3.2136857495651117,37.91131881528606,user_file2
+User-provided file2.csv,User-provided file2.csv,1361,3.223248005697194,37.91131881528606,user_file2
+User-provided file2.csv,User-provided file2.csv,1362,3.238117482522276,41.796998615314955,user_file2
+User-provided file2.csv,User-provided file2.csv,1363,3.2471525400130985,41.0666883317996,user_file2
+User-provided file2.csv,User-provided file2.csv,1364,3.9805970113838054,38.04620018116527,user_file2
+User-provided file2.csv,User-provided file2.csv,1365,3.988872506687019,19.47635204733312,user_file2
+User-provided file2.csv,User-provided file2.csv,1366,3.276155401366834,41.0666883317996,user_file2
+User-provided file2.csv,User-provided file2.csv,1367,4.025198688960066,37.444392652331054,user_file2
+User-provided file2.csv,User-provided file2.csv,1368,3.289832308422468,41.796998615314955,user_file2
+User-provided file2.csv,User-provided file2.csv,1369,4.037644223917977,37.444392652331054,user_file2
+User-provided file2.csv,User-provided file2.csv,1370,4.053803135606166,37.15725617402439,user_file2
+User-provided file2.csv,User-provided file2.csv,1371,3.3163372444247643,39.0861665039303,user_file2
+User-provided file2.csv,User-provided file2.csv,1372,4.073524409088549,37.91131881528606,user_file2
+User-provided file2.csv,User-provided file2.csv,1373,3.337999283536481,41.796998615314955,user_file2
+User-provided file2.csv,User-provided file2.csv,1374,3.3441176836145994,41.0666883317996,user_file2
+User-provided file2.csv,User-provided file2.csv,1375,3.3496374142868137,39.5240364333107,user_file2
+User-provided file2.csv,User-provided file2.csv,1376,3.3656653411847923,36.46310043724892,user_file2
+User-provided file2.csv,User-provided file2.csv,1377,3.372063938566374,66.15757784949307,user_file2
+User-provided file2.csv,User-provided file2.csv,1378,3.381158113639719,66.15757784949307,user_file2
+User-provided file2.csv,User-provided file2.csv,1379,3.3834368574983023,66.15757784949307,user_file2
+User-provided file2.csv,User-provided file2.csv,1380,3.3737960827771083,66.15757784949307,user_file2
+User-provided file2.csv,User-provided file2.csv,1381,3.388377199960816,66.15757784949307,user_file2
+User-provided file2.csv,User-provided file2.csv,1382,3.4074826443720543,66.15757784949307,user_file2
+User-provided file2.csv,User-provided file2.csv,1383,81.25459962455494,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1384,82.14105926632742,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1385,81.80504180179824,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1386,81.08078726310293,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1387,80.28934662131559,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1388,79.84640527512681,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1389,79.22638606457295,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1390,78.61794829179779,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1391,77.73325444267275,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1392,76.81644096632606,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1393,76.22659221744665,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1394,75.45350459883339,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1395,74.7599260831643,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1396,74.14495915236091,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1397,73.30671214778145,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1398,73.60102264435255,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1399,72.31198054586928,71.35247959916857,user_file2
+User-provided file2.csv,User-provided file2.csv,1400,72.73151988546677,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1401,71.9473294577081,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1402,70.9055744424384,71.35247959916857,user_file2
+User-provided file2.csv,User-provided file2.csv,1403,70.95325535452078,96.00448793694392,user_file2
+User-provided file2.csv,User-provided file2.csv,1404,70.10573463017803,71.35247959916857,user_file2
+User-provided file2.csv,User-provided file2.csv,1405,69.74322916920201,71.35247959916857,user_file2
+User-provided file2.csv,User-provided file2.csv,1406,69.08179553807265,71.35247959916857,user_file2
+User-provided file2.csv,User-provided file2.csv,1407,68.64470456917344,71.35247959916857,user_file2
+NASA PCoE Battery Data Set,B0047,29,65.10939880078352,89.66981361067904,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,30,65.28948619822012,89.3926395202402,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,31,64.75321699903846,89.3926395202402,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,32,63.71788481363626,89.3926395202402,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,33,63.62479216738088,89.3926395202402,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,34,67.6520112419426,89.66981361067904,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,35,67.83602891379401,89.3926395202402,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,36,66.86124495502852,89.3926395202402,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,37,66.15023339532942,89.3926395202402,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,38,65.05250990973398,89.3926395202402,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,39,64.35451460187011,89.66981361067904,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,40,63.83670343983599,89.3926395202402,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,41,63.78309619813661,83.65691601450222,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,42,62.59316264904968,89.3926395202402,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,43,62.29631367226881,89.3926395202402,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,44,61.97567261228494,89.3926395202402,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,45,61.6161230291124,89.3926395202402,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,46,61.33296998062748,89.3926395202402,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,47,61.23796229843796,83.65691601450222,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,48,60.92995526166425,83.65691601450222,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,49,60.26371955536247,89.3926395202402,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,50,60.714954553910275,83.65691601450222,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,51,59.90833326544281,89.3926395202402,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,52,60.07099409123008,83.65691601450222,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,53,59.316612108489885,89.3926395202402,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,54,0.0,90.51102246679656,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,55,63.86536122494283,89.66981361067904,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,56,64.42574153143305,89.3926395202402,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,57,63.86003642697715,83.65691601450222,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,58,63.09558828719476,89.3926395202402,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,59,62.36475963187682,89.50055112113566,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,60,61.76430054081268,89.50055112113566,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,61,62.12643243127168,89.50055112113566,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,62,62.7089473852689,89.50055112113566,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,63,62.15043297050492,83.76482761539768,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,64,61.3536629982982,83.76482761539768,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,65,61.05521237916528,83.76482761539768,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,66,0.0,73.9881518997911,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,67,65.50223546264895,89.50055112113566,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,68,64.52590547729804,89.50055112113566,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,69,63.80767778858917,89.50055112113566,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,70,63.14841632634578,83.76482761539768,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,71,62.13049122189717,83.76482761539768,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,72,62.03747724278704,89.50055112113566,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,1,88.92287092486063,91.71817507857139,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,2,80.86174813259039,90.15596713906393,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,3,80.39133452670787,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,4,79.28487018731894,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,5,78.40341269987886,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,6,77.81894327499003,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,7,77.86119121746584,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,8,77.46676891783285,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,9,76.84170370324908,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,10,76.01055032546068,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,11,75.39456703174504,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,12,74.56404411016165,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,13,76.14059524092664,89.96089231203865,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,14,76.10790434622082,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,15,75.3149954514123,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,16,74.63609553902393,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,17,73.74299141952996,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,18,72.64640196386198,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,19,72.08361930648523,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,20,0.0,73.9881518997911,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,21,73.60476054632666,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,22,70.70999155207853,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,23,70.32717085137354,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,24,69.56260814204535,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,25,69.69694268108677,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,26,68.79019803979746,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,27,68.39726348208046,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,28,68.30438399758076,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,29,67.54570502273619,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,30,67.74692574262689,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,31,66.9965215723121,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,32,66.18198036915163,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,33,66.50633218933476,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,34,69.92148260979208,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,35,70.53007447899877,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,36,69.12585453090155,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,37,69.0636367533149,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,38,67.9708285498359,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,39,67.0728203172943,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,40,66.97192488960948,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,41,66.93380316400882,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,42,65.97309026076346,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,43,65.6690026054812,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,44,65.3605376952653,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,45,64.56238785647865,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,46,64.0784973973476,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,47,64.63868934210097,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,48,64.12196295245674,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,49,63.761285401507386,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,50,63.90667387142139,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,51,62.89291773641112,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,52,63.507263351649634,89.66981361067904,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,53,62.08970270379746,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,54,0.0,90.51102246679656,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,55,67.54272399485914,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,56,67.89281309706466,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,57,66.89398305489267,90.28711765477264,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,58,66.11892967115556,90.28711765477264,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,59,66.07337031085581,90.03676082383693,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,60,65.4741051481843,90.03676082383693,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,61,65.83657376048853,90.28711765477264,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,62,66.43375899455177,90.28711765477264,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,63,65.88021179502009,90.03676082383693,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,64,64.8713997947973,90.28711765477264,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,65,64.7998567195631,90.03676082383693,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,66,0.0,73.9881518997911,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,67,69.71579468140445,89.92017044161476,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,68,68.06651295923724,90.28711765477264,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,69,67.33669978898823,90.28711765477264,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,70,67.1475493553604,90.28711765477264,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,71,66.37043795808191,90.03676082383693,nasa_pcoe
+NASA PCoE Battery Data Set,B0048,72,65.5996921828286,90.28711765477264,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,1,46.03689398855839,84.1676027582249,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,2,76.20708828086384,52.504728226449195,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,3,73.62984230805046,55.7644851757629,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,4,73.17514999674128,57.121192738052926,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,5,110.0,65.46370494943228,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,6,56.879456690284925,55.524188252883384,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,7,54.0078217393816,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,8,49.87189405727128,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,9,49.5157816545865,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,10,48.55523022840937,44.287870844667836,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,11,46.101903031269146,52.878439427152806,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,12,44.888547405718235,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,13,45.356278088490384,40.259064635254504,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,14,43.28814445189468,52.5246504918516,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,15,41.944806728146105,52.5246504918516,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,16,42.654234443933404,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,17,0.0,35.071640228322444,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,18,41.576386138311975,52.5246504918516,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,19,41.360861566286935,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,20,40.68097527649506,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,21,39.416784604502155,52.5246504918516,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,22,39.50995297673596,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,23,38.04679009032013,52.878439427152806,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,24,38.54299181332008,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0049,25,37.081071363537745,52.878439427152806,nasa_pcoe
+NASA PCoE Battery Data Set,B0050,1,46.29283653585583,83.5780392784823,nasa_pcoe
+NASA PCoE Battery Data Set,B0050,2,88.42912930471681,92.45972751091492,nasa_pcoe
+NASA PCoE Battery Data Set,B0050,3,85.9001774382811,69.52022364563229,nasa_pcoe
+NASA PCoE Battery Data Set,B0050,4,83.22497530879694,59.02216819026254,nasa_pcoe
+NASA PCoE Battery Data Set,B0050,5,1.7461976123886138,51.745178741773735,nasa_pcoe
+NASA PCoE Battery Data Set,B0050,6,110.0,64.56267881445552,nasa_pcoe
+NASA PCoE Battery Data Set,B0050,7,72.88839765243463,77.33880727266516,nasa_pcoe
+NASA PCoE Battery Data Set,B0050,8,73.70305830399299,62.104545506918015,nasa_pcoe
+NASA PCoE Battery Data Set,B0050,9,72.55455435691135,69.86324220181663,nasa_pcoe
+NASA PCoE Battery Data Set,B0050,10,72.98026844103306,56.404785129863264,nasa_pcoe
+NASA PCoE Battery Data Set,B0050,11,28.25795589937517,38.131491497241655,nasa_pcoe
+NASA PCoE Battery Data Set,B0050,12,75.10041444044137,84.73677388872443,nasa_pcoe
+NASA PCoE Battery Data Set,B0050,13,76.63731740209757,76.87748543875622,nasa_pcoe
+NASA PCoE Battery Data Set,B0050,14,4.107386341599721,69.8287644577312,nasa_pcoe
+NASA PCoE Battery Data Set,B0050,15,30.768754360723804,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0050,16,16.16889213844158,69.93667605862666,nasa_pcoe
+NASA PCoE Battery Data Set,B0050,17,0.0,35.071640228322444,nasa_pcoe
+NASA PCoE Battery Data Set,B0050,18,9.630588540890814,38.1500000288043,nasa_pcoe
+NASA PCoE Battery Data Set,B0050,19,63.24207052562086,53.71175955703262,nasa_pcoe
+NASA PCoE Battery Data Set,B0050,20,5.159005353585839,63.081494373988775,nasa_pcoe
+NASA PCoE Battery Data Set,B0050,21,14.914474209885114,48.37403520340114,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,1,34.51125987011554,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,2,69.35683106505907,79.94051147131198,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,3,65.90897239098618,77.7961308433595,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,4,64.56864440528915,74.23834461048965,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,5,110.0,90.82713196952508,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,6,54.13051440310062,83.92765961162806,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,7,51.30326948698526,48.479703778053114,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,8,48.37440091820751,56.23840047295173,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,9,47.721924944828714,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,10,47.36156845014394,60.43935348945184,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,11,45.219225840763634,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,12,44.33064200077691,48.479703778053114,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,13,44.797732413084375,40.259064635254504,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,14,43.04414468562094,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,15,42.043890153759975,61.438035707350394,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,16,42.42760413610897,65.62746077604051,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,17,0.0,35.9167314501445,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,18,41.053397668644735,48.479703778053114,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,19,41.46763136238097,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,20,40.7892858848161,50.94440420132906,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,21,39.56182810902036,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,22,39.644233138909506,50.94440420132906,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,23,37.621100641199966,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,24,37.79687690479652,48.479703778053114,nasa_pcoe
+NASA PCoE Battery Data Set,B0051,25,36.35490372809517,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0052,1,46.15952149228024,74.33696393784528,nasa_pcoe
+NASA PCoE Battery Data Set,B0052,2,76.06784673395903,79.94051147131198,nasa_pcoe
+NASA PCoE Battery Data Set,B0052,3,73.51507730174156,77.7961308433595,nasa_pcoe
+NASA PCoE Battery Data Set,B0052,4,72.48814049684249,74.23834461048965,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,1,57.34101975472905,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,2,61.89610353990099,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,3,61.685849621067334,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,4,60.636462767954654,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,5,60.16470299133982,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,6,59.725341733584024,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,7,58.27013306819154,52.5246504918516,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,8,57.10544153983235,52.5246504918516,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,9,57.97319015918355,52.878439427152806,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,10,58.206299281246196,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,11,56.340136259936855,52.5246504918516,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,12,58.21057990026295,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,13,56.35942129567507,52.5246504918516,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,14,56.8993540008281,52.878439427152806,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,15,57.41828698716992,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,16,54.92190773986344,52.878439427152806,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,17,57.23128374405213,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,18,55.13038466181198,52.5246504918516,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,19,55.378106577032206,52.878439427152806,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,20,56.633442603526575,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,21,56.021095903362664,52.878439427152806,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,22,55.52673725299021,52.878439427152806,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,23,57.72713614388131,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,24,55.52182488039376,52.878439427152806,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,25,56.39101831531491,52.878439427152806,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,26,56.868576646165835,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,27,54.90367156324011,52.878439427152806,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,28,56.13142297211057,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,29,53.79966930613115,52.5246504918516,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,30,56.108330139018,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,31,54.470839411797144,52.878439427152806,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,32,54.97386842141356,52.878439427152806,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,33,52.567241908250665,52.5246504918516,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,34,55.60524861323681,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,35,55.0717252847157,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,36,54.43928269930218,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,37,53.12117770396313,52.878439427152806,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,38,54.41453392761147,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,39,52.62075301618596,52.5246504918516,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,40,53.85633630528898,52.878439427152806,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,41,54.05218945188083,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,42,52.69172195211057,52.878439427152806,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,43,59.51506354431657,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,44,59.72973526705106,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,45,55.69766501765013,52.5246504918516,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,46,57.75612663866706,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,47,57.50346060352612,52.878439427152806,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,48,54.30096026820147,52.5246504918516,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,49,55.134176535690536,52.878439427152806,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,50,55.26398079029362,52.5246504918516,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,51,56.61561200501887,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,52,53.69237018609071,52.5246504918516,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,53,56.13654246930949,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,54,56.1632373401908,53.425676626828384,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,55,54.18377848292231,52.5246504918516,nasa_pcoe
+NASA PCoE Battery Data Set,B0053,56,0.0,31.166241004098577,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,1,39.68475824863408,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,2,62.56496998449377,48.479703778053114,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,3,59.27771768928633,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,4,58.78312071765887,52.5246504918516,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,5,57.679082024387775,56.23840047295173,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,6,57.14834752421126,53.02966904924415,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,7,56.681072423703206,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,8,56.04121147989084,51.35669373330874,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,9,56.0910874298596,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,10,54.60822344291979,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,11,54.847050235043646,51.35669373330874,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,12,55.719585183655276,56.23840047295173,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,13,54.56194451924451,45.30930961072616,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,14,55.412499762494974,48.479703778053114,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,15,54.14351123194356,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,16,52.895214969679714,50.24509792053953,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,17,54.06207633059906,50.59570543779424,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,18,54.45541596005672,50.24509792053953,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,19,54.20548245181439,45.17243683918389,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,20,54.19105369872717,48.479703778053114,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,21,52.56778734463131,50.24509792053953,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,22,59.08528479845799,49.87375297777117,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,23,58.06556798916479,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,24,56.716683542806564,50.24509792053953,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,25,55.70039080075786,46.744307104641905,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,26,54.02585588540234,49.493088767933386,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,27,54.49302618320452,48.479703778053114,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,28,54.481866965482,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,29,53.71526271113154,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,30,52.627079921268006,50.24509792053953,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,31,53.565263838461384,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,32,51.40170884688029,50.24509792053953,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,33,52.56463808251317,46.744307104641905,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,34,52.13303419780981,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,35,51.987317265956804,46.744307104641905,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,36,50.84270621166799,46.744307104641905,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,37,51.69403599218847,45.17243683918389,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,38,51.929039313358295,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,39,50.45244465908718,49.87375297777117,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,40,51.586354870797265,40.41501434990772,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,41,50.05191138000581,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,42,49.950623738786035,50.59570543779424,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,43,53.50633790049466,46.744307104641905,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,44,52.73877896744209,49.87375297777117,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,45,53.119865435362435,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,46,50.95042734254622,50.24509792053953,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,47,51.090711861009474,49.87375297777117,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,48,47.46592780967738,45.17243683918389,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,49,53.29702883918838,49.87375297777117,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,50,53.39180089386897,46.744307104641905,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,51,52.31381150139479,50.24509792053953,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,52,51.80712609833681,49.493088767933386,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,53,51.34640484542552,49.493088767933386,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,54,49.85034043459082,46.744307104641905,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,55,50.004788223423255,46.744307104641905,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,56,51.19613209959629,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,57,50.04065901437633,50.24509792053953,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,58,49.518810889049256,45.26310256545337,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,59,49.65212756755114,47.568130765678056,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,60,49.142437415983395,46.744307104641905,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,61,50.345129884494554,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,62,49.12218994392386,50.24509792053953,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,63,49.356127459661536,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,64,48.86616503320618,50.24509792053953,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,65,48.16493352719556,46.744307104641905,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,66,49.76510743202933,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,67,48.90457402152728,50.24509792053953,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,68,47.928866840371455,46.744307104641905,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,69,48.810443685808515,46.744307104641905,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,70,48.88574535507371,46.744307104641905,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,71,50.07783030694406,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,72,48.17035425611928,49.87375297777117,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,73,49.01694396696978,45.17243683918389,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,74,47.00829796882559,46.744307104641905,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,75,47.49136466223109,47.905747834541586,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,76,47.299126977356316,45.26310256545337,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,77,48.51516647864586,42.74600897016343,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,78,46.84610035500354,47.568130765678056,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,79,48.437414021912765,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,80,46.72602414953288,48.39254843858264,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,81,47.92890649721979,45.66309854602736,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,82,47.38488249109555,49.87375297777117,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,83,47.08636091704012,49.87375297777117,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,84,46.12089304220696,45.26310256545337,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,85,46.646327835943104,46.744307104641905,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,86,46.32943170423663,45.26310256545337,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,87,47.54916242561337,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,88,46.60728561817907,50.24509792053953,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,89,45.45078919714935,45.26310256545337,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,90,47.195364215532244,44.48034614019785,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,91,48.861824348804554,46.744307104641905,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,92,48.92232054439395,43.691232299995356,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,93,47.58321621147694,46.744307104641905,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,94,48.06158172919959,43.611359378939966,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,95,47.472142910978874,43.82810507153763,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,96,47.161355277116094,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,97,45.37987677319119,46.744307104641905,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,98,46.692318102389926,44.20877160383876,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,99,45.268839116565374,43.691232299995356,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,100,45.782232061810625,45.52622577448509,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,101,45.719345830510925,44.834135075499056,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,102,44.911634735216055,43.691232299995356,nasa_pcoe
+NASA PCoE Battery Data Set,B0054,103,0.0,31.166241004098577,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,1,42.852560235820825,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,2,70.78945283354756,72.58685764949523,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,3,68.48813157512292,71.07709984468607,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,4,67.43027112743266,72.27052754223618,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,5,64.72206478048516,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,6,64.77400822777474,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,7,64.41087024988369,73.98068639558146,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,8,63.77251483121289,75.95757340405925,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,9,62.73470471789388,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,10,61.58996380573242,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,11,61.82637091034236,74.57809862048026,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,12,60.70353920490824,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,13,60.74727849548482,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,14,59.85718882566786,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,15,58.913660526097324,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,16,58.59750765226125,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,17,59.487718624432894,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,18,59.398464182831724,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,19,59.35814160444104,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,20,57.530215940290255,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,21,57.79918365447179,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,22,64.26123724671945,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,23,62.35012421779219,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,24,61.982449762503435,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,25,61.00426081161502,63.75098835260247,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,26,59.67381648121687,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,27,58.923951865503234,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,28,58.91720529624765,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,29,59.15355220197846,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,30,58.7259624967599,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,31,58.40971584105211,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,32,57.56529064539569,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,33,58.74791784123612,62.561748594193894,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,34,57.062663503259174,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,35,58.234342144621806,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,36,56.79037804640173,61.438035707350394,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,37,57.99449276896943,61.76613222909039,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,38,56.936632748158864,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,39,56.81811532558639,56.23840047295173,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,40,57.6150576859677,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,41,55.80817870755992,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,42,56.7201597361895,48.479703778053114,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,43,58.907691982661724,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,44,59.5194323712566,50.89639951294339,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,45,57.88752622921116,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,46,57.47371367278576,48.479703778053114,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,47,57.63624836077948,48.80780029979311,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,48,58.26860050911805,62.025811962406024,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,49,60.8202863194226,50.94440420132906,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,50,59.945141188200694,58.070869611760045,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,51,59.24525417683356,50.68427272323118,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,52,58.44362123123715,57.36211335979523,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,53,57.68382739570651,56.23840047295173,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,54,56.90363868309105,48.479703778053114,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,55,56.412101269339985,61.438035707350394,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,56,56.60324763910697,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,57,56.49192982856971,48.479703778053114,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,58,55.324145913287225,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,59,56.4935319439122,42.291486773345795,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,60,55.3376159874402,56.23840047295173,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,61,55.532469758033486,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,62,55.361080277586694,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,63,54.25185933705071,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,64,55.85186705969043,41.919386966976035,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,65,54.7988349514054,56.23840047295173,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,66,54.34679776044947,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,67,55.2414297215702,42.291486773345795,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,68,54.64829032379175,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,69,55.1928221476407,56.23840047295173,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,70,56.677107149923486,42.503613563058,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,71,55.197053854951285,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,72,55.355967218132164,40.41501434990772,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,73,55.82756989737654,61.438035707350394,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,74,54.231355613254536,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,75,55.444877819046944,42.291486773345795,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,76,53.8469763748793,56.23840047295173,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,77,55.42513757043528,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,78,54.16337918776151,40.41501434990772,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,79,54.30993543136323,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,80,53.35784465864231,48.479703778053114,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,81,54.92422949937884,49.60341666489661,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,82,54.75308713029804,42.55161825144367,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,83,54.49628625505667,42.291486773345795,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,84,53.56772727133322,48.479703778053114,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,85,54.4848095720883,42.55161825144367,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,86,53.436660470335184,48.479703778053114,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,87,53.92117804898869,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,88,54.12254506321933,42.67155588667664,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,89,53.55006008228339,40.41501434990772,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,90,58.41888494665821,47.384178970147346,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,91,57.89085281423871,43.280153451014655,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,92,55.38194965055776,61.438035707350394,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,93,56.30673761631265,42.55161825144367,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,94,56.06716035774746,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,95,53.64137787098353,61.438035707350394,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,96,54.08377864732093,63.422891830862476,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,97,53.82879133443312,41.919386966976035,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,98,55.162735007292916,56.23840047295173,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,99,52.65044097141236,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,100,54.31454241117982,42.291486773345795,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,101,54.7128115383125,49.38664170813428,nasa_pcoe
+NASA PCoE Battery Data Set,B0055,102,53.13714376695208,40.08691782816773,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,1,42.1166291707638,56.23840047295173,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,2,72.10149231326724,71.31790423163271,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,3,70.66130027590012,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,4,69.5812844643868,72.00263105341324,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,5,67.78967943155475,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,6,67.52093662851487,70.49825843634493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,7,68.68316649423011,75.28951213525754,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,8,67.43131995015685,76.29333909020463,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,9,65.57280110110723,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,10,65.9295243987481,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,11,65.83839101212428,76.23195966517925,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,12,65.07730334698019,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,13,65.9802818786761,70.49825843634493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,14,63.97063016848712,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,15,63.646562438115716,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,16,63.902758087304626,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,17,65.11974386796659,71.07709984468607,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,18,64.86553264572206,71.81694846075985,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,19,64.73861309419058,70.49825843634493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,20,62.37281592133452,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,21,63.22656559088379,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,22,69.42816008752806,72.27052754223618,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,23,67.59104201919104,70.49825843634493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,24,66.5513910581823,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,25,67.15879333286294,72.45657309220658,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,26,65.85579787027918,70.49825843634493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,27,63.91506770941881,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,28,63.60077939459895,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,29,63.506214370673995,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,30,64.68018630290997,71.29387480144841,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,31,62.50514103006572,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,32,63.233343390644414,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,33,64.42963880240174,72.374730859783,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,34,62.51422157242483,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,35,63.30291975525113,71.07709984468607,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,36,62.52578563389595,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,37,63.093361377248534,72.00263105341324,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,38,61.45415665045418,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,39,62.61933944820146,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,40,61.443650177031174,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,41,61.37553902208141,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,42,62.24176531642372,70.49825843634493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,43,65.81818705401344,72.00263105341324,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,44,66.79850886062866,72.63486233788089,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,45,62.869864747429446,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,46,64.10999430069766,71.29387480144841,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,47,63.92764141145383,72.374730859783,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,48,65.94803529364184,80.56303539007466,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,49,68.51326720010505,73.98068639558146,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,50,66.68632281121526,72.75479997311388,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,51,66.01133140484102,72.8568801833771,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,52,65.23007971357723,72.63486233788089,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,53,64.83307500215415,72.63486233788089,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,54,64.07066090851585,72.00263105341324,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,55,62.93400569189424,70.49825843634493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,56,61.16599211003753,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,57,63.40312213360257,72.58685764949523,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,58,61.573960796901574,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,59,63.42278137117857,72.63486233788089,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,60,61.95705678217964,70.49825843634493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,61,60.15887841565131,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,62,62.35699496488832,72.374730859783,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,63,60.32052456182042,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,64,62.55819997910257,72.63486233788089,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,65,60.85572045630979,70.49825843634493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,66,59.06163057310187,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,67,62.00340130512977,72.63486233788089,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,68,61.0641627774833,71.07709984468607,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,69,63.057453888345215,72.374730859783,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,70,64.19511287541107,72.63486233788089,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,71,60.43048153149242,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,72,62.21952747154216,72.374730859783,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,73,60.93463340376529,72.374730859783,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,74,61.12661273341756,71.07709984468607,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,75,61.999518702847645,72.63486233788089,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,76,60.434387076992046,70.49825843634493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,77,59.89107314346882,71.29387480144841,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,78,60.76920031715996,72.00263105341324,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,79,58.42666477403932,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,80,59.644109872735505,70.49825843634493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,81,60.4974809954217,72.63486233788089,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,82,61.070409203518025,72.63486233788089,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,83,60.450212879842745,72.58685764949523,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,84,59.54045068466671,71.07709984468607,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,85,60.844388413160836,72.63486233788089,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,86,59.449697055186036,71.07709984468607,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,87,57.752935318298114,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,88,60.51910504946873,72.63486233788089,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,89,59.351885838509986,71.07709984468607,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,90,68.19989799899291,75.95757340405925,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,91,66.58918007430752,74.57809862048026,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,92,62.99987159274184,71.29387480144841,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,93,64.30240119427376,73.98068639558146,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,94,61.470640421637036,71.81694846075985,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,95,60.56341459495117,70.49825843634493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,96,59.55076972525768,70.17016191460493,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,97,61.88734420906221,72.374730859783,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,98,60.61676668248517,72.374730859783,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,99,60.38361411564246,71.07709984468607,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,100,61.302819876990554,72.75479997311388,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,101,60.99509385330286,72.63486233788089,nasa_pcoe
+NASA PCoE Battery Data Set,B0056,102,60.554545620086685,71.81694846075985,nasa_pcoe
+NASA PCoE Battery Data Set,B0047,29,65.10939880078352,89.82221691051693,combined
+NASA PCoE Battery Data Set,B0047,30,65.28948619822012,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,31,64.75321699903846,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,32,63.71788481363626,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,33,63.62479216738088,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,34,67.6520112419426,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0047,35,67.83602891379401,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,36,66.86124495502852,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,37,66.15023339532942,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,38,65.05250990973398,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,39,64.35451460187011,89.82221691051693,combined
+NASA PCoE Battery Data Set,B0047,40,63.83670343983599,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,41,63.78309619813661,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,42,62.59316264904968,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,43,62.29631367226881,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,44,61.97567261228494,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,45,61.6161230291124,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,46,61.33296998062748,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,47,61.23796229843796,83.68895914581525,combined
+NASA PCoE Battery Data Set,B0047,48,60.92995526166425,83.68895914581525,combined
+NASA PCoE Battery Data Set,B0047,49,60.26371955536247,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,50,60.714954553910275,83.68895914581525,combined
+NASA PCoE Battery Data Set,B0047,51,59.90833326544281,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,52,60.07099409123008,83.68895914581525,combined
+NASA PCoE Battery Data Set,B0047,53,59.316612108489885,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,54,0.0,92.5430125115472,combined
+NASA PCoE Battery Data Set,B0047,55,63.86536122494283,89.82221691051693,combined
+NASA PCoE Battery Data Set,B0047,56,64.42574153143305,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,57,63.86003642697715,83.68895914581525,combined
+NASA PCoE Battery Data Set,B0047,58,63.09558828719476,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,59,62.36475963187682,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,60,61.76430054081268,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,61,62.12643243127168,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,62,62.7089473852689,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,63,62.15043297050492,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,64,61.3536629982982,83.68895914581525,combined
+NASA PCoE Battery Data Set,B0047,65,61.05521237916528,83.68895914581525,combined
+NASA PCoE Battery Data Set,B0047,66,0.0,70.79912496331939,combined
+NASA PCoE Battery Data Set,B0047,67,65.50223546264895,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,68,64.52590547729804,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,69,63.80767778858917,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0047,70,63.14841632634578,83.68895914581525,combined
+NASA PCoE Battery Data Set,B0047,71,62.13049122189717,83.68895914581525,combined
+NASA PCoE Battery Data Set,B0047,72,62.03747724278704,89.1714681007665,combined
+NASA PCoE Battery Data Set,B0048,1,88.92287092486063,93.45582708025258,combined
+NASA PCoE Battery Data Set,B0048,2,80.86174813259039,91.51163535808841,combined
+NASA PCoE Battery Data Set,B0048,3,80.39133452670787,91.51163535808841,combined
+NASA PCoE Battery Data Set,B0048,4,79.28487018731894,91.51163535808841,combined
+NASA PCoE Battery Data Set,B0048,5,78.40341269987886,91.51163535808841,combined
+NASA PCoE Battery Data Set,B0048,6,77.81894327499003,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,7,77.86119121746584,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,8,77.46676891783285,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,9,76.84170370324908,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,10,76.01055032546068,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,11,75.39456703174504,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,12,74.56404411016165,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,13,76.14059524092664,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,14,76.10790434622082,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,15,75.3149954514123,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,16,74.63609553902393,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,17,73.74299141952996,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,18,72.64640196386198,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,19,72.08361930648523,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,20,0.0,70.79912496331939,combined
+NASA PCoE Battery Data Set,B0048,21,73.60476054632666,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,22,70.70999155207853,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,23,70.32717085137354,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,24,69.56260814204535,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,25,69.69694268108677,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,26,68.79019803979746,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,27,68.39726348208046,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,28,68.30438399758076,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,29,67.54570502273619,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,30,67.74692574262689,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,31,66.9965215723121,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,32,66.18198036915163,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,33,66.50633218933476,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,34,69.92148260979208,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,35,70.53007447899877,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,36,69.12585453090155,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,37,69.0636367533149,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,38,67.9708285498359,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,39,67.0728203172943,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,40,66.97192488960948,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,41,66.93380316400882,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,42,65.97309026076346,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,43,65.6690026054812,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,44,65.3605376952653,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,45,64.56238785647865,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,46,64.0784973973476,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,47,64.63868934210097,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,48,64.12196295245674,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,49,63.761285401507386,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,50,63.90667387142139,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,51,62.89291773641112,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,52,63.507263351649634,90.87194524221452,combined
+NASA PCoE Battery Data Set,B0048,53,62.08970270379746,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,54,0.0,92.5430125115472,combined
+NASA PCoE Battery Data Set,B0048,55,67.54272399485914,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,56,67.89281309706466,91.17187867267674,combined
+NASA PCoE Battery Data Set,B0048,57,66.89398305489267,91.6850280926884,combined
+NASA PCoE Battery Data Set,B0048,58,66.11892967115556,91.6850280926884,combined
+NASA PCoE Battery Data Set,B0048,59,66.07337031085581,91.75080517046933,combined
+NASA PCoE Battery Data Set,B0048,60,65.4741051481843,91.75080517046933,combined
+NASA PCoE Battery Data Set,B0048,61,65.83657376048853,91.75080517046933,combined
+NASA PCoE Battery Data Set,B0048,62,66.43375899455177,91.6850280926884,combined
+NASA PCoE Battery Data Set,B0048,63,65.88021179502009,91.75080517046933,combined
+NASA PCoE Battery Data Set,B0048,64,64.8713997947973,91.75080517046933,combined
+NASA PCoE Battery Data Set,B0048,65,64.7998567195631,92.33869960210156,combined
+NASA PCoE Battery Data Set,B0048,66,0.0,70.79912496331939,combined
+NASA PCoE Battery Data Set,B0048,67,69.71579468140445,90.59020904327829,combined
+NASA PCoE Battery Data Set,B0048,68,68.06651295923724,91.75080517046933,combined
+NASA PCoE Battery Data Set,B0048,69,67.33669978898823,92.33869960210156,combined
+NASA PCoE Battery Data Set,B0048,70,67.1475493553604,92.33869960210156,combined
+NASA PCoE Battery Data Set,B0048,71,66.37043795808191,92.33869960210156,combined
+NASA PCoE Battery Data Set,B0048,72,65.5996921828286,92.33869960210156,combined
+NASA PCoE Battery Data Set,B0049,1,46.03689398855839,85.8334605983499,combined
+NASA PCoE Battery Data Set,B0049,2,76.20708828086384,51.91109641828349,combined
+NASA PCoE Battery Data Set,B0049,3,73.62984230805046,54.27578741883962,combined
+NASA PCoE Battery Data Set,B0049,4,73.17514999674128,67.65792436760185,combined
+NASA PCoE Battery Data Set,B0049,5,110.0,61.81716491659293,combined
+NASA PCoE Battery Data Set,B0049,6,56.879456690284925,52.01367688095476,combined
+NASA PCoE Battery Data Set,B0049,7,54.0078217393816,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0049,8,49.87189405727128,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0049,9,49.5157816545865,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0049,10,48.55523022840937,41.63662345531554,combined
+NASA PCoE Battery Data Set,B0049,11,46.101903031269146,49.745604759970746,combined
+NASA PCoE Battery Data Set,B0049,12,44.888547405718235,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0049,13,45.356278088490384,36.66845092749546,combined
+NASA PCoE Battery Data Set,B0049,14,43.28814445189468,49.67434441741568,combined
+NASA PCoE Battery Data Set,B0049,15,41.944806728146105,49.67434441741568,combined
+NASA PCoE Battery Data Set,B0049,16,42.654234443933404,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0049,17,0.0,46.488814299497186,combined
+NASA PCoE Battery Data Set,B0049,18,41.576386138311975,49.67434441741568,combined
+NASA PCoE Battery Data Set,B0049,19,41.360861566286935,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0049,20,40.68097527649506,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0049,21,39.416784604502155,49.67434441741568,combined
+NASA PCoE Battery Data Set,B0049,22,39.50995297673596,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0049,23,38.04679009032013,49.745604759970746,combined
+NASA PCoE Battery Data Set,B0049,24,38.54299181332008,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0049,25,37.081071363537745,49.745604759970746,combined
+NASA PCoE Battery Data Set,B0050,1,46.29283653585583,82.91765116283955,combined
+NASA PCoE Battery Data Set,B0050,2,88.42912930471681,92.06375809229168,combined
+NASA PCoE Battery Data Set,B0050,3,85.9001774382811,77.70836318799893,combined
+NASA PCoE Battery Data Set,B0050,4,83.22497530879694,68.66450601323756,combined
+NASA PCoE Battery Data Set,B0050,5,1.7461976123886138,47.35379699839145,combined
+NASA PCoE Battery Data Set,B0050,6,110.0,61.53399455165299,combined
+NASA PCoE Battery Data Set,B0050,7,72.88839765243463,77.95482630116639,combined
+NASA PCoE Battery Data Set,B0050,8,73.70305830399299,70.991141040195,combined
+NASA PCoE Battery Data Set,B0050,9,72.55455435691135,72.36372803399783,combined
+NASA PCoE Battery Data Set,B0050,10,72.98026844103306,52.70853970967949,combined
+NASA PCoE Battery Data Set,B0050,11,28.25795589937517,32.04885621998518,combined
+NASA PCoE Battery Data Set,B0050,12,75.10041444044137,86.72604968815465,combined
+NASA PCoE Battery Data Set,B0050,13,76.63731740209757,77.35398096774388,combined
+NASA PCoE Battery Data Set,B0050,14,4.107386341599721,64.9109622492335,combined
+NASA PCoE Battery Data Set,B0050,15,30.768754360723804,62.81296422447326,combined
+NASA PCoE Battery Data Set,B0050,16,16.16889213844158,64.51271219259472,combined
+NASA PCoE Battery Data Set,B0050,17,0.0,45.864191702050675,combined
+NASA PCoE Battery Data Set,B0050,18,9.630588540890814,27.139915299032175,combined
+NASA PCoE Battery Data Set,B0050,19,63.24207052562086,54.396360512662234,combined
+NASA PCoE Battery Data Set,B0050,20,5.159005353585839,56.602156785382796,combined
+NASA PCoE Battery Data Set,B0050,21,14.914474209885114,55.26194143734824,combined
+NASA PCoE Battery Data Set,B0051,1,34.51125987011554,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0051,2,69.35683106505907,81.60165092746671,combined
+NASA PCoE Battery Data Set,B0051,3,65.90897239098618,80.33210482066751,combined
+NASA PCoE Battery Data Set,B0051,4,64.56864440528915,76.33338283794534,combined
+NASA PCoE Battery Data Set,B0051,5,110.0,89.60117235351278,combined
+NASA PCoE Battery Data Set,B0051,6,54.13051440310062,82.704390347572,combined
+NASA PCoE Battery Data Set,B0051,7,51.30326948698526,55.70872713658264,combined
+NASA PCoE Battery Data Set,B0051,8,48.37440091820751,57.22186595730473,combined
+NASA PCoE Battery Data Set,B0051,9,47.721924944828714,39.61309874595863,combined
+NASA PCoE Battery Data Set,B0051,10,47.36156845014394,62.65109548024423,combined
+NASA PCoE Battery Data Set,B0051,11,45.219225840763634,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0051,12,44.33064200077691,55.84927896350188,combined
+NASA PCoE Battery Data Set,B0051,13,44.797732413084375,36.66845092749546,combined
+NASA PCoE Battery Data Set,B0051,14,43.04414468562094,47.38903566444376,combined
+NASA PCoE Battery Data Set,B0051,15,42.043890153759975,60.35452966583486,combined
+NASA PCoE Battery Data Set,B0051,16,42.42760413610897,65.81568863997774,combined
+NASA PCoE Battery Data Set,B0051,17,0.0,44.59055860852649,combined
+NASA PCoE Battery Data Set,B0051,18,41.053397668644735,55.70872713658264,combined
+NASA PCoE Battery Data Set,B0051,19,41.46763136238097,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0051,20,40.7892858848161,58.90350069310145,combined
+NASA PCoE Battery Data Set,B0051,21,39.56182810902036,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0051,22,39.644233138909506,58.90350069310145,combined
+NASA PCoE Battery Data Set,B0051,23,37.621100641199966,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0051,24,37.79687690479652,55.70872713658264,combined
+NASA PCoE Battery Data Set,B0051,25,36.35490372809517,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0052,1,46.15952149228024,75.43433674454442,combined
+NASA PCoE Battery Data Set,B0052,2,76.06784673395903,81.60165092746671,combined
+NASA PCoE Battery Data Set,B0052,3,73.51507730174156,80.33210482066751,combined
+NASA PCoE Battery Data Set,B0052,4,72.48814049684249,76.33338283794534,combined
+NASA PCoE Battery Data Set,B0053,1,57.34101975472905,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,2,61.89610353990099,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,3,61.685849621067334,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,4,60.636462767954654,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,5,60.16470299133982,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,6,59.725341733584024,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,7,58.27013306819154,49.67434441741568,combined
+NASA PCoE Battery Data Set,B0053,8,57.10544153983235,49.67434441741568,combined
+NASA PCoE Battery Data Set,B0053,9,57.97319015918355,49.745604759970746,combined
+NASA PCoE Battery Data Set,B0053,10,58.206299281246196,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,11,56.340136259936855,49.67434441741568,combined
+NASA PCoE Battery Data Set,B0053,12,58.21057990026295,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,13,56.35942129567507,49.67434441741568,combined
+NASA PCoE Battery Data Set,B0053,14,56.8993540008281,49.745604759970746,combined
+NASA PCoE Battery Data Set,B0053,15,57.41828698716992,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,16,54.92190773986344,49.745604759970746,combined
+NASA PCoE Battery Data Set,B0053,17,57.23128374405213,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,18,55.13038466181198,49.67434441741568,combined
+NASA PCoE Battery Data Set,B0053,19,55.378106577032206,49.745604759970746,combined
+NASA PCoE Battery Data Set,B0053,20,56.633442603526575,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,21,56.021095903362664,49.745604759970746,combined
+NASA PCoE Battery Data Set,B0053,22,55.52673725299021,49.745604759970746,combined
+NASA PCoE Battery Data Set,B0053,23,57.72713614388131,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,24,55.52182488039376,49.745604759970746,combined
+NASA PCoE Battery Data Set,B0053,25,56.39101831531491,49.745604759970746,combined
+NASA PCoE Battery Data Set,B0053,26,56.868576646165835,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,27,54.90367156324011,49.745604759970746,combined
+NASA PCoE Battery Data Set,B0053,28,56.13142297211057,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,29,53.79966930613115,49.67434441741568,combined
+NASA PCoE Battery Data Set,B0053,30,56.108330139018,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,31,54.470839411797144,49.745604759970746,combined
+NASA PCoE Battery Data Set,B0053,32,54.97386842141356,49.745604759970746,combined
+NASA PCoE Battery Data Set,B0053,33,52.567241908250665,49.67434441741568,combined
+NASA PCoE Battery Data Set,B0053,34,55.60524861323681,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,35,55.0717252847157,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,36,54.43928269930218,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,37,53.12117770396313,49.745604759970746,combined
+NASA PCoE Battery Data Set,B0053,38,54.41453392761147,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,39,52.62075301618596,49.67434441741568,combined
+NASA PCoE Battery Data Set,B0053,40,53.85633630528898,49.745604759970746,combined
+NASA PCoE Battery Data Set,B0053,41,54.05218945188083,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,42,52.69172195211057,49.745604759970746,combined
+NASA PCoE Battery Data Set,B0053,43,59.51506354431657,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,44,59.72973526705106,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,45,55.69766501765013,49.67434441741568,combined
+NASA PCoE Battery Data Set,B0053,46,57.75612663866706,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,47,57.50346060352612,49.745604759970746,combined
+NASA PCoE Battery Data Set,B0053,48,54.30096026820147,49.67434441741568,combined
+NASA PCoE Battery Data Set,B0053,49,55.134176535690536,49.745604759970746,combined
+NASA PCoE Battery Data Set,B0053,50,55.26398079029362,49.67434441741568,combined
+NASA PCoE Battery Data Set,B0053,51,56.61561200501887,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,52,53.69237018609071,49.67434441741568,combined
+NASA PCoE Battery Data Set,B0053,53,56.13654246930949,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,54,56.1632373401908,49.957514782355624,combined
+NASA PCoE Battery Data Set,B0053,55,54.18377848292231,49.67434441741568,combined
+NASA PCoE Battery Data Set,B0053,56,0.0,33.30138657732498,combined
+NASA PCoE Battery Data Set,B0054,1,39.68475824863408,36.20739393237602,combined
+NASA PCoE Battery Data Set,B0054,2,62.56496998449377,55.70872713658264,combined
+NASA PCoE Battery Data Set,B0054,3,59.27771768928633,39.61309874595863,combined
+NASA PCoE Battery Data Set,B0054,4,58.78312071765887,49.67434441741568,combined
+NASA PCoE Battery Data Set,B0054,5,57.679082024387775,57.081314130385486,combined
+NASA PCoE Battery Data Set,B0054,6,57.14834752421126,49.67434441741568,combined
+NASA PCoE Battery Data Set,B0054,7,56.681072423703206,39.61309874595863,combined
+NASA PCoE Battery Data Set,B0054,8,56.04121147989084,46.75853498190531,combined
+NASA PCoE Battery Data Set,B0054,9,56.0910874298596,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0054,10,54.60822344291979,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0054,11,54.847050235043646,46.75853498190531,combined
+NASA PCoE Battery Data Set,B0054,12,55.719585183655276,57.081314130385486,combined
+NASA PCoE Battery Data Set,B0054,13,54.56194451924451,41.96473712928943,combined
+NASA PCoE Battery Data Set,B0054,14,55.412499762494974,55.70872713658264,combined
+NASA PCoE Battery Data Set,B0054,15,54.14351123194356,55.70872713658264,combined
+NASA PCoE Battery Data Set,B0054,16,52.895214969679714,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,17,54.06207633059906,45.387316773619695,combined
+NASA PCoE Battery Data Set,B0054,18,54.45541596005672,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,19,54.20548245181439,41.96473712928943,combined
+NASA PCoE Battery Data Set,B0054,20,54.19105369872717,55.70872713658264,combined
+NASA PCoE Battery Data Set,B0054,21,52.56778734463131,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,22,59.08528479845799,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,23,58.06556798916479,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0054,24,56.716683542806564,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,25,55.70039080075786,43.77518242871941,combined
+NASA PCoE Battery Data Set,B0054,26,54.02585588540234,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,27,54.49302618320452,55.70872713658264,combined
+NASA PCoE Battery Data Set,B0054,28,54.481866965482,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0054,29,53.71526271113154,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0054,30,52.627079921268006,45.387316773619695,combined
+NASA PCoE Battery Data Set,B0054,31,53.565263838461384,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0054,32,51.40170884688029,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,33,52.56463808251317,43.77518242871941,combined
+NASA PCoE Battery Data Set,B0054,34,52.13303419780981,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0054,35,51.987317265956804,43.77518242871941,combined
+NASA PCoE Battery Data Set,B0054,36,50.84270621166799,43.77518242871941,combined
+NASA PCoE Battery Data Set,B0054,37,51.69403599218847,41.96473712928943,combined
+NASA PCoE Battery Data Set,B0054,38,51.929039313358295,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0054,39,50.45244465908718,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,40,51.586354870797265,36.45842721885625,combined
+NASA PCoE Battery Data Set,B0054,41,50.05191138000581,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0054,42,49.950623738786035,45.387316773619695,combined
+NASA PCoE Battery Data Set,B0054,43,53.50633790049466,43.77518242871941,combined
+NASA PCoE Battery Data Set,B0054,44,52.73877896744209,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,45,53.119865435362435,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0054,46,50.95042734254622,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,47,51.090711861009474,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,48,47.46592780967738,41.96473712928943,combined
+NASA PCoE Battery Data Set,B0054,49,53.29702883918838,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,50,53.39180089386897,43.77518242871941,combined
+NASA PCoE Battery Data Set,B0054,51,52.31381150139479,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,52,51.80712609833681,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,53,51.34640484542552,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,54,49.85034043459082,43.77518242871941,combined
+NASA PCoE Battery Data Set,B0054,55,50.004788223423255,43.77518242871941,combined
+NASA PCoE Battery Data Set,B0054,56,51.19613209959629,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0054,57,50.04065901437633,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,58,49.518810889049256,43.44716340869766,combined
+NASA PCoE Battery Data Set,B0054,59,49.65212756755114,43.92757850474639,combined
+NASA PCoE Battery Data Set,B0054,60,49.142437415983395,43.77518242871941,combined
+NASA PCoE Battery Data Set,B0054,61,50.345129884494554,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0054,62,49.12218994392386,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,63,49.356127459661536,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0054,64,48.86616503320618,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,65,48.16493352719556,43.77518242871941,combined
+NASA PCoE Battery Data Set,B0054,66,49.76510743202933,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0054,67,48.90457402152728,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,68,47.928866840371455,43.77518242871941,combined
+NASA PCoE Battery Data Set,B0054,69,48.810443685808515,43.77518242871941,combined
+NASA PCoE Battery Data Set,B0054,70,48.88574535507371,43.77518242871941,combined
+NASA PCoE Battery Data Set,B0054,71,50.07783030694406,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0054,72,48.17035425611928,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,73,49.01694396696978,41.96473712928943,combined
+NASA PCoE Battery Data Set,B0054,74,47.00829796882559,43.77518242871941,combined
+NASA PCoE Battery Data Set,B0054,75,47.49136466223109,44.71042426486728,combined
+NASA PCoE Battery Data Set,B0054,76,47.299126977356316,43.44716340869766,combined
+NASA PCoE Battery Data Set,B0054,77,48.51516647864586,39.26161566197556,combined
+NASA PCoE Battery Data Set,B0054,78,46.84610035500354,44.71042426486728,combined
+NASA PCoE Battery Data Set,B0054,79,48.437414021912765,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0054,80,46.72602414953288,44.906482011064824,combined
+NASA PCoE Battery Data Set,B0054,81,47.92890649721979,42.035997471844496,combined
+NASA PCoE Battery Data Set,B0054,82,47.38488249109555,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,83,47.08636091704012,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,84,46.12089304220696,43.44716340869766,combined
+NASA PCoE Battery Data Set,B0054,85,46.646327835943104,43.77518242871941,combined
+NASA PCoE Battery Data Set,B0054,86,46.32943170423663,43.44716340869766,combined
+NASA PCoE Battery Data Set,B0054,87,47.54916242561337,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0054,88,46.60728561817907,45.23450103108657,combined
+NASA PCoE Battery Data Set,B0054,89,45.45078919714935,43.44716340869766,combined
+NASA PCoE Battery Data Set,B0054,90,47.195364215532244,41.47315233663399,combined
+NASA PCoE Battery Data Set,B0054,91,48.861824348804554,43.77518242871941,combined
+NASA PCoE Battery Data Set,B0054,92,48.92232054439395,41.63671810926768,combined
+NASA PCoE Battery Data Set,B0054,93,47.58321621147694,43.77518242871941,combined
+NASA PCoE Battery Data Set,B0054,94,48.06158172919959,40.6777657820343,combined
+NASA PCoE Battery Data Set,B0054,95,47.472142910978874,41.63671810926768,combined
+NASA PCoE Battery Data Set,B0054,96,47.161355277116094,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0054,97,45.37987677319119,43.77518242871941,combined
+NASA PCoE Battery Data Set,B0054,98,46.692318102389926,40.854449962708735,combined
+NASA PCoE Battery Data Set,B0054,99,45.268839116565374,41.63671810926768,combined
+NASA PCoE Battery Data Set,B0054,100,45.782232061810625,42.035997471844496,combined
+NASA PCoE Battery Data Set,B0054,101,45.719345830510925,41.54441267918905,combined
+NASA PCoE Battery Data Set,B0054,102,44.911634735216055,41.63671810926768,combined
+NASA PCoE Battery Data Set,B0054,103,0.0,33.30138657732498,combined
+NASA PCoE Battery Data Set,B0055,1,42.852560235820825,62.81296422447326,combined
+NASA PCoE Battery Data Set,B0055,2,70.78945283354756,73.63718953436558,combined
+NASA PCoE Battery Data Set,B0055,3,68.48813157512292,70.83400109124624,combined
+NASA PCoE Battery Data Set,B0055,4,67.43027112743266,72.69806066824823,combined
+NASA PCoE Battery Data Set,B0055,5,64.72206478048516,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0055,6,64.77400822777474,70.69592710571288,combined
+NASA PCoE Battery Data Set,B0055,7,64.41087024988369,75.35971410068503,combined
+NASA PCoE Battery Data Set,B0055,8,63.77251483121289,76.89144785897767,combined
+NASA PCoE Battery Data Set,B0055,9,62.73470471789388,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0055,10,61.58996380573242,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0055,11,61.82637091034236,75.83368599271624,combined
+NASA PCoE Battery Data Set,B0055,12,60.70353920490824,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0055,13,60.74727849548482,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0055,14,59.85718882566786,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0055,15,58.913660526097324,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0055,16,58.59750765226125,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0055,17,59.487718624432894,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,18,59.398464182831724,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,19,59.35814160444104,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,20,57.530215940290255,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0055,21,57.79918365447179,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,22,64.26123724671945,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0055,23,62.35012421779219,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0055,24,61.982449762503435,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0055,25,61.00426081161502,62.92592352542014,combined
+NASA PCoE Battery Data Set,B0055,26,59.67381648121687,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,27,58.923951865503234,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0055,28,58.91720529624765,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0055,29,59.15355220197846,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0055,30,58.7259624967599,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,31,58.40971584105211,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0055,32,57.56529064539569,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,33,58.74791784123612,61.886302919722965,combined
+NASA PCoE Battery Data Set,B0055,34,57.062663503259174,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,35,58.234342144621806,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,36,56.79037804640173,60.35452966583486,combined
+NASA PCoE Battery Data Set,B0055,37,57.99449276896943,60.74611477923433,combined
+NASA PCoE Battery Data Set,B0055,38,56.936632748158864,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0055,39,56.81811532558639,57.081314130385486,combined
+NASA PCoE Battery Data Set,B0055,40,57.6150576859677,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,41,55.80817870755992,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,42,56.7201597361895,55.70872713658264,combined
+NASA PCoE Battery Data Set,B0055,43,58.907691982661724,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,44,59.5194323712566,58.90350069310145,combined
+NASA PCoE Battery Data Set,B0055,45,57.88752622921116,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0055,46,57.47371367278576,55.70872713658264,combined
+NASA PCoE Battery Data Set,B0055,47,57.63624836077948,56.10031224998211,combined
+NASA PCoE Battery Data Set,B0055,48,58.26860050911805,64.15496860896292,combined
+NASA PCoE Battery Data Set,B0055,49,60.8202863194226,58.90350069310145,combined
+NASA PCoE Battery Data Set,B0055,50,59.945141188200694,59.18180302897215,combined
+NASA PCoE Battery Data Set,B0055,51,59.24525417683356,59.92183081849177,combined
+NASA PCoE Battery Data Set,B0055,52,58.44362123123715,58.613087384273584,combined
+NASA PCoE Battery Data Set,B0055,53,57.68382739570651,57.334825258251605,combined
+NASA PCoE Battery Data Set,B0055,54,56.90363868309105,55.70872713658264,combined
+NASA PCoE Battery Data Set,B0055,55,56.412101269339985,60.35452966583486,combined
+NASA PCoE Battery Data Set,B0055,56,56.60324763910697,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,57,56.49192982856971,55.70872713658264,combined
+NASA PCoE Battery Data Set,B0055,58,55.324145913287225,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,59,56.4935319439122,50.22955235255003,combined
+NASA PCoE Battery Data Set,B0055,60,55.3376159874402,57.081314130385486,combined
+NASA PCoE Battery Data Set,B0055,61,55.532469758033486,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,62,55.361080277586694,47.64254679230988,combined
+NASA PCoE Battery Data Set,B0055,63,54.25185933705071,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,64,55.85186705969043,41.71358764454527,combined
+NASA PCoE Battery Data Set,B0055,65,54.7988349514054,57.081314130385486,combined
+NASA PCoE Battery Data Set,B0055,66,54.34679776044947,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,67,55.2414297215702,50.22955235255003,combined
+NASA PCoE Battery Data Set,B0055,68,54.64829032379175,47.38903566444376,combined
+NASA PCoE Battery Data Set,B0055,69,55.1928221476407,57.081314130385486,combined
+NASA PCoE Battery Data Set,B0055,70,56.677107149923486,39.26161566197556,combined
+NASA PCoE Battery Data Set,B0055,71,55.197053854951285,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,72,55.355967218132164,40.0046838593581,combined
+NASA PCoE Battery Data Set,B0055,73,55.82756989737654,60.35452966583486,combined
+NASA PCoE Battery Data Set,B0055,74,54.231355613254536,39.61309874595863,combined
+NASA PCoE Battery Data Set,B0055,75,55.444877819046944,42.45361543406489,combined
+NASA PCoE Battery Data Set,B0055,76,53.8469763748793,57.081314130385486,combined
+NASA PCoE Battery Data Set,B0055,77,55.42513757043528,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,78,54.16337918776151,40.0046838593581,combined
+NASA PCoE Battery Data Set,B0055,79,54.30993543136323,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,80,53.35784465864231,55.70872713658264,combined
+NASA PCoE Battery Data Set,B0055,81,54.92422949937884,57.240500390470736,combined
+NASA PCoE Battery Data Set,B0055,82,54.75308713029804,39.26161566197556,combined
+NASA PCoE Battery Data Set,B0055,83,54.49628625505667,42.45361543406489,combined
+NASA PCoE Battery Data Set,B0055,84,53.56772727133322,55.70872713658264,combined
+NASA PCoE Battery Data Set,B0055,85,54.4848095720883,39.26161566197556,combined
+NASA PCoE Battery Data Set,B0055,86,53.436660470335184,55.70872713658264,combined
+NASA PCoE Battery Data Set,B0055,87,53.92117804898869,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,88,54.12254506321933,39.26161566197556,combined
+NASA PCoE Battery Data Set,B0055,89,53.55006008228339,39.86660987382475,combined
+NASA PCoE Battery Data Set,B0055,90,58.41888494665821,44.49800739089435,combined
+NASA PCoE Battery Data Set,B0055,91,57.89085281423871,40.15116631964873,combined
+NASA PCoE Battery Data Set,B0055,92,55.38194965055776,60.35452966583486,combined
+NASA PCoE Battery Data Set,B0055,93,56.30673761631265,39.26161566197556,combined
+NASA PCoE Battery Data Set,B0055,94,56.06716035774746,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,95,53.64137787098353,60.35452966583486,combined
+NASA PCoE Battery Data Set,B0055,96,54.08377864732093,62.67241239755402,combined
+NASA PCoE Battery Data Set,B0055,97,53.82879133443312,38.16733100404342,combined
+NASA PCoE Battery Data Set,B0055,98,55.162735007292916,57.081314130385486,combined
+NASA PCoE Battery Data Set,B0055,99,52.65044097141236,39.61309874595863,combined
+NASA PCoE Battery Data Set,B0055,100,54.31454241117982,42.45361543406489,combined
+NASA PCoE Battery Data Set,B0055,101,54.7128115383125,57.00868947995876,combined
+NASA PCoE Battery Data Set,B0055,102,53.13714376695208,36.06684210545678,combined
+NASA PCoE Battery Data Set,B0056,1,42.1166291707638,57.22186595730473,combined
+NASA PCoE Battery Data Set,B0056,2,72.10149231326724,71.97418923173487,combined
+NASA PCoE Battery Data Set,B0056,3,70.66130027590012,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,4,69.5812844643868,72.54290487643343,combined
+NASA PCoE Battery Data Set,B0056,5,67.78967943155475,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,6,67.52093662851487,70.83400109124624,combined
+NASA PCoE Battery Data Set,B0056,7,68.68316649423011,76.89144785897767,combined
+NASA PCoE Battery Data Set,B0056,8,67.43131995015685,77.51607045642416,combined
+NASA PCoE Battery Data Set,B0056,9,65.57280110110723,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,10,65.9295243987481,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,11,65.83839101212428,77.51607045642416,combined
+NASA PCoE Battery Data Set,B0056,12,65.07730334698019,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,13,65.9802818786761,70.69592710571288,combined
+NASA PCoE Battery Data Set,B0056,14,63.97063016848712,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,15,63.646562438115716,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,16,63.902758087304626,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,17,65.11974386796659,70.83400109124624,combined
+NASA PCoE Battery Data Set,B0056,18,64.86553264572206,72.54290487643343,combined
+NASA PCoE Battery Data Set,B0056,19,64.73861309419058,70.83400109124624,combined
+NASA PCoE Battery Data Set,B0056,20,62.37281592133452,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,21,63.22656559088379,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,22,69.42816008752806,72.69806066824823,combined
+NASA PCoE Battery Data Set,B0056,23,67.59104201919104,70.69592710571288,combined
+NASA PCoE Battery Data Set,B0056,24,66.5513910581823,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,25,67.15879333286294,73.58569222027042,combined
+NASA PCoE Battery Data Set,B0056,26,65.85579787027918,70.83400109124624,combined
+NASA PCoE Battery Data Set,B0056,27,63.91506770941881,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,28,63.60077939459895,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,29,63.506214370673995,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,30,64.68018630290997,71.97418923173487,combined
+NASA PCoE Battery Data Set,B0056,31,62.50514103006572,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,32,63.233343390644414,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,33,64.42963880240174,73.44376949331915,combined
+NASA PCoE Battery Data Set,B0056,34,62.51422157242483,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,35,63.30291975525113,71.74237832122289,combined
+NASA PCoE Battery Data Set,B0056,36,62.52578563389595,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,37,63.093361377248534,72.54290487643343,combined
+NASA PCoE Battery Data Set,B0056,38,61.45415665045418,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,39,62.61933944820146,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,40,61.443650177031174,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,41,61.37553902208141,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,42,62.24176531642372,70.83400109124624,combined
+NASA PCoE Battery Data Set,B0056,43,65.81818705401344,72.54290487643343,combined
+NASA PCoE Battery Data Set,B0056,44,66.79850886062866,73.63718953436558,combined
+NASA PCoE Battery Data Set,B0056,45,62.869864747429446,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,46,64.10999430069766,71.97418923173487,combined
+NASA PCoE Battery Data Set,B0056,47,63.92764141145383,73.28293266595307,combined
+NASA PCoE Battery Data Set,B0056,48,65.94803529364184,79.4789118318811,combined
+NASA PCoE Battery Data Set,B0056,49,68.51326720010505,75.35971410068503,combined
+NASA PCoE Battery Data Set,B0056,50,66.68632281121526,73.63718953436558,combined
+NASA PCoE Battery Data Set,B0056,51,66.01133140484102,73.63718953436558,combined
+NASA PCoE Battery Data Set,B0056,52,65.23007971357723,73.63718953436558,combined
+NASA PCoE Battery Data Set,B0056,53,64.83307500215415,73.63718953436558,combined
+NASA PCoE Battery Data Set,B0056,54,64.07066090851585,72.54290487643343,combined
+NASA PCoE Battery Data Set,B0056,55,62.93400569189424,70.83400109124624,combined
+NASA PCoE Battery Data Set,B0056,56,61.16599211003753,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,57,63.40312213360257,73.63718953436558,combined
+NASA PCoE Battery Data Set,B0056,58,61.573960796901574,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,59,63.42278137117857,73.63718953436558,combined
+NASA PCoE Battery Data Set,B0056,60,61.95705678217964,70.83400109124624,combined
+NASA PCoE Battery Data Set,B0056,61,60.15887841565131,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,62,62.35699496488832,73.28293266595307,combined
+NASA PCoE Battery Data Set,B0056,63,60.32052456182042,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,64,62.55819997910257,73.63718953436558,combined
+NASA PCoE Battery Data Set,B0056,65,60.85572045630979,70.69592710571288,combined
+NASA PCoE Battery Data Set,B0056,66,59.06163057310187,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,67,62.00340130512977,73.63718953436558,combined
+NASA PCoE Battery Data Set,B0056,68,61.0641627774833,71.74237832122289,combined
+NASA PCoE Battery Data Set,B0056,69,63.057453888345215,73.28293266595307,combined
+NASA PCoE Battery Data Set,B0056,70,64.19511287541107,73.63718953436558,combined
+NASA PCoE Battery Data Set,B0056,71,60.43048153149242,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,72,62.21952747154216,73.28293266595307,combined
+NASA PCoE Battery Data Set,B0056,73,60.93463340376529,73.28293266595307,combined
+NASA PCoE Battery Data Set,B0056,74,61.12661273341756,71.74237832122289,combined
+NASA PCoE Battery Data Set,B0056,75,61.999518702847645,73.63718953436558,combined
+NASA PCoE Battery Data Set,B0056,76,60.434387076992046,70.83400109124624,combined
+NASA PCoE Battery Data Set,B0056,77,59.89107314346882,71.97418923173487,combined
+NASA PCoE Battery Data Set,B0056,78,60.76920031715996,72.69806066824823,combined
+NASA PCoE Battery Data Set,B0056,79,58.42666477403932,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,80,59.644109872735505,70.69592710571288,combined
+NASA PCoE Battery Data Set,B0056,81,60.4974809954217,73.63718953436558,combined
+NASA PCoE Battery Data Set,B0056,82,61.070409203518025,73.63718953436558,combined
+NASA PCoE Battery Data Set,B0056,83,60.450212879842745,73.63718953436558,combined
+NASA PCoE Battery Data Set,B0056,84,59.54045068466671,71.74237832122289,combined
+NASA PCoE Battery Data Set,B0056,85,60.844388413160836,73.63718953436558,combined
+NASA PCoE Battery Data Set,B0056,86,59.449697055186036,70.83400109124624,combined
+NASA PCoE Battery Data Set,B0056,87,57.752935318298114,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,88,60.51910504946873,73.63718953436558,combined
+NASA PCoE Battery Data Set,B0056,89,59.351885838509986,71.74237832122289,combined
+NASA PCoE Battery Data Set,B0056,90,68.19989799899291,76.89144785897767,combined
+NASA PCoE Battery Data Set,B0056,91,66.58918007430752,76.15398455267476,combined
+NASA PCoE Battery Data Set,B0056,92,62.99987159274184,71.97418923173487,combined
+NASA PCoE Battery Data Set,B0056,93,64.30240119427376,75.06787732338388,combined
+NASA PCoE Battery Data Set,B0056,94,61.470640421637036,72.54290487643343,combined
+NASA PCoE Battery Data Set,B0056,95,60.56341459495117,70.69592710571288,combined
+NASA PCoE Battery Data Set,B0056,96,59.55076972525768,70.44241597784676,combined
+NASA PCoE Battery Data Set,B0056,97,61.88734420906221,73.58569222027042,combined
+NASA PCoE Battery Data Set,B0056,98,60.61676668248517,73.28293266595307,combined
+NASA PCoE Battery Data Set,B0056,99,60.38361411564246,71.74237832122289,combined
+NASA PCoE Battery Data Set,B0056,100,61.302819876990554,73.63718953436558,combined
+NASA PCoE Battery Data Set,B0056,101,60.99509385330286,73.63718953436558,combined
+NASA PCoE Battery Data Set,B0056,102,60.554545620086685,72.54290487643343,combined
+User-provided file2.csv,User-provided file2.csv,1126,4.586775262282008,23.33914077014272,combined
+User-provided file2.csv,User-provided file2.csv,1127,5.291335690258872,23.33914077014272,combined
+User-provided file2.csv,User-provided file2.csv,1128,4.789963767381844,3.8691257376257933,combined
+User-provided file2.csv,User-provided file2.csv,1129,5.32274911546892,15.019449298003865,combined
+User-provided file2.csv,User-provided file2.csv,1130,4.640022947886424,3.8691257376257933,combined
+User-provided file2.csv,User-provided file2.csv,1131,5.3712433808340325,15.019449298003865,combined
+User-provided file2.csv,User-provided file2.csv,1132,4.682558918989926,3.8691257376257933,combined
+User-provided file2.csv,User-provided file2.csv,1133,4.657581611571706,6.7443602426100595,combined
+User-provided file2.csv,User-provided file2.csv,1134,4.699827220166881,4.937262687712241,combined
+User-provided file2.csv,User-provided file2.csv,1135,4.715722473935187,4.349503286446645,combined
+User-provided file2.csv,User-provided file2.csv,1136,4.7255100668858585,4.349503286446645,combined
+User-provided file2.csv,User-provided file2.csv,1137,4.736089538705208,4.287436792828283,combined
+User-provided file2.csv,User-provided file2.csv,1138,4.756790189878628,23.33914077014272,combined
+User-provided file2.csv,User-provided file2.csv,1139,4.769756671497732,7.8124971926965046,combined
+User-provided file2.csv,User-provided file2.csv,1140,4.76205393202735,4.937262687712241,combined
+User-provided file2.csv,User-provided file2.csv,1141,4.781844578675435,4.349503286446645,combined
+User-provided file2.csv,User-provided file2.csv,1142,4.061525923933372,4.937262687712241,combined
+User-provided file2.csv,User-provided file2.csv,1143,4.824639030213191,4.937262687712241,combined
+User-provided file2.csv,User-provided file2.csv,1144,4.832726360611703,4.937262687712241,combined
+User-provided file2.csv,User-provided file2.csv,1145,4.842736750245215,4.937262687712241,combined
+User-provided file2.csv,User-provided file2.csv,1146,4.8567366562583345,4.937262687712241,combined
+User-provided file2.csv,User-provided file2.csv,1147,4.10290554399042,4.937262687712241,combined
+User-provided file2.csv,User-provided file2.csv,1148,4.115353991684347,4.937262687712241,combined
+User-provided file2.csv,User-provided file2.csv,1149,4.138375270746166,4.937262687712241,combined
+User-provided file2.csv,User-provided file2.csv,1150,4.14100215391521,4.937262687712241,combined
+User-provided file2.csv,User-provided file2.csv,1151,4.152774454331314,3.8691257376257933,combined
+User-provided file2.csv,User-provided file2.csv,1152,4.169553362958201,4.287436792828283,combined
+User-provided file2.csv,User-provided file2.csv,1153,4.177762647497348,3.807477680054652,combined
+User-provided file2.csv,User-provided file2.csv,1154,4.190096328116319,3.807477680054652,combined
+User-provided file2.csv,User-provided file2.csv,1155,3.4178291981999815,4.668279075446265,combined
+User-provided file2.csv,User-provided file2.csv,1156,4.177215491041404,3.807477680054652,combined
+User-provided file2.csv,User-provided file2.csv,1157,3.4233765225302957,3.9515321317556835,combined
+User-provided file2.csv,User-provided file2.csv,1158,3.4412069921106694,4.668279075446265,combined
+User-provided file2.csv,User-provided file2.csv,1159,79.04120352664154,84.61038546062537,combined
+User-provided file2.csv,User-provided file2.csv,1160,83.81684749296373,86.35887601944863,combined
+User-provided file2.csv,User-provided file2.csv,1161,83.64782133215554,86.35887601944863,combined
+User-provided file2.csv,User-provided file2.csv,1162,83.31823706906566,86.35887601944863,combined
+User-provided file2.csv,User-provided file2.csv,1163,82.70759439590314,86.35887601944863,combined
+User-provided file2.csv,User-provided file2.csv,1164,82.47261223139193,86.35887601944863,combined
+User-provided file2.csv,User-provided file2.csv,1165,81.86020533482187,86.35887601944863,combined
+User-provided file2.csv,User-provided file2.csv,1166,81.4205994693064,86.35887601944863,combined
+User-provided file2.csv,User-provided file2.csv,1167,81.15930256414546,86.35887601944863,combined
+User-provided file2.csv,User-provided file2.csv,1168,80.60915966596237,79.01936988249811,combined
+User-provided file2.csv,User-provided file2.csv,1169,80.22834802856474,79.01936988249811,combined
+User-provided file2.csv,User-provided file2.csv,1170,79.47934645204737,82.8743606631362,combined
+User-provided file2.csv,User-provided file2.csv,1171,79.1695252937209,79.01936988249811,combined
+User-provided file2.csv,User-provided file2.csv,1172,78.56273942103394,79.01936988249811,combined
+User-provided file2.csv,User-provided file2.csv,1173,77.745838027831,79.01936988249811,combined
+User-provided file2.csv,User-provided file2.csv,1174,77.82450300167166,79.01936988249811,combined
+User-provided file2.csv,User-provided file2.csv,1175,76.93597424921839,79.01936988249811,combined
+User-provided file2.csv,User-provided file2.csv,1176,76.74479479586714,79.01936988249811,combined
+User-provided file2.csv,User-provided file2.csv,1177,76.58068730524711,79.01936988249811,combined
+User-provided file2.csv,User-provided file2.csv,1178,75.5415673629001,77.43542729906221,combined
+User-provided file2.csv,User-provided file2.csv,1179,75.60600502171572,79.01936988249811,combined
+User-provided file2.csv,User-provided file2.csv,1180,75.16329858819277,79.01936988249811,combined
+User-provided file2.csv,User-provided file2.csv,1181,74.59654808400497,77.43542729906221,combined
+User-provided file2.csv,User-provided file2.csv,1182,73.93927561533337,77.43542729906221,combined
+User-provided file2.csv,User-provided file2.csv,1183,73.52899623178489,77.43542729906221,combined
+User-provided file2.csv,User-provided file2.csv,1184,94.21728755949898,92.31997835039927,combined
+User-provided file2.csv,User-provided file2.csv,1185,93.21592454790427,91.64752370589929,combined
+User-provided file2.csv,User-provided file2.csv,1186,92.441995268171,91.13732253296955,combined
+User-provided file2.csv,User-provided file2.csv,1187,92.28512633474965,90.4940808809545,combined
+User-provided file2.csv,User-provided file2.csv,1188,91.77822439440595,91.69875334075793,combined
+User-provided file2.csv,User-provided file2.csv,1189,0.0,85.88593753837917,combined
+User-provided file2.csv,User-provided file2.csv,1190,91.32615479361789,88.92070333095407,combined
+User-provided file2.csv,User-provided file2.csv,1191,90.74607246790227,88.92070333095407,combined
+User-provided file2.csv,User-provided file2.csv,1192,90.29444178889977,88.2041055649296,combined
+User-provided file2.csv,User-provided file2.csv,1193,89.90626356789124,87.99979265548396,combined
+User-provided file2.csv,User-provided file2.csv,1194,89.78896608045554,87.84697691295084,combined
+User-provided file2.csv,User-provided file2.csv,1195,89.38495572552284,86.97937518565165,combined
+User-provided file2.csv,User-provided file2.csv,1196,88.95021035029265,86.97937518565165,combined
+User-provided file2.csv,User-provided file2.csv,1197,88.71321315766002,86.97937518565165,combined
+User-provided file2.csv,User-provided file2.csv,1198,88.28196628619823,86.97937518565165,combined
+User-provided file2.csv,User-provided file2.csv,1199,88.14627231319298,86.74433547651138,combined
+User-provided file2.csv,User-provided file2.csv,1200,87.69444721287297,86.74433547651138,combined
+User-provided file2.csv,User-provided file2.csv,1201,87.29198357790507,86.23743003164203,combined
+User-provided file2.csv,User-provided file2.csv,1202,86.86573330482925,84.44802103095874,combined
+User-provided file2.csv,User-provided file2.csv,1203,86.61860921241873,84.54331645955439,combined
+User-provided file2.csv,User-provided file2.csv,1204,87.68799633637684,84.50491841426388,combined
+User-provided file2.csv,User-provided file2.csv,1205,87.40160603414641,84.95492647582809,combined
+User-provided file2.csv,User-provided file2.csv,1206,86.90614760345109,84.50491841426388,combined
+User-provided file2.csv,User-provided file2.csv,1207,86.33648451482297,83.56923163177089,combined
+User-provided file2.csv,User-provided file2.csv,1208,86.00132278841158,83.56923163177089,combined
+User-provided file2.csv,User-provided file2.csv,1209,85.66982579545369,82.42163950789558,combined
+User-provided file2.csv,User-provided file2.csv,1210,85.4173701206723,83.56923163177089,combined
+User-provided file2.csv,User-provided file2.csv,1211,85.18720237812614,82.42163950789558,combined
+User-provided file2.csv,User-provided file2.csv,1212,84.7976850418579,82.42163950789558,combined
+User-provided file2.csv,User-provided file2.csv,1213,84.8042391306611,82.00550304739258,combined
+User-provided file2.csv,User-provided file2.csv,1214,84.16505126040191,82.00550304739258,combined
+User-provided file2.csv,User-provided file2.csv,1215,83.82626979933416,81.74335534585451,combined
+User-provided file2.csv,User-provided file2.csv,1216,83.54594184234972,81.61208250118072,combined
+User-provided file2.csv,User-provided file2.csv,1217,83.14436540513435,81.30655634501592,combined
+User-provided file2.csv,User-provided file2.csv,1218,82.45962526835217,81.1543899484732,combined
+User-provided file2.csv,User-provided file2.csv,1219,82.04709147806622,81.1543899484732,combined
+User-provided file2.csv,User-provided file2.csv,1220,82.05887622592795,79.5849691192281,combined
+User-provided file2.csv,User-provided file2.csv,1221,82.04663928557939,79.79946876923489,combined
+User-provided file2.csv,User-provided file2.csv,1222,81.65628715545571,79.5849691192281,combined
+User-provided file2.csv,User-provided file2.csv,1223,81.2113155281069,79.04526440163004,combined
+User-provided file2.csv,User-provided file2.csv,1224,80.78611436514707,79.04526440163004,combined
+User-provided file2.csv,User-provided file2.csv,1225,3.135535096199652,25.327070087586602,combined
+User-provided file2.csv,User-provided file2.csv,1226,3.142090594916913,25.327070087586602,combined
+User-provided file2.csv,User-provided file2.csv,1227,3.1497887260961104,25.327070087586602,combined
+User-provided file2.csv,User-provided file2.csv,1228,3.157945646105234,19.73597182041805,combined
+User-provided file2.csv,User-provided file2.csv,1229,3.690587636148488,19.73597182041805,combined
+User-provided file2.csv,User-provided file2.csv,1230,3.691533124019355,25.327070087586602,combined
+User-provided file2.csv,User-provided file2.csv,1231,3.700999639169875,25.327070087586602,combined
+User-provided file2.csv,User-provided file2.csv,1232,3.729607525550556,19.73597182041805,combined
+User-provided file2.csv,User-provided file2.csv,1233,3.7381656049621634,0.0,combined
+User-provided file2.csv,User-provided file2.csv,1234,3.7537822706706,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1235,3.7629203050008107,25.327070087586602,combined
+User-provided file2.csv,User-provided file2.csv,1236,3.7666196391082094,23.009187355867425,combined
+User-provided file2.csv,User-provided file2.csv,1237,3.7864333542855797,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1238,3.1085966549333466,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1239,3.803448894194039,19.73597182041805,combined
+User-provided file2.csv,User-provided file2.csv,1240,3.2503086936254637,25.327070087586602,combined
+User-provided file2.csv,User-provided file2.csv,1241,3.8242117183103197,18.363384826615214,combined
+User-provided file2.csv,User-provided file2.csv,1242,3.858174772254306,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1243,3.8638100431916946,18.363384826615214,combined
+User-provided file2.csv,User-provided file2.csv,1244,3.1816739410864643,25.327070087586602,combined
+User-provided file2.csv,User-provided file2.csv,1245,3.879461976009032,18.363384826615214,combined
+User-provided file2.csv,User-provided file2.csv,1246,3.1880384377580993,25.327070087586602,combined
+User-provided file2.csv,User-provided file2.csv,1247,3.919401039521005,0.0,combined
+User-provided file2.csv,User-provided file2.csv,1248,3.9289009908816146,0.0,combined
+User-provided file2.csv,User-provided file2.csv,1249,3.937698934093677,0.0,combined
+User-provided file2.csv,User-provided file2.csv,1250,3.9542174283972678,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1251,3.234805876114872,25.327070087586602,combined
+User-provided file2.csv,User-provided file2.csv,1252,3.9659037910638726,18.363384826615214,combined
+User-provided file2.csv,User-provided file2.csv,1253,3.9757897419444648,0.0,combined
+User-provided file2.csv,User-provided file2.csv,1254,3.264581608877884,25.327070087586602,combined
+User-provided file2.csv,User-provided file2.csv,1255,4.010233867211303,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1256,4.017066997895338,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1257,4.022639603950657,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1258,4.039339270635626,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1259,3.30445419111021,25.327070087586602,combined
+User-provided file2.csv,User-provided file2.csv,1260,4.05898349183717,25.327070087586602,combined
+User-provided file2.csv,User-provided file2.csv,1261,3.3257981242709858,25.327070087586602,combined
+User-provided file2.csv,User-provided file2.csv,1262,3.331779258033664,25.327070087586602,combined
+User-provided file2.csv,User-provided file2.csv,1263,3.3389467320935275,18.363384826615214,combined
+User-provided file2.csv,User-provided file2.csv,1264,3.3533585364464518,0.0,combined
+User-provided file2.csv,User-provided file2.csv,1265,3.360721434069278,6.294940384746895,combined
+User-provided file2.csv,User-provided file2.csv,1266,3.369560776979838,6.294940384746895,combined
+User-provided file2.csv,User-provided file2.csv,1267,3.3702230506338373,4.668279075446265,combined
+User-provided file2.csv,User-provided file2.csv,1268,3.3618870571106614,6.294940384746895,combined
+User-provided file2.csv,User-provided file2.csv,1269,3.3758359319104922,6.294940384746895,combined
+User-provided file2.csv,User-provided file2.csv,1270,3.3952106762333534,4.668279075446265,combined
+User-provided file2.csv,User-provided file2.csv,1271,83.84335277696596,93.26012591691168,combined
+User-provided file2.csv,User-provided file2.csv,1272,85.35436090585286,93.26012591691168,combined
+User-provided file2.csv,User-provided file2.csv,1273,84.81594864502074,93.26012591691168,combined
+User-provided file2.csv,User-provided file2.csv,1274,84.28916765159053,93.26012591691168,combined
+User-provided file2.csv,User-provided file2.csv,1275,83.30393400545204,93.26012591691168,combined
+User-provided file2.csv,User-provided file2.csv,1276,82.87659184130561,93.26012591691168,combined
+User-provided file2.csv,User-provided file2.csv,1277,81.89416214028378,93.26012591691168,combined
+User-provided file2.csv,User-provided file2.csv,1278,81.25913153912308,92.67223148527945,combined
+User-provided file2.csv,User-provided file2.csv,1279,80.81523427891236,92.67223148527945,combined
+User-provided file2.csv,User-provided file2.csv,1280,80.07628703387662,91.6850280926884,combined
+User-provided file2.csv,User-provided file2.csv,1281,79.49434424327691,90.87194524221452,combined
+User-provided file2.csv,User-provided file2.csv,1282,78.7581377241254,90.87194524221452,combined
+User-provided file2.csv,User-provided file2.csv,1283,78.05163209571813,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1284,77.03611632921867,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1285,76.21322987231174,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1286,76.09424622976434,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1287,75.05212057363835,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1288,74.8505784197193,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1289,74.27296153562791,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1290,73.02264527050997,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1291,72.88310804422444,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1292,72.25474652620466,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1293,71.48700572922878,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1294,70.81525850960656,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1295,70.19254343995432,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1296,92.71879601313059,91.8743102365264,combined
+User-provided file2.csv,User-provided file2.csv,1297,91.395798723407,90.69694835171107,combined
+User-provided file2.csv,User-provided file2.csv,1298,90.89773741367773,89.17171185875898,combined
+User-provided file2.csv,User-provided file2.csv,1299,90.44767542028089,88.7355524149432,combined
+User-provided file2.csv,User-provided file2.csv,1300,89.92262351516584,88.01465803777396,combined
+User-provided file2.csv,User-provided file2.csv,1301,0.0,87.99849954768673,combined
+User-provided file2.csv,User-provided file2.csv,1302,89.43404514894424,86.65919787572668,combined
+User-provided file2.csv,User-provided file2.csv,1303,88.84000369501625,86.65919787572668,combined
+User-provided file2.csv,User-provided file2.csv,1304,88.37992357303239,85.49726273007168,combined
+User-provided file2.csv,User-provided file2.csv,1305,87.98042247578952,85.49726273007168,combined
+User-provided file2.csv,User-provided file2.csv,1306,87.84485394639451,85.49726273007168,combined
+User-provided file2.csv,User-provided file2.csv,1307,87.4138918036287,84.31581077749767,combined
+User-provided file2.csv,User-provided file2.csv,1308,86.95209647083448,82.74638994825258,combined
+User-provided file2.csv,User-provided file2.csv,1309,86.3926868222462,82.74638994825258,combined
+User-provided file2.csv,User-provided file2.csv,1310,85.93996687647206,82.74638994825258,combined
+User-provided file2.csv,User-provided file2.csv,1311,85.80014807513604,82.74638994825258,combined
+User-provided file2.csv,User-provided file2.csv,1312,85.34445363232899,82.74638994825258,combined
+User-provided file2.csv,User-provided file2.csv,1313,84.90852996880176,82.03517159393759,combined
+User-provided file2.csv,User-provided file2.csv,1314,84.47415443554685,81.82808938573832,combined
+User-provided file2.csv,User-provided file2.csv,1315,84.15350304089812,81.60362095756032,combined
+User-provided file2.csv,User-provided file2.csv,1316,84.95160496708782,82.53930774005332,combined
+User-provided file2.csv,User-provided file2.csv,1317,84.6476766960511,82.53930774005332,combined
+User-provided file2.csv,User-provided file2.csv,1318,84.14306421074483,82.53930774005332,combined
+User-provided file2.csv,User-provided file2.csv,1319,83.56239520898198,81.60362095756032,combined
+User-provided file2.csv,User-provided file2.csv,1320,83.2154639541912,81.60362095756032,combined
+User-provided file2.csv,User-provided file2.csv,1321,82.53508092407834,80.01313001856576,combined
+User-provided file2.csv,User-provided file2.csv,1322,82.59525089850982,81.11755364257516,combined
+User-provided file2.csv,User-provided file2.csv,1323,82.35962513512376,79.96996151869985,combined
+User-provided file2.csv,User-provided file2.csv,1324,81.950531910117,79.96996151869985,combined
+User-provided file2.csv,User-provided file2.csv,1325,81.6065415823171,79.59699355806276,combined
+User-provided file2.csv,User-provided file2.csv,1326,80.95425039141412,78.24687925751937,combined
+User-provided file2.csv,User-provided file2.csv,1327,80.6124492046387,78.63785459180421,combined
+User-provided file2.csv,User-provided file2.csv,1328,80.6572498014105,78.24687925751937,combined
+User-provided file2.csv,User-provided file2.csv,1329,80.23151687873037,77.66422304126196,combined
+User-provided file2.csv,User-provided file2.csv,1330,79.5390494752135,77.51205664471924,combined
+User-provided file2.csv,User-provided file2.csv,1331,79.11445985102733,77.51205664471924,combined
+User-provided file2.csv,User-provided file2.csv,1332,79.11018649918432,76.84013300177585,combined
+User-provided file2.csv,User-provided file2.csv,1333,79.08987954397281,76.62250598704605,combined
+User-provided file2.csv,User-provided file2.csv,1334,78.68972589163201,76.62250598704605,combined
+User-provided file2.csv,User-provided file2.csv,1335,78.22967544622065,75.57586001539765,combined
+User-provided file2.csv,User-provided file2.csv,1336,77.7921896766949,75.3706963890171,combined
+User-provided file2.csv,User-provided file2.csv,1337,3.14558914796152,32.956521840960086,combined
+User-provided file2.csv,User-provided file2.csv,1338,3.153366961307106,32.956521840960086,combined
+User-provided file2.csv,User-provided file2.csv,1339,3.160960739888129,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1340,3.1683282481979775,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1341,3.0301194246441843,32.956521840960086,combined
+User-provided file2.csv,User-provided file2.csv,1342,3.7058122869829258,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1343,3.714614000004625,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1344,3.058728889399721,32.956521840960086,combined
+User-provided file2.csv,User-provided file2.csv,1345,3.7507157677400498,2.2677564359912425,combined
+User-provided file2.csv,User-provided file2.csv,1346,3.0815518803588255,32.956521840960086,combined
+User-provided file2.csv,User-provided file2.csv,1347,3.7758876482548525,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1348,3.7794804668088022,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1349,3.1069478957232124,32.956521840960086,combined
+User-provided file2.csv,User-provided file2.csv,1350,3.11896970689144,32.956521840960086,combined
+User-provided file2.csv,User-provided file2.csv,1351,3.816084847643111,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1352,3.2610608318403465,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1353,3.8382785762986553,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1354,3.1591726627350005,32.956521840960086,combined
+User-provided file2.csv,User-provided file2.csv,1355,3.877898358754392,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1356,3.191625653249867,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1357,3.894510869508836,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1358,3.1980675249294626,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1359,3.2053970091046184,25.327070087586602,combined
+User-provided file2.csv,User-provided file2.csv,1360,3.2136857495651117,25.327070087586602,combined
+User-provided file2.csv,User-provided file2.csv,1361,3.223248005697194,23.009187355867425,combined
+User-provided file2.csv,User-provided file2.csv,1362,3.238117482522276,32.956521840960086,combined
+User-provided file2.csv,User-provided file2.csv,1363,3.2471525400130985,32.956521840960086,combined
+User-provided file2.csv,User-provided file2.csv,1364,3.9805970113838054,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1365,3.988872506687019,0.0,combined
+User-provided file2.csv,User-provided file2.csv,1366,3.276155401366834,32.956521840960086,combined
+User-provided file2.csv,User-provided file2.csv,1367,4.025198688960066,25.327070087586602,combined
+User-provided file2.csv,User-provided file2.csv,1368,3.289832308422468,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1369,4.037644223917977,25.327070087586602,combined
+User-provided file2.csv,User-provided file2.csv,1370,4.053803135606166,25.327070087586602,combined
+User-provided file2.csv,User-provided file2.csv,1371,3.3163372444247643,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1372,4.073524409088549,25.327070087586602,combined
+User-provided file2.csv,User-provided file2.csv,1373,3.337999283536481,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1374,3.3441176836145994,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1375,3.3496374142868137,33.09707366787933,combined
+User-provided file2.csv,User-provided file2.csv,1376,3.3656653411847923,23.009187355867425,combined
+User-provided file2.csv,User-provided file2.csv,1377,3.372063938566374,6.294940384746895,combined
+User-provided file2.csv,User-provided file2.csv,1378,3.381158113639719,6.294940384746895,combined
+User-provided file2.csv,User-provided file2.csv,1379,3.3834368574983023,6.294940384746895,combined
+User-provided file2.csv,User-provided file2.csv,1380,3.3737960827771083,6.294940384746895,combined
+User-provided file2.csv,User-provided file2.csv,1381,3.388377199960816,6.294940384746895,combined
+User-provided file2.csv,User-provided file2.csv,1382,3.4074826443720543,6.294940384746895,combined
+User-provided file2.csv,User-provided file2.csv,1383,81.25459962455494,91.71594826753406,combined
+User-provided file2.csv,User-provided file2.csv,1384,82.14105926632742,91.51163535808841,combined
+User-provided file2.csv,User-provided file2.csv,1385,81.80504180179824,91.51163535808841,combined
+User-provided file2.csv,User-provided file2.csv,1386,81.08078726310293,91.51163535808841,combined
+User-provided file2.csv,User-provided file2.csv,1387,80.28934662131559,91.51163535808841,combined
+User-provided file2.csv,User-provided file2.csv,1388,79.84640527512681,91.51163535808841,combined
+User-provided file2.csv,User-provided file2.csv,1389,79.22638606457295,91.51163535808841,combined
+User-provided file2.csv,User-provided file2.csv,1390,78.61794829179779,91.51163535808841,combined
+User-provided file2.csv,User-provided file2.csv,1391,77.73325444267275,91.51163535808841,combined
+User-provided file2.csv,User-provided file2.csv,1392,76.81644096632606,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1393,76.22659221744665,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1394,75.45350459883339,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1395,74.7599260831643,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1396,74.14495915236091,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1397,73.30671214778145,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1398,73.60102264435255,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1399,72.31198054586928,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1400,72.73151988546677,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1401,71.9473294577081,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1402,70.9055744424384,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1403,70.95325535452078,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1404,70.10573463017803,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1405,69.74322916920201,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1406,69.08179553807265,90.59020904327829,combined
+User-provided file2.csv,User-provided file2.csv,1407,68.64470456917344,90.59020904327829,combined
